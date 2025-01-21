@@ -44,7 +44,7 @@ First, navigate to the project root folder and execute the following command:
 ```
 Then visit the [Dagster UI](http://localhost:3000/) to view the data lineage and materialize the tables.
 
-Note: assets.py script responsible for creating assets can be found in PATH: `airbnb/assets.py`
+**Note:** assets.py script responsible for creating assets can be found in PATH: `airbnb/assets.py`
 
 ### Test the assets for data quality
 
