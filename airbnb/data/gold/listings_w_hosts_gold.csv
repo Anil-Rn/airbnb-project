@@ -1,0 +1,774 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+23738636,Cozy room in heart of Neukölln,Private room,2,40.0,69422661,Branislav,f,2025-01-19 23:34:46+00:00,2025-01-19 23:34:46
+5220557,Huge one room apartment,Private room,1,38.0,11418916,Nile,f,2025-01-19 23:19:27+00:00,2025-01-19 23:19:27
+49300475,SCHOENHOUSE by limehome - Standard Suite,Entire home/apt,1,159.0,390059085,,,2025-01-19 22:54:10+00:00,2025-01-19 22:54:10
+42697557,"Studio ""Spicy Wasabi"", 34 qm",Entire home/apt,4,134.0,335573202,,,2025-01-19 22:28:03+00:00,2025-01-19 22:28:03
+19205574,Room in the heart of Neukölln,Private room,2,35.0,134377307,Anita,f,2025-01-19 22:07:55+00:00,2025-01-19 22:07:55
+11251014,Let the sun shine in!,Entire home/apt,90,50.0,58699640,,,2025-01-19 21:32:23+00:00,2025-01-19 21:32:23
+48483249,NEU! 165 sqm designer flat in Schöneberg,Entire home/apt,20,170.0,7688174,Tamara,f,2025-01-19 21:15:17+00:00,2025-01-19 21:15:17
+42300875,studio apartment not far from the city center,Entire home/apt,30,30.0,184661493,Rina Neg,f,2025-01-19 21:04:26+00:00,2025-01-19 21:04:26
+9732185,Modern apartment close to Ku'damm,Entire home/apt,5,70.0,2587611,Klaus,f,2025-01-19 20:20:23+00:00,2025-01-19 20:20:23
+4146871,Lovely Berliner Zimmer with en suite bathroom,Private room,2,35.0,1019199,Saskia,f,2025-01-19 20:12:43+00:00,2025-01-19 20:12:43
+36541436,Sailing boat with option to sail + sleep + anchor,Entire home/apt,1,189.0,274694797,Yen,f,2025-01-19 19:59:38+00:00,2025-01-19 19:59:38
+22576334,Mitten im geilsten Kiez Berlins,Entire home/apt,1,57.0,165957729,Jannick,f,2025-01-19 19:56:52+00:00,2025-01-19 19:56:52
+42871839,"Bright, central, and quiet  in Friedrichshain",Private room,14,29.0,195006466,Yanina,f,2025-01-19 19:10:44+00:00,2025-01-19 19:10:44
+29380447,Bright room with a view in the centre of Berlin,Private room,10,49.0,63463003,Friederike,f,2025-01-19 19:08:45+00:00,2025-01-19 19:08:45
+42420636,Komfort Zimmer im Hotel Brandies Berlin nahe Messe,Private room,1,101.0,337659501,,,2025-01-19 18:58:17+00:00,2025-01-19 18:58:17
+44192332,Beautiful elegant apartment- Ludwig Hoffmann Park,Entire home/apt,30,100.0,67500313,,,2025-01-19 18:43:20+00:00,2025-01-19 18:43:20
+36731204,Very Beautiful Very Cosy Flat in Great Location !,Entire home/apt,25,40.0,275339948,,,2025-01-19 18:34:18+00:00,2025-01-19 18:34:18
+29222774,*NEW* sunny & spacious in the heart of Kreuzberg,Entire home/apt,14,105.0,11459975,Oliver & Anja,f,2025-01-19 18:33:41+00:00,2025-01-19 18:33:41
+49591816,Pension im Grünen Reinickendorf Berlin,Entire home/apt,2,150.0,399844037,,,2025-01-19 18:26:51+00:00,2025-01-19 18:26:51
+12659244,Sunny room,Private room,1,35.0,467817,Andreas,f,2025-01-19 18:03:51+00:00,2025-01-19 18:03:51
+44701277,Ferienhaus für 6 Gäste mit 130m² in Berlin (145064),Entire home/apt,1,183.0,252498808,,,2025-01-19 17:58:54+00:00,2025-01-19 17:58:54
+16536427,Apartment Blau,Entire home/apt,60,34.0,5245778,,,2025-01-19 17:38:54+00:00,2025-01-19 17:38:54
+5246120,all included,Entire home/apt,1,60.0,27150766,Tomer,f,2025-01-19 17:22:58+00:00,2025-01-19 17:22:58
+37928180,7 и более человек в квартире в центре Берлина.,Entire home/apt,3,133.0,125341008,,,2025-01-19 17:19:04+00:00,2025-01-19 17:19:04
+11222384,22qm Zimmer im wundervollen Wedding,Private room,1,12.0,58474737,Jonas,f,2025-01-19 17:01:19+00:00,2025-01-19 17:01:19
+11115298,"Bright, spacious room in beautiful quiet apartment",Private room,4,55.0,12800691,,,2025-01-19 16:55:32+00:00,2025-01-19 16:55:32
+31708079,Apartment Berlin north (20 minutes to the center),Entire home/apt,2,39.0,48273473,Marcel,f,2025-01-19 16:52:09+00:00,2025-01-19 16:52:09
+3814770,In the heart of Kreuzberg,Private room,1,40.0,19614775,Emre,f,2025-01-19 16:49:41+00:00,2025-01-19 16:49:41
+52200232,2 Zimmer Altbau Apartment,Entire home/apt,2,65.0,21502676,Melanie,f,2025-01-19 16:40:45+00:00,2025-01-19 16:40:45
+7767411,Mauerpark: Helles Zimmer mit Balkon,Private room,5,39.0,7846233,Dustin,f,2025-01-19 16:39:42+00:00,2025-01-19 16:39:42
+4584283,Townhouse in Berlin mitte,Entire home/apt,90,180.0,716475,Hanya,f,2025-01-19 16:16:37+00:00,2025-01-19 16:16:37
+20062316,Small cosy room with high sleeper bed in Mitte,Private room,4,18.0,142575003,Marlene,f,2025-01-19 16:15:44+00:00,2025-01-19 16:15:44
+42341850,792 LUX 1 BEDROOM APARTMENT WITH TERRACE IN MITTE,Entire home/apt,3,180.0,96302855,,,2025-01-19 16:14:16+00:00,2025-01-19 16:14:16
+39630178,cozy roof top apt in the pulsing heart of Neukölln,Entire home/apt,1,90.0,259418649,Anna,f,2025-01-19 15:57:30+00:00,2025-01-19 15:57:30
+650784,Beautiful Room in Neukölln,Private room,20,20.0,3268804,Courtney,f,2025-01-19 15:50:37+00:00,2025-01-19 15:50:37
+43992253,Wunderschöne 2-Zimmer Wohnung (&Balkon) Kreuzberg,Entire home/apt,7,50.0,11126428,Farah,f,2025-01-19 15:43:56+00:00,2025-01-19 15:43:56
+7375010,H,Entire home/apt,2,25.0,38636780,Nicole,f,2025-01-19 15:32:14+00:00,2025-01-19 15:32:14
+30334710,Nice apartment in the centre of Berlin,Entire home/apt,3,60.0,12757920,Karim,f,2025-01-19 15:05:26+00:00,2025-01-19 15:05:26
+5046962,Beautiful Apartment in Berlin,Entire home/apt,6,50.0,25504810,Nina,f,2025-01-19 15:04:07+00:00,2025-01-19 15:04:07
+12138993,Bright 3-room flat in Prenzlauer Berg,Entire home/apt,92,65.0,1325279,Monique,f,2025-01-19 14:51:14+00:00,2025-01-19 14:51:14
+41700038,Sunny 2-room flat w/Balcony Bergmannkiez/Kreuzberg,Entire home/apt,30,70.0,1819213,Eva,f,2025-01-19 14:14:14+00:00,2025-01-19 14:14:14
+45374942,Gitschiner apartment with Balcony,Entire home/apt,7,89.0,116235283,Levan,f,2025-01-19 13:56:06+00:00,2025-01-19 13:56:06
+36165198,Kiez Box 1 All,Private room,2,460.0,271993354,,,2025-01-19 13:34:36+00:00,2025-01-19 13:34:36
+39840556,"Pivate Room, 1 Bed (140) (Privatzimmer, 1 Bett)",Private room,2,50.0,306477150,Mathis,f,2025-01-19 13:27:49+00:00,2025-01-19 13:27:49
+8033018,Beautiful Apartment Prenzlauer Berg,Entire home/apt,7,50.0,26813578,Tamara,f,2025-01-19 13:25:07+00:00,2025-01-19 13:25:07
+50714973,Stylish Apartment in Prenzlauer Berg,Entire home/apt,92,47.0,154077755,,,2025-01-19 13:24:42+00:00,2025-01-19 13:24:42
+42805923,Large - Family - Room,Private room,1,999.0,90186621,,,2025-01-19 13:19:37+00:00,2025-01-19 13:19:37
+8029943,Cosy flat with beautiful garden,Entire home/apt,14,50.0,40070030,Wanja,f,2025-01-19 13:16:55+00:00,2025-01-19 13:16:55
+52330739,"Komfortables Appartment am Kurfürstendamm, 40m2",Entire home/apt,10,65.0,13776840,,,2025-01-19 13:06:51+00:00,2025-01-19 13:06:51
+14498910,Schönes WG-Zimmer in Moabit,Private room,1,15.0,89520978,Jonas,f,2025-01-19 12:54:52+00:00,2025-01-19 12:54:52
+2364544,Airbnb Apartment,Entire home/apt,7,50.0,4920909,Timm,f,2025-01-19 12:50:45+00:00,2025-01-19 12:50:45
+42571125,Enjoy your stay,Entire home/apt,1,59.0,152414341,Hesham,f,2025-01-19 12:45:44+00:00,2025-01-19 12:45:44
+43083200,Entspannen im Grünen 🌿🌳,Private room,2,20.0,85337726,Jill,f,2025-01-19 12:41:30+00:00,2025-01-19 12:41:30
+48353696,Large rooftop room with bathroom kitchen & terrace,Private room,4,56.0,1915791,Andrei,f,2025-01-19 11:52:26+00:00,2025-01-19 11:52:26
+42270152,Bei mir kannst du nichts falsch machen!,Entire home/apt,14,80.0,335854085,Sainab,f,2025-01-19 11:37:15+00:00,2025-01-19 11:37:15
+35824828,Schönes WG-Zimmer am Lietzensee in Charlottenburg.,Entire home/apt,1,40.0,86087723,Luca,f,2025-01-19 11:33:38+00:00,2025-01-19 11:33:38
+17993203,Loft in central berlin with south balcony,Private room,14,69.0,9110422,Anja,f,2025-01-19 11:28:12+00:00,2025-01-19 11:28:12
+50585895,Beautiful and quiet apartment in Charlottenburg,Entire home/apt,90,70.0,2412944,Magdalena,f,2025-01-19 11:23:17+00:00,2025-01-19 11:23:17
+7824963,Berliner Kiez Wohnung Altbau,Entire home/apt,1,50.0,41199304,Berit,f,2025-01-19 11:21:50+00:00,2025-01-19 11:21:50
+42633611,"2-Raum Apartment ""City Nature"", 51 qm",Entire home/apt,15,211.0,210700814,,,2025-01-19 11:16:22+00:00,2025-01-19 11:16:22
+41061299,Schöne Berliner Altbauwohnung in Charlottenburg,Entire home/apt,4,76.0,150288766,Patrick,f,2025-01-19 11:15:55+00:00,2025-01-19 11:15:55
+40946817,Very cosy & quiet apartment in the city centre,Entire home/apt,6,120.0,319033463,Anian,f,2025-01-19 11:15:53+00:00,2025-01-19 11:15:53
+7466821,shared room,Shared room,1,70.0,39102959,Manuela,f,2025-01-19 11:15:21+00:00,2025-01-19 11:15:21
+4314353,stylish ap. @Xberg with lakeview,Shared room,355,45.0,21239469,Stefan,f,2025-01-19 10:57:09+00:00,2025-01-19 10:57:09
+51356485,Renovated Family Apartment in Warschauer Straße,Entire home/apt,1,154.0,371901575,,,2025-01-19 10:56:20+00:00,2025-01-19 10:56:20
+23066511,ein schönes Zimmer im Herzen Prenzlbergs,Private room,3,50.0,21239559,Tobias,f,2025-01-19 10:50:46+00:00,2025-01-19 10:50:46
+9956966,Sweet Bed inside DDRstyle Apartment,Shared room,1,12.0,19336587,Ayu,f,2025-01-19 10:50:12+00:00,2025-01-19 10:50:12
+42111391,Sunny flat in the heart of Bergmannkiez !,Entire home/apt,6,55.0,95407160,Marine,f,2025-01-19 10:49:16+00:00,2025-01-19 10:49:16
+44455843,Cozy room in a charming shared flat,Private room,3,35.0,22921735,,,2025-01-19 10:45:25+00:00,2025-01-19 10:45:25
+10069929,Bright double room in Berlin,Private room,1,25.0,51671248,Layla,f,2025-01-19 10:43:04+00:00,2025-01-19 10:43:04
+26187036,Axel Junior Suite at Axel Hotel Berlin,Hotel room,1,170.0,98159395,,,2025-01-19 10:41:09+00:00,2025-01-19 10:41:09
+39248495,Great location with a lot of sunlight,Entire home/apt,3,130.0,43935521,Johannes,f,2025-01-19 10:36:19+00:00,2025-01-19 10:36:19
+8676968,Ruhiges Landhauserdgeschoss,Entire home/apt,1,58.0,45572867,Martin,f,2025-01-19 10:31:16+00:00,2025-01-19 10:31:16
+41307095,70sqm in Berlin Mitte: Newly furnished apartment,Entire home/apt,7,45.0,18238569,Max,f,2025-01-19 10:23:22+00:00,2025-01-19 10:23:22
+36011170,"CHIC, SPACIOUS APARTMENT IN PEACEFUL NEIGHBORHOOD",Entire home/apt,2,141.0,270932564,Ester,f,2025-01-19 10:19:19+00:00,2025-01-19 10:19:19
+39492370,"Apartment in Berlin,Lichterfelde West",Entire home/apt,1,69.0,72766229,Oliver,f,2025-01-19 10:13:43+00:00,2025-01-19 10:13:43
+13517557,Renovated apartment in the center,Entire home/apt,1,413.0,77631123,Feng,f,2025-01-19 10:07:15+00:00,2025-01-19 10:07:15
+44549170,Little gem in the heart of Berlin,Entire home/apt,7,50.0,210979600,Zejna,f,2025-01-19 10:03:23+00:00,2025-01-19 10:03:23
+7136371,Spacious and cosy flat in Kreuzberg,Entire home/apt,7,75.0,3410903,Theodor,f,2025-01-19 09:39:47+00:00,2025-01-19 09:39:47
+21621006,17m² quiet room in central kreuzberg,Private room,1,29.0,82245405,Klemens,f,2025-01-19 09:26:53+00:00,2025-01-19 09:26:53
+19689677,Comfy east side,Entire home/apt,1,50.0,138694757,Jenny,f,2025-01-19 09:26:31+00:00,2025-01-19 09:26:31
+46719329,"2-Raum Penthouse, 59 qm, Longstay (1-6 months)",Entire home/apt,29,125.0,210700814,,,2025-01-19 08:54:10+00:00,2025-01-19 08:54:10
+22118984,Cosy room to stay,Private room,3,15.0,149151975,Rita,f,2025-01-19 08:39:45+00:00,2025-01-19 08:39:45
+11865663,Sonniges Zimmer in cooler 2-er WG,Private room,1,20.0,63252838,Lukas,f,2025-01-19 08:25:35+00:00,2025-01-19 08:25:35
+19473299,Cosy room in green area,Private room,1,24.0,21611073,,,2025-01-19 08:21:29+00:00,2025-01-19 08:21:29
+9874953,Modern Flat near Potsdamer Platz,Entire home/apt,1,160.0,50814368,Nino,f,2025-01-19 08:07:24+00:00,2025-01-19 08:07:24
+44346533,"möbliertes Zimmer, Bad und Küche in Berlin-Mitte",Private room,60,26.0,185127873,Angela,f,2025-01-19 08:03:37+00:00,2025-01-19 08:03:37
+52821218,Cosy 3BR 2BTH +A/C +Self Check-In +Street Parking,Entire home/apt,1,119.0,125847915,,,2025-01-19 07:46:01+00:00,2025-01-19 07:46:01
+52709676,Berlin Rathenauer Platz,Entire home/apt,2,101.0,332515272,Torsten,f,2025-01-19 07:38:45+00:00,2025-01-19 07:38:45
+7341721,"Top location apartment 5, Ostkreuz",Private room,1,40.0,19297176,Danny,f,2025-01-19 07:33:13+00:00,2025-01-19 07:33:13
+37584556,Cozy room in Kreuzberg,Private room,3,33.0,78396686,Samira,f,2025-01-19 07:04:54+00:00,2025-01-19 07:04:54
+43129947,1 zimmer apartment im Berlin,Entire home/apt,1,17.0,343362459,Rohan,f,2025-01-19 07:03:24+00:00,2025-01-19 07:03:24
+40904538,Gemütliches Zimmer im Zentrum Berlins,Private room,3,85.0,42476536,Gesine,f,2025-01-19 07:02:44+00:00,2025-01-19 07:02:44
+52292663,1 bedroom Apartment at the heart of Bergmannkiez,Entire home/apt,12,50.0,3776656,Florian,f,2025-01-19 06:45:18+00:00,2025-01-19 06:45:18
+32444799,Beautiful room Central Berlin,Private room,4,60.0,183729511,Philipp,f,2025-01-19 06:36:17+00:00,2025-01-19 06:36:17
+18358079,calm and nice flat in spandau,Private room,1,35.0,126621397,Samir,f,2025-01-19 06:12:28+00:00,2025-01-19 06:12:28
+52377186,NuWave Hotel Berlin - Classic Triple Room,Private room,1,127.0,421557030,,,2025-01-19 06:10:25+00:00,2025-01-19 06:10:25
+42033637,Gemütliches Zuhause in Berlin Pankow,Entire home/apt,7,35.0,333116165,Stephanie,f,2025-01-19 05:44:20+00:00,2025-01-19 05:44:20
+16465773,Gemütliche Wohnung nähe Schloss Charlottenburg,Entire home/apt,3,99.0,89268468,Renan,f,2025-01-19 05:21:16+00:00,2025-01-19 05:21:16
+45068810,Schöne 2-Zimmer Wohnung in Berlin,Entire home/apt,5,33.0,363700882,Maike,f,2025-01-19 05:10:32+00:00,2025-01-19 05:10:32
+46719436,"4-Raum Penthouse, 147 qm, Longstay (1-6 months)",Entire home/apt,29,313.0,210700814,,,2025-01-19 04:39:16+00:00,2025-01-19 04:39:16
+4929901,Cosy one room apartment in Neukölln (4 people),Entire home/apt,1,35.0,25395752,Vatti,f,2025-01-19 03:21:57+00:00,2025-01-19 03:21:57
+43568803,Altbau Studio Oasis in the Heart of Schöneberg,Entire home/apt,5,62.0,35594166,,,2025-01-19 02:18:19+00:00,2025-01-19 02:18:19
+6241243,Large sunny room in Kreuzberg,Private room,3,30.0,32052575,Paola,f,2025-01-19 02:09:13+00:00,2025-01-19 02:09:13
+43412876,Tolle 2 Zi Wohnung in begehrter Lage,Entire home/apt,90,50.0,345964111,Kristian,f,2025-01-19 02:04:51+00:00,2025-01-19 02:04:51
+47534144,Charming  Apartment,Entire home/apt,92,40.0,245134540,,,2025-01-19 01:42:21+00:00,2025-01-19 01:42:21
+9297443,Large room in vibrant Sprengelkiez,Private room,8,13.0,48268160,Reini,f,2025-01-19 01:15:38+00:00,2025-01-19 01:15:38
+25039925,Charming Apartment near Mauerpark,Entire home/apt,3,110.0,131496623,Alexia,f,2025-01-19 01:14:33+00:00,2025-01-19 01:14:33
+35559289,120 qm Apartment w/balcony in beautiful Zehlendorf,Entire home/apt,30,45.0,71365406,Audrey,f,2025-01-19 00:51:08+00:00,2025-01-19 00:51:08
+42750190,"Luxurious, sunny and large Coolness in Kreuzberg",Entire home/apt,2,200.0,9139634,Pamela,f,2025-01-19 00:43:34+00:00,2025-01-19 00:43:34
+45666076,Lachmannstraße. 3,Entire home/apt,3,99.0,369958333,Andreas,f,2025-01-19 00:36:46+00:00,2025-01-19 00:36:46
+8021361,Cheap Room in Berlin,Private room,1,9.0,42350439,Jessy,f,2025-01-19 00:35:49+00:00,2025-01-19 00:35:49
+50558596,Chill in Center of the City,Entire home/apt,1,80.0,277979335,Nicolas,f,2025-01-19 00:34:26+00:00,2025-01-19 00:34:26
+18893546,cosy and peaceful room in the center of Berlin,Private room,1,43.0,131658946,Valentine,f,2025-01-19 00:25:27+00:00,2025-01-19 00:25:27
+7687245,Spacious Berlin City Apartment,Entire home/apt,3,75.0,7775858,Jonas,f,2025-01-18 23:48:06+00:00,2025-01-18 23:48:06
+43696722,Renovated Historical Place in Kastanienallee,Private room,5,30.0,57963738,Erguven,f,2025-01-18 23:42:42+00:00,2025-01-18 23:42:42
+39519638,"Beautifully furnished , light-flooded apartment",Entire home/apt,93,65.0,43917936,Stefanie,f,2025-01-18 23:42:18+00:00,2025-01-18 23:42:18
+23158760,Beautiful and big room with balcony in Neukölln,Private room,2,25.0,112840196,Zoe,f,2025-01-18 23:41:31+00:00,2025-01-18 23:41:31
+12625592,Central Berlin Apartment,Entire home/apt,1,60.0,68548589,George,f,2025-01-18 23:19:00+00:00,2025-01-18 23:19:00
+22770493,Schöne 1 Zimmer Wohnung in Friedrichshain.,Entire home/apt,7,48.0,141289136,Melouka,f,2025-01-18 23:18:58+00:00,2025-01-18 23:18:58
+44219012,Beautiful two-bedroom apartment in Spandau,Entire home/apt,60,45.0,271235180,,,2025-01-18 22:55:10+00:00,2025-01-18 22:55:10
+7851334,The room of the rising sun,Private room,4,20.0,41296382,Federico,f,2025-01-18 22:42:35+00:00,2025-01-18 22:42:35
+49012266,Extravagant hotel room for 4 central to Subway,Private room,14,66.0,108025548,,,2025-01-18 22:35:01+00:00,2025-01-18 22:35:01
+33772661,Dachterrassenwhg im Herzen Berlin-Charlottenburgs,Entire home/apt,91,73.0,215514794,Britta,t,2025-01-18 22:28:15+00:00,2025-01-18 22:28:15
+22557460,"Beautiful and cozy room, 10 min from the center",Private room,1,26.0,3208719,Reshef,f,2025-01-18 22:26:42+00:00,2025-01-18 22:26:42
+44264891,Dreibettzimmer,Private room,1,70.0,304493323,,,2025-01-18 22:10:48+00:00,2025-01-18 22:10:48
+41280697,Fantastic flat in the heart of Prenzlauer Berg,Entire home/apt,60,70.0,42399854,Leni,f,2025-01-18 21:52:04+00:00,2025-01-18 21:52:04
+44974395,the bunny nest,Entire home/apt,5,80.0,351093370,Peter,f,2025-01-18 21:39:34+00:00,2025-01-18 21:39:34
+1862730,Apartment in Berlin,Entire home/apt,7,40.0,9715630,Annette,f,2025-01-18 21:06:48+00:00,2025-01-18 21:06:48
+21410085,Cosy bedroom in Wedding (good connections to city),Private room,4,28.0,123547522,Richard,f,2025-01-18 21:02:03+00:00,2025-01-18 21:02:03
+38370141,"Lovely furnitured, calm and light apartment",Entire home/apt,2,129.0,12906416,Charlotte,f,2025-01-18 20:35:27+00:00,2025-01-18 20:35:27
+48602039,One Room Apartment,Entire home/apt,7,25.0,235188041,Pedram,f,2025-01-18 20:31:48+00:00,2025-01-18 20:31:48
+32493376,Bright and friendly room in a beautiful area:),Private room,1,60.0,35146426,Clara,f,2025-01-18 19:18:22+00:00,2025-01-18 19:18:22
+40440916,Sunny & Spacious Flat in Kastanienallee,Entire home/apt,365,85.0,3743292,Marcelo,f,2025-01-18 19:10:07+00:00,2025-01-18 19:10:07
+30686711,Lovely Studio for one month,Entire home/apt,30,18.0,70162844,Ebram,f,2025-01-18 19:09:00+00:00,2025-01-18 19:09:00
+22060183,Best area best preis! Cat included!!,Entire home/apt,1,20.0,21039758,Valentina,f,2025-01-18 18:33:06+00:00,2025-01-18 18:33:06
+7935870,Moabiter Schlummermutter,Shared room,1,59.0,41848444,Amandara M.,f,2025-01-18 18:20:26+00:00,2025-01-18 18:20:26
+16424150,Nice and cosy flat in Kreuzberg!,Entire home/apt,3,55.0,30338608,Maria,f,2025-01-18 17:54:51+00:00,2025-01-18 17:54:51
+24627537,Cozy west Berlin Altbau in Charlottenburg,Entire home/apt,1,45.0,1095067,Josh,f,2025-01-18 17:48:59+00:00,2025-01-18 17:48:59
+44411065,Berlin home directly in Hasenheide park,Private room,7,45.0,159614605,Carlos,f,2025-01-18 17:41:26+00:00,2025-01-18 17:41:26
+9485145,Nice Berlin Apartment,Entire home/apt,1,135.0,12895544,Alexandra,f,2025-01-18 17:38:16+00:00,2025-01-18 17:38:16
+48997107,Comfy&cozy hotel room for 3 central to subway,Private room,14,71.0,108025548,,,2025-01-18 17:23:05+00:00,2025-01-18 17:23:05
+12035953,Big Apartment near Tegel,Entire home/apt,60,42.0,18046938,,,2025-01-18 16:56:37+00:00,2025-01-18 16:56:37
+5157203,Neukölln!!!,Entire home/apt,1,40.0,25561949,Frank,f,2025-01-18 16:37:25+00:00,2025-01-18 16:37:25
+51415401,"Doppelzimmer ""Medium Twin"" Mit 2 Einzelbetten",Private room,1,190.0,415771368,,,2025-01-18 16:35:11+00:00,2025-01-18 16:35:11
+21214782,Schlafen an der Spree,Entire home/apt,5,35.0,152068633,Philipp,f,2025-01-18 16:32:43+00:00,2025-01-18 16:32:43
+51445317,Cozy & Beautiful Room in Neukölln,Private room,2,85.0,80482488,Sonja,f,2025-01-18 16:21:52+00:00,2025-01-18 16:21:52
+41430587,Micoswohnung,Private room,1,80.0,325856414,Markus,f,2025-01-18 16:09:19+00:00,2025-01-18 16:09:19
+4621461,Kreuzberg 19th century flat,Private room,2,50.0,23937038,Simon,f,2025-01-18 16:07:25+00:00,2025-01-18 16:07:25
+20109087,Amazing home in Berlin-Köpenick with Sauna and 2 Bedrooms,Entire home/apt,28,84.0,141539959,,,2025-01-18 15:51:57+00:00,2025-01-18 15:51:57
+17453626,Cosy bright colourful apartment,Entire home/apt,6,25.0,7133966,Vandana,f,2025-01-18 15:40:54+00:00,2025-01-18 15:40:54
+12468108,"1,5 Zimmer Wohung in Kreuzberg",Entire home/apt,7,39.0,62304690,Arne,f,2025-01-18 15:32:03+00:00,2025-01-18 15:32:03
+29847365,Great cozy Berlin room with two floors and balkony,Private room,2,70.0,3432145,Moritz,f,2025-01-18 15:15:45+00:00,2025-01-18 15:15:45
+38994025,Luxury modern loft close to water,Entire home/apt,14,140.0,19520560,Ivan,f,2025-01-18 15:10:56+00:00,2025-01-18 15:10:56
+45501555,"Sunny, Quiet Studio Loft in Prenzlauerberg",Entire home/apt,1,85.0,28274520,Stef,f,2025-01-18 15:08:20+00:00,2025-01-18 15:08:20
+52332750,Bright and spacious apartment in Friedrichshain,Entire home/apt,2,80.0,41053818,Blk,f,2025-01-18 14:54:35+00:00,2025-01-18 14:54:35
+51963334,Super Saver Studio 20N · Super Saver Studio 20N · Günstiger Start in Berlin: Super Saver Studio,Entire home/apt,20,48.0,71613847,,,2025-01-18 14:53:02+00:00,2025-01-18 14:53:02
+44566079,"Modernes 2,5 Zimmer Erdgeschoss-Apartment-Neubau",Entire home/apt,29,99.0,8912086,,,2025-01-18 14:44:34+00:00,2025-01-18 14:44:34
+52819429,FAMILY@Mauerpark +SelfCheckIn +Street Parking,Entire home/apt,1,106.0,125847915,,,2025-01-18 14:43:33+00:00,2025-01-18 14:43:33
+19479221,Private Room,Private room,2,59.0,2877982,Christian,f,2025-01-18 14:06:11+00:00,2025-01-18 14:06:11
+20081217,Schniekes Zimmer im Rigaerkiez!,Private room,3,32.0,21547435,Dominik,f,2025-01-18 13:58:53+00:00,2025-01-18 13:58:53
+27011860,LOFT HOTEL BIG MAMA,Private room,1,131.0,84251083,,,2025-01-18 13:42:42+00:00,2025-01-18 13:42:42
+40819056,Clean and nice flat in Neukölln / myabachufer,Shared room,1,50.0,214951099,Karam,f,2025-01-18 13:19:03+00:00,2025-01-18 13:19:03
+37548979,Charming flat next to Gesundbrunnen,Entire home/apt,14,65.0,53158363,Christopher,f,2025-01-18 13:12:45+00:00,2025-01-18 13:12:45
+14173499,Grüne Stadtoase kinderfreundlich 45qm/700qm Garten,Entire home/apt,7,110.0,45160095,Annette,f,2025-01-18 12:53:41+00:00,2025-01-18 12:53:41
+42547533,Friedrichshain Penthouse Apartment,Private room,5,100.0,22002533,Phillip,f,2025-01-18 12:41:42+00:00,2025-01-18 12:41:42
+2192027,Temporary Living - Loftstyle Studio Apartment,Entire home/apt,180,40.0,1581,,,2025-01-18 12:37:38+00:00,2025-01-18 12:37:38
+27448772,our home in Berlin,Entire home/apt,1,100.0,206843996,,,2025-01-18 12:25:15+00:00,2025-01-18 12:25:15
+20870208,"Big room close to Alexanderplatz,Berlin mitte",Private room,1,23.0,125905477,Matias,f,2025-01-18 12:23:56+00:00,2025-01-18 12:23:56
+3564551,Zentrale Wohnung in Berlin Wedding,Entire home/apt,1,65.0,10867269,Resat,f,2025-01-18 12:04:53+00:00,2025-01-18 12:04:53
+29027417,A CITY WHERE PAST MEETS PRESENT AT EVERY CORNER,Entire home/apt,2,84.0,218761980,Hannes,f,2025-01-18 11:49:25+00:00,2025-01-18 11:49:25
+37322274,Cozy bedroom in the heart of hip Neukolln,Private room,2,45.0,73542338,Hannah,f,2025-01-18 11:47:34+00:00,2025-01-18 11:47:34
+9878743,Maisonette apartment in Kreuzberg,Entire home/apt,14,50.0,20073156,Jeroen,f,2025-01-18 11:43:07+00:00,2025-01-18 11:43:07
+32324771,Spacious Premium Condo at Potsdamer Platz  !,Entire home/apt,1,150.0,156046558,,,2025-01-18 11:35:18+00:00,2025-01-18 11:35:18
+30416233,Sweet Home Away - Outstanding Location,Private room,1,80.0,23538739,Virginio,f,2025-01-18 11:22:24+00:00,2025-01-18 11:22:24
+7911896,Beautiful Studio in Central Berlin,Entire home/apt,5,35.0,9704111,Catherine,f,2025-01-18 11:09:29+00:00,2025-01-18 11:09:29
+29375871,Gemütliche helle Wohnung im Herzen Neuköllns,Entire home/apt,2,100.0,221307440,Arite,f,2025-01-18 10:45:55+00:00,2025-01-18 10:45:55
+42874318,"Cozy, central room! Mitte/Kreuzberg",Private room,2,40.0,341396019,Lívia,f,2025-01-18 10:43:18+00:00,2025-01-18 10:43:18
+20109071,"Awesome home in Berlin with Sauna, WiFi and 4 Bedrooms",Entire home/apt,28,131.0,141539959,,,2025-01-18 10:34:49+00:00,2025-01-18 10:34:49
+4385494,once upon a time,Entire home/apt,5,141.0,22767895,Fabio,f,2025-01-18 10:34:30+00:00,2025-01-18 10:34:30
+24058328,*Nice and cosy room in flatshare in Kreuzberg*,Private room,6,25.0,31452730,Mouna,f,2025-01-18 10:33:22+00:00,2025-01-18 10:33:22
+20024345,Beautiful flat in Richardkiez | Berlin - Neukölln,Entire home/apt,2,73.0,46359595,Christian,f,2025-01-18 10:22:47+00:00,2025-01-18 10:22:47
+9936085,Kreuzberg - super central,Private room,1,50.0,51069713,Sebastian,f,2025-01-18 10:16:38+00:00,2025-01-18 10:16:38
+52656583,Cozy Room in Neukölln Reuterkiez,Private room,3,31.0,19587639,Lila,f,2025-01-18 10:16:10+00:00,2025-01-18 10:16:10
+6001029,Schöne Wohnung in Kreuzberg,Entire home/apt,1,55.0,9699051,David,f,2025-01-18 09:55:04+00:00,2025-01-18 09:55:04
+20282908,Beautiful Room In The Heart Of Kreuzberg,Private room,1,30.0,48872858,Robin,f,2025-01-18 09:43:04+00:00,2025-01-18 09:43:04
+20294937,Ruhiges Zimmer in Mitte/Moabit,Private room,2,39.0,144775899,Janes,f,2025-01-18 09:34:11+00:00,2025-01-18 09:34:11
+42828834,10 Minuten zum Checkpoint Charlie.,Entire home/apt,5,75.0,174735694,Luciana,f,2025-01-18 09:32:25+00:00,2025-01-18 09:32:25
+50391109,Komfort Doppelzimmer,Private room,1,151.0,407066591,,,2025-01-18 09:26:53+00:00,2025-01-18 09:26:53
+45264026,Moderne Neubauwohnung im Herzen von Friedrichshain,Entire home/apt,2,68.0,93328001,Christian,f,2025-01-18 09:12:11+00:00,2025-01-18 09:12:11
+45844997,The warmest home for your (creative) stay in town,Private room,4,33.0,259262897,,,2025-01-18 09:10:59+00:00,2025-01-18 09:10:59
+11749393,Easter in the centre of Berlin,Entire home/apt,2,95.0,18084560,Folke,f,2025-01-18 08:38:27+00:00,2025-01-18 08:38:27
+10128323,Togostrasse,Entire home/apt,1,35.0,6923662,Stephan,f,2025-01-18 08:36:33+00:00,2025-01-18 08:36:33
+52348016,Zentrale Design-Altbauwohnung mit Kamin &Terrasse,Entire home/apt,2,84.0,207473068,Anne,f,2025-01-18 08:36:10+00:00,2025-01-18 08:36:10
+21332140,Eigene Wohnung im Hinterhof mit Terasse,Private room,2,54.0,154388151,Nick,f,2025-01-18 08:35:54+00:00,2025-01-18 08:35:54
+39834698,Hip Berliner Kiez Room 1,Private room,1,40.0,18241865,Rafaela,f,2025-01-18 08:28:47+00:00,2025-01-18 08:28:47
+48733327,Brutalistischer Space zum Wohlfühlen,Entire home/apt,1,500.0,11896083,Christina,f,2025-01-18 07:53:31+00:00,2025-01-18 07:53:31
+22494396,Bedroom,Private room,3,35.0,101520347,Melanie,f,2025-01-18 06:56:50+00:00,2025-01-18 06:56:50
+36241217,Room in Berlin center,Private room,1,400.0,259317360,Domenico,f,2025-01-18 06:51:21+00:00,2025-01-18 06:51:21
+44456630,Lovely apartment in the heart of Kreuzberg,Entire home/apt,2,80.0,22582175,Blacky,f,2025-01-18 06:49:02+00:00,2025-01-18 06:49:02
+9232303,large one bedroom studio,Entire home/apt,1,46.0,1174550,Molly,f,2025-01-18 06:33:16+00:00,2025-01-18 06:33:16
+8808663,apartamento luminoso y centrico,Entire home/apt,30,74.0,46149557,Lucia,f,2025-01-18 06:04:10+00:00,2025-01-18 06:04:10
+28682954,Schönes und ruhiges Zimmer in Steglitz,Private room,1,55.0,216394478,Mustafa,f,2025-01-18 05:59:08+00:00,2025-01-18 05:59:08
+32711241,Wohnung 65qm am Ostkreuz Friedrichshain,Entire home/apt,20,30.0,74744455,,,2025-01-18 05:44:00+00:00,2025-01-18 05:44:00
+7606896,Helles schönes privates Zimmer WG,Private room,7,35.0,39895198,Constanze,f,2025-01-18 05:38:50+00:00,2025-01-18 05:38:50
+22203325,Cosy room in nice neighborhood,Private room,6,14.0,67060786,Javier,f,2025-01-18 05:29:20+00:00,2025-01-18 05:29:20
+7486826,3-Zimmer Altbauwohnung in Kreuzberg,Entire home/apt,1,80.0,21353180,Nadine,f,2025-01-18 05:17:21+00:00,2025-01-18 05:17:21
+38588253,Berlin Townhouse -  zwischen Großstadt und Natur,Entire home/apt,2,140.0,5882316,Shane,f,2025-01-18 04:37:19+00:00,2025-01-18 04:37:19
+20421853,cosy room  beautiful location near metro station,Private room,1,16.0,145677064,Ammar,f,2025-01-18 04:12:56+00:00,2025-01-18 04:12:56
+13791138,1 Room Apartment Berlin Lichtenberg,Entire home/apt,1,60.0,49469944,Hannes,f,2025-01-18 03:59:43+00:00,2025-01-18 03:59:43
+6947885,Cozy studio near the lake.,Entire home/apt,1,50.0,5129180,Juliette,f,2025-01-18 03:56:40+00:00,2025-01-18 03:56:40
+22725803,Gemütliches Zimmer im Prenzlauer Berg,Private room,10,15.0,41906597,Greta,f,2025-01-18 03:44:16+00:00,2025-01-18 03:44:16
+32483112,"Sunny, warm, cosy and close to party districts !",Private room,1,24.0,244058292,,,2025-01-18 03:34:40+00:00,2025-01-18 03:34:40
+20672004,Calm and zen place in the heart of Berlin Mitte,Entire home/apt,1,119.0,14882027,Madhuri,f,2025-01-18 03:31:29+00:00,2025-01-18 03:31:29
+40403330,Friedrichshain - amazing location,Private room,6,28.0,129636132,Isabelle,f,2025-01-18 03:25:30+00:00,2025-01-18 03:25:30
+40652059,Sauber machen,Private room,30,40.0,315280811,Ibrahima,f,2025-01-18 03:04:50+00:00,2025-01-18 03:04:50
+41396035,Cozy room in the heart of Rixdorf Neukölln,Private room,2,28.0,39032040,Marco,f,2025-01-18 03:02:39+00:00,2025-01-18 03:02:39
+50906824,Doppelzimmer mit Aufbettungsmöglichkeit,Private room,1,74.0,174923505,,,2025-01-18 03:01:36+00:00,2025-01-18 03:01:36
+21609334,Gemütliche Wohnung in Berlin-Friedrichshain,Shared room,5,25.0,14012917,Michael,f,2025-01-18 02:37:48+00:00,2025-01-18 02:37:48
+40450568,Gemütliche 1 Zimmer Wohnung im Herzen von Neukölln,Entire home/apt,3,72.0,105148945,Isabel,f,2025-01-18 02:10:13+00:00,2025-01-18 02:10:13
+11348253,Comfortable room at Berlin center Alexanderplatz,Private room,3,35.0,59426366,Carolina,f,2025-01-18 02:03:38+00:00,2025-01-18 02:03:38
+52786258,Apartment 7 minutes walk to Berlin Central Station,Entire home/apt,1,80.0,143456084,Luis Abel,f,2025-01-18 02:02:47+00:00,2025-01-18 02:02:47
+45792255,Charmanter VW Bus mit Heckküche & Schlafambiente,Entire home/apt,84,90.0,32916140,Dajana,f,2025-01-18 01:58:21+00:00,2025-01-18 01:58:21
+44025567,Ein gemütliches Vierbettzimmer im Hotel Bellevue,Private room,1,95.0,135765867,,,2025-01-18 01:09:02+00:00,2025-01-18 01:09:02
+9501847,Cozy sunny room in Alt-Tempelhof,Private room,7,23.0,25449632,Athanasios,f,2025-01-18 00:59:46+00:00,2025-01-18 00:59:46
+52386640,New loft 4 bedrooms with fireplace at Mitte,Entire home/apt,3,245.0,70168685,Cyril,f,2025-01-18 00:41:32+00:00,2025-01-18 00:41:32
+7595499,25qm room in the heart of neukölln,Private room,1,16.0,39830360,Anonymous,t,2025-01-18 00:30:22+00:00,2025-01-18 00:30:22
+9914902,Rooms Center Berlin Alexaanderplatz,Private room,4,45.0,50976411,,,2025-01-18 00:29:09+00:00,2025-01-18 00:29:09
+46849515,Schönes Zimmer in 3er-WG im Friedrichshain,Private room,14,22.0,251703986,,,2025-01-18 00:00:33+00:00,2025-01-18 00:00:33
+22820006,Gemütliches Studio Apartment zentral gelegen,Entire home/apt,60,69.0,8912086,,,2025-01-17 23:24:32+00:00,2025-01-17 23:24:32
+12641723,Beautiful flat with amazing view!,Entire home/apt,1,50.0,68656621,Ido,f,2025-01-17 23:20:34+00:00,2025-01-17 23:20:34
+41359244,Berlin Zentrum näher Potsdamer Platz,Private room,2,45.0,157216702,Jose Enrique,f,2025-01-17 23:11:34+00:00,2025-01-17 23:11:34
+47774975,Ferienhaus für 6 Gäste mit 130m² in Berlin (145060),Entire home/apt,1,183.0,238028559,,,2025-01-17 23:09:33+00:00,2025-01-17 23:09:33
+24082136,Ruhiges Zimmer in Friedrichshain mit süßen Katzen,Private room,2,29.0,35851817,Friederike,f,2025-01-17 23:00:42+00:00,2025-01-17 23:00:42
+31009295,Schöne 3-Zimmer Wohnung im Bergmannkiez,Entire home/apt,13,160.0,3667840,Magdalena,f,2025-01-17 22:50:43+00:00,2025-01-17 22:50:43
+45523658,Cozy room next to Boxhagener Platz,Private room,2,26.0,16657917,Vanessa,f,2025-01-17 22:47:46+00:00,2025-01-17 22:47:46
+43734084,LY73M021,Entire home/apt,60,60.0,82142678,,,2025-01-17 22:32:36+00:00,2025-01-17 22:32:36
+5218671,Gemütliches Zimmer in 2er-WG,Private room,7,30.0,27000163,Kerstin,f,2025-01-17 22:15:08+00:00,2025-01-17 22:15:08
+45184274,Schöne große Altbauwohnung in Friedrichshain,Entire home/apt,30,110.0,331152448,Sarah,f,2025-01-17 22:12:46+00:00,2025-01-17 22:12:46
+7671703,beautiful one-single-room apartment,Entire home/apt,3,35.0,40281005,Sabine G.,f,2025-01-17 21:53:45+00:00,2025-01-17 21:53:45
+41208037,Luxury Apartment next to Soho House,Entire home/apt,7,95.0,11726509,Philip,f,2025-01-17 21:52:26+00:00,2025-01-17 21:52:26
+13692216,Spacious flat in between Mitte & Friedrichshain,Private room,1,52.0,5411484,Naomi,f,2025-01-17 21:31:20+00:00,2025-01-17 21:31:20
+52022030,THE DUDE by Charly - Roomy Double room,Entire home/apt,1,208.0,421235453,,,2025-01-17 21:21:07+00:00,2025-01-17 21:21:07
+21402515,Whole Appartment in Berlin.,Entire home/apt,2,39.0,49971189,Younes,f,2025-01-17 21:12:58+00:00,2025-01-17 21:12:58
+49037234,Urban spacious hotel room for 4 central to Subway,Private room,14,66.0,108025548,,,2025-01-17 21:07:12+00:00,2025-01-17 21:07:12
+50860768,Doppelzimmer mit Boxspringbett 200x200 cm,Private room,1,77.0,174923505,,,2025-01-17 20:41:38+00:00,2025-01-17 20:41:38
+42735255,Ferienwohnung/App. für 4 Gäste mit 70m² in Berlin (20214),Entire home/apt,1,126.0,238029336,,,2025-01-17 20:40:22+00:00,2025-01-17 20:40:22
+7346952,Großes und helles Zimmer in 3er-WG,Private room,7,20.0,3920003,Ferdinand,f,2025-01-17 20:21:36+00:00,2025-01-17 20:21:36
+776069,Near Brandenburger Gate/Reichstag,Entire home/apt,120,120.0,2685171,Özgür,f,2025-01-17 19:49:23+00:00,2025-01-17 19:49:23
+7507974,Antons Zimmer,Private room,1,22.0,39332038,Anton,f,2025-01-17 19:41:10+00:00,2025-01-17 19:41:10
+46085840,Standard Doppelzimmer in Schöneberg,Private room,1,113.0,373476835,,,2025-01-17 19:36:34+00:00,2025-01-17 19:36:34
+42924068,"2-Raum Penthouse ""Bird's Nest"", 59 qm",Entire home/apt,15,230.0,210700814,,,2025-01-17 19:36:02+00:00,2025-01-17 19:36:02
+50547610,Cozy room in lively neighborhood,Private room,7,30.0,38901699,Destina,f,2025-01-17 19:35:18+00:00,2025-01-17 19:35:18
+19410584,Luxus Wohnen auf Zeit in Berlin City West,Entire home/apt,89,30.0,26692001,Elena,f,2025-01-17 19:31:14+00:00,2025-01-17 19:31:14
+39501661,Big and Cozy room in Lichtenberg,Private room,18,28.0,46716635,,,2025-01-17 19:27:16+00:00,2025-01-17 19:27:16
+9108801,Quite in a Cool Street in Neukolln,Entire home/apt,15,32.0,12469994,Alessia,f,2025-01-17 18:57:22+00:00,2025-01-17 18:57:22
+7220995,Cosy flat near Mauerpark,Entire home/apt,20,40.0,37802104,Johannes,f,2025-01-17 18:42:39+00:00,2025-01-17 18:42:39
+51679037,Lovely 1-bed apartment in Neukolln,Entire home/apt,2,45.0,41472652,Asiya,f,2025-01-17 18:40:51+00:00,2025-01-17 18:40:51
+9378741,Studio Berlin Charlottenburg,Entire home/apt,4,28.0,48658819,Rocinta,f,2025-01-17 18:40:34+00:00,2025-01-17 18:40:34
+8823996,Big and luxury Room in Berlin,Private room,1,40.0,43770352,Corinne,f,2025-01-17 18:34:19+00:00,2025-01-17 18:34:19
+43575461,4-Zimmer-Wohnung im Szenebezirk Friedrichshain,Entire home/apt,7,75.0,34006291,Trajan,f,2025-01-17 18:32:33+00:00,2025-01-17 18:32:33
+44782205,Sunset at Templehof,Private room,30,23.0,4594271,Christian,f,2025-01-17 18:13:30+00:00,2025-01-17 18:13:30
+52644407,THE DUDE by Charly - Cosy+ Double Room,Entire home/apt,1,148.0,421235453,,,2025-01-17 18:06:42+00:00,2025-01-17 18:06:42
+21034405,Cozy Apartment in the Center of Berlin,Entire home/apt,1,60.0,151496165,Fabian,f,2025-01-17 17:54:22+00:00,2025-01-17 17:54:22
+20754680,Cosy & stylish room in quite and peaceful building,Private room,5,15.0,41812675,Basak,f,2025-01-17 17:40:58+00:00,2025-01-17 17:40:58
+5086863,"Homely, big & sunny in the center",Entire home/apt,21,65.0,4687616,Barbara,f,2025-01-17 16:49:46+00:00,2025-01-17 16:49:46
+52275607,Top floor sunny studio apartment - Beautiful view.,Entire home/apt,4,89.0,47795570,,,2025-01-17 16:33:14+00:00,2025-01-17 16:33:14
+40481738,Hell und groß im Herzen Neuköllns mit Balkon,Private room,7,28.0,10697413,Tanin,f,2025-01-17 16:27:41+00:00,2025-01-17 16:27:41
+12561585,Very nice flat with balcony,Entire home/apt,1,110.0,68094397,Lydia Nadia,f,2025-01-17 16:24:08+00:00,2025-01-17 16:24:08
+21436573,"Grosszüge, Maisonette Wohnung in Berlin Neukölln",Entire home/apt,5,85.0,154459928,Cla,f,2025-01-17 15:59:36+00:00,2025-01-17 15:59:36
+40904143,Schöne 1 Zimmer Wohnung im Simon Dach Kiez,Entire home/apt,2,60.0,101316322,Andreas,f,2025-01-17 15:58:55+00:00,2025-01-17 15:58:55
+13920808,Spacious Cozy Room Close To City Center,Private room,4,46.0,38783931,,,2025-01-17 15:44:42+00:00,2025-01-17 15:44:42
+48840032,Komfortables Apartment mit 150m2,Entire home/apt,2,414.0,3003519,,,2025-01-17 15:25:25+00:00,2025-01-17 15:25:25
+37509937,Comfortable 2-room apartment in Friedrichshain,Entire home/apt,180,49.0,178514024,Sukru,f,2025-01-17 14:41:15+00:00,2025-01-17 14:41:15
+21037592,Liebevolles Zuhause statt langweiligem Hotel,Entire home/apt,1,40.0,143939464,Vanessa,f,2025-01-17 14:31:13+00:00,2025-01-17 14:31:13
+11391873,Helles Balkonzimmer in Schöneberg,Private room,1,25.0,57241645,Klara,f,2025-01-17 13:42:37+00:00,2025-01-17 13:42:37
+50646321,Central Falt in Prenzlauerberg,Entire home/apt,60,47.0,192200150,,,2025-01-17 13:34:12+00:00,2025-01-17 13:34:12
+24308923,Schönes gemütliches WG-Zimmer,Private room,2,30.0,31643602,,,2025-01-17 13:32:51+00:00,2025-01-17 13:32:51
+1694698,A home away from home in Berlin,Entire home/apt,1,189.0,8950990,George,f,2025-01-17 13:30:19+00:00,2025-01-17 13:30:19
+49121163,Modern styled apartment Charlottenburg,Entire home/apt,14,60.0,22232550,Sand,f,2025-01-17 13:07:52+00:00,2025-01-17 13:07:52
+42332043,Spacious bright room with Balcony,Private room,2,35.0,336568993,,,2025-01-17 12:55:58+00:00,2025-01-17 12:55:58
+11370956,Nice room near airport — fireplace,Private room,2,32.0,1009656,,,2025-01-17 12:47:22+00:00,2025-01-17 12:47:22
+33566472,Wunderschöne 2 Zimmerwohnung in Schloss nähe,Entire home/apt,2,80.0,252938718,Anna,f,2025-01-17 12:39:01+00:00,2025-01-17 12:39:01
+47976555,Berlin City Apartment,Entire home/apt,4,69.0,1003245,Maryna,f,2025-01-17 12:38:10+00:00,2025-01-17 12:38:10
+29416750,Cosy 130msq family flat in Prenzlauerberg,Entire home/apt,10,130.0,12387913,Bertrand,f,2025-01-17 12:08:46+00:00,2025-01-17 12:08:46
+46958312,Nearby Treptower Park - direct airport connection,Entire home/apt,3,100.0,275374141,Thomas,f,2025-01-17 12:01:15+00:00,2025-01-17 12:01:15
+45342922,A full 2 bedrooms apartment in heart of Neukölln.,Entire home/apt,4,65.0,122901718,,,2025-01-17 11:52:47+00:00,2025-01-17 11:52:47
+31122541,Nair Schönefeld Berlin,Private room,10,100.0,219284770,Alex,f,2025-01-17 11:43:47+00:00,2025-01-17 11:43:47
+11145559,Privat room in a sharing apartment,Private room,1,25.0,50259108,,,2025-01-17 11:34:03+00:00,2025-01-17 11:34:03
+48425687,A lovely and comfy  2 room apartment,Entire home/apt,2,70.0,252025968,Kanchanjit,f,2025-01-17 11:20:09+00:00,2025-01-17 11:20:09
+48106097,Super zentrale 2-Zimmer-Wohnung mit Balkon,Entire home/apt,2,69.0,3182096,Marco,f,2025-01-17 11:17:50+00:00,2025-01-17 11:17:50
+51479338,1 private bedroom in sustainable green apartment,Private room,7,59.0,17036855,Catharina,f,2025-01-17 11:16:44+00:00,2025-01-17 11:16:44
+16365920,elegant-room-mitte,Private room,6,35.0,22658976,Evans Akai,f,2025-01-17 11:13:02+00:00,2025-01-17 11:13:02
+20988793,Comfortable Flat in Berlin Mitte,Entire home/apt,30,60.0,151072686,Enrico,f,2025-01-17 11:05:57+00:00,2025-01-17 11:05:57
+50409394,Spacious room & garden in Neukolln,Private room,2,45.0,121823771,Dandan,f,2025-01-17 10:48:16+00:00,2025-01-17 10:48:16
+42629897,Echter Berliner Altbau - ganze Wohnung,Entire home/apt,30,64.0,37070340,Frieder,t,2025-01-17 10:24:34+00:00,2025-01-17 10:24:34
+11500564,Private Room in shared flat,Private room,4,23.0,21158428,Julie,f,2025-01-17 09:36:21+00:00,2025-01-17 09:36:21
+7560826,schöne Wohnung für eine Familie,Entire home/apt,1,65.0,39634813,Uta,f,2025-01-17 09:28:27+00:00,2025-01-17 09:28:27
+45444989,On top of Berlin,Entire home/apt,1,50.0,154653929,Stefan,f,2025-01-17 09:05:17+00:00,2025-01-17 09:05:17
+49972317,Cozy and Calm room in Shared Flat,Private room,5,11.0,17204519,Suzan,f,2025-01-17 09:03:33+00:00,2025-01-17 09:03:33
+9862133,Cozy Apartment near the Weißensee,Entire home/apt,3,100.0,38271725,Ardi,f,2025-01-17 08:53:55+00:00,2025-01-17 08:53:55
+9869385,Schönes Altbauzimmer *hell*zentral*,Private room,2,40.0,50792170,,,2025-01-17 08:39:44+00:00,2025-01-17 08:39:44
+19922061,"Cozy, Bright Room in Friendly Shared Flat!",Private room,5,25.0,114169868,,,2025-01-17 08:19:37+00:00,2025-01-17 08:19:37
+52698928,cosy simple room in Berliner Flat in Kreuzberg,Private room,3,42.0,232067096,,,2025-01-17 08:11:14+00:00,2025-01-17 08:11:14
+47775006,Ferienhaus für 6 Gäste mit 130m² in Berlin (145055),Entire home/apt,1,183.0,238030351,,,2025-01-17 08:06:00+00:00,2025-01-17 08:06:00
+14396012,Cosy aptm in Mitte near Mauerpark,Entire home/apt,10,53.0,8196161,Alina,f,2025-01-17 08:04:29+00:00,2025-01-17 08:04:29
+50411223,Altbauwohnung in Neukölln mit Balkon,Entire home/apt,2,70.0,407253270,Luna-Marlou,f,2025-01-17 07:57:03+00:00,2025-01-17 07:57:03
+35934434,LIVE IN THE ❤ OF THE CAPITAL - BERLIN!,Entire home/apt,2,80.0,270284539,Marlon,f,2025-01-17 07:42:42+00:00,2025-01-17 07:42:42
+10327702,8-Zi Maisonette Wohnung,Entire home/apt,1,95.0,38523573,Thomas,f,2025-01-17 07:24:49+00:00,2025-01-17 07:24:49
+40701510,Cosy and loved in the heart of Schöneberg,Private room,5,35.0,159639261,Alex,f,2025-01-17 07:19:10+00:00,2025-01-17 07:19:10
+33210521,Cosy and clean apartment in the city center,Entire home/apt,3,85.0,198404989,Karina,f,2025-01-17 06:58:20+00:00,2025-01-17 06:58:20
+52180623,NuWave Hotel Berlin - Superior Double Room,Private room,1,101.0,421557030,,,2025-01-17 06:56:07+00:00,2025-01-17 06:56:07
+36386490,Loft direct on water in Berlin Köpenick,Entire home/apt,179,50.0,716475,Hanya,f,2025-01-17 06:28:50+00:00,2025-01-17 06:28:50
+40606989,2 Bedroom Flat near Mauerpark in Central Berlin,Entire home/apt,5,75.0,77522210,Chloe,f,2025-01-17 06:27:31+00:00,2025-01-17 06:27:31
+20108988,Stunning home in Berlin-Köpenick with Sauna and 3 Bedrooms,Entire home/apt,28,113.0,141539959,,,2025-01-17 06:25:44+00:00,2025-01-17 06:25:44
+52102591,WINTERFELDSTRASSE LUXURY APARTMENTS,Entire home/apt,1,638.0,413176292,,,2025-01-17 05:38:08+00:00,2025-01-17 05:38:08
+52604282,SUNNY ON HISTORICAL KARL-MARX-ALLEE,Entire home/apt,92,70.0,5021050,Natalie,f,2025-01-17 05:32:29+00:00,2025-01-17 05:32:29
+45274790,Cozy room in Berlin,Private room,2,1000.0,361836933,,,2025-01-17 05:27:56+00:00,2025-01-17 05:27:56
+42149064,Luxuriöse 2 Zimmer Appartement,Entire home/apt,2,149.0,297937835,Van Minh,f,2025-01-17 05:04:15+00:00,2025-01-17 05:04:15
+50430676,Magnifique chambre lumineuse - centre de Berlin,Private room,3,80.0,7285808,Sefana,f,2025-01-17 04:59:54+00:00,2025-01-17 04:59:54
+41611703,Modern Living,Entire home/apt,30,75.0,192200150,,,2025-01-17 04:44:56+00:00,2025-01-17 04:44:56
+3600046,Wohnung zu vermieten,Entire home/apt,1,100.0,18137976,Ines,f,2025-01-17 04:44:07+00:00,2025-01-17 04:44:07
+22323421,Cosy Place in Heart of Friedrichshain,Entire home/apt,4,200.0,102047176,Alex,f,2025-01-17 04:04:26+00:00,2025-01-17 04:04:26
+43554719,"Comfort Zimmer 18 m², 20 m²",Private room,1,96.0,304493323,,,2025-01-17 04:02:25+00:00,2025-01-17 04:02:25
+51689637,Spacious well located apartment in Charlottenburg,Private room,7,50.0,69245029,Ade,f,2025-01-17 03:58:01+00:00,2025-01-17 03:58:01
+43184193,Room in a new Building central close to TU:Berlin,Private room,93,40.0,340007871,,,2025-01-17 03:55:34+00:00,2025-01-17 03:55:34
+5349843,Huge Room in Trendy Neukoelln,Private room,1,41.0,17807206,Fiona,f,2025-01-17 03:46:36+00:00,2025-01-17 03:46:36
+43174756,Wohnung für Minimalisten im Literatenviertel,Entire home/apt,5,40.0,182263499,Martin,f,2025-01-17 03:32:03+00:00,2025-01-17 03:32:03
+48050939,Alte Feuerwache Berlin - Standard Single Room,Private room,1,60.0,386848467,,,2025-01-17 03:21:05+00:00,2025-01-17 03:21:05
+9609423,Möbliertes 20m² Zimmer,Private room,1,17.0,49721186,Christian,f,2025-01-17 02:20:41+00:00,2025-01-17 02:20:41
+21665811,Big room next to Treptower park,Private room,25,20.0,157696761,Daniel,f,2025-01-17 02:11:21+00:00,2025-01-17 02:11:21
+39980240,Berlin erleben!,Shared room,1,40.0,54782146,Mahdi,f,2025-01-17 02:07:13+00:00,2025-01-17 02:07:13
+40778060,MODERN APARTMENT IN BERLIN LICHTENBERG,Entire home/apt,2,141.0,316803972,Dajana,f,2025-01-17 01:22:42+00:00,2025-01-17 01:22:42
+22933317,Nice Apartment in the center of Schöneberg,Entire home/apt,1,22.0,8792609,,,2025-01-17 01:14:50+00:00,2025-01-17 01:14:50
+6558544,Beautiful flat in the center,Entire home/apt,1,399.0,34299847,David,f,2025-01-17 01:04:49+00:00,2025-01-17 01:04:49
+35376292,Schön 2-Raum Wohnung mit 58qm und Balkon in Berlin,Entire home/apt,5,90.0,76959766,Tomi,f,2025-01-17 00:49:40+00:00,2025-01-17 00:49:40
+40676062,Wunderschöne Wohnung im Herzen Berlins.,Entire home/apt,7,32.0,315582894,Katrin,f,2025-01-17 00:47:51+00:00,2025-01-17 00:47:51
+12349925,Sunny and quiet studio near Kudamm,Entire home/apt,90,26.0,1574908,,,2025-01-17 00:13:07+00:00,2025-01-17 00:13:07
+9250150,2 Zimmer Apartment nahe Arcaden,Entire home/apt,60,69.0,8912086,,,2025-01-17 00:03:36+00:00,2025-01-17 00:03:36
+41178509,Cozy room in the heart of Friedrichshain,Private room,2,65.0,322819820,Yujing,f,2025-01-16 23:43:58+00:00,2025-01-16 23:43:58
+20613393,Berlin with Family,Entire home/apt,3,99.0,147333604,B,f,2025-01-16 23:19:41+00:00,2025-01-16 23:19:41
+24662962,Holidays in the heart of East Berlin,Entire home/apt,6,99.0,5237204,Chri,f,2025-01-16 23:16:51+00:00,2025-01-16 23:16:51
+36438388,Central Berlin | architects apartment,Entire home/apt,4,127.0,37267757,Nikolas,f,2025-01-16 23:15:16+00:00,2025-01-16 23:15:16
+21392059,"Quiet, Sunny, and Spacious in Friedrichshain",Entire home/apt,5,150.0,12786085,Lydia,f,2025-01-16 22:55:09+00:00,2025-01-16 22:55:09
+16285617,2-Room Apartment with Balcony in Kreuzberg,Entire home/apt,6,55.0,63019606,Lexa,f,2025-01-16 22:36:49+00:00,2025-01-16 22:36:49
+44473402,Bright and cozy room in a peaceful area of Berlin,Private room,3,35.0,109155992,Emrah,f,2025-01-16 22:29:23+00:00,2025-01-16 22:29:23
+43381676,Big appartment with balcony,Entire home/apt,6,32.0,333981476,Jonathan,f,2025-01-16 22:24:57+00:00,2025-01-16 22:24:57
+47112187,Sir Savigny,Hotel room,1,0.0,380683890,Sircle,f,2025-01-16 21:33:21+00:00,2025-01-16 21:33:21
+45066365,Former artist studio in the heart of Kreuzberg,Entire home/apt,3,80.0,15005811,Annabelle,f,2025-01-16 21:07:24+00:00,2025-01-16 21:07:24
+24273079,Bambushaus / Teehaus Kellinghusen,Private room,1,201.0,112519239,Ka Wing,f,2025-01-16 21:05:46+00:00,2025-01-16 21:05:46
+28879433,Deluxe Room In The Center Of West Berlin,Hotel room,1,425.0,212377709,,,2025-01-16 21:05:18+00:00,2025-01-16 21:05:18
+11539739,Perfect room for couples,Private room,1,20.0,16410152,Fırat,f,2025-01-16 20:56:38+00:00,2025-01-16 20:56:38
+33371678,Bright and simple room in beautiful Altbau flat,Private room,7,25.0,3194985,,,2025-01-16 20:41:14+00:00,2025-01-16 20:41:14
+40583998,Cozy 2-room apartment at Schillerkiez (Neukölln),Entire home/apt,4,80.0,68033150,,,2025-01-16 20:21:35+00:00,2025-01-16 20:21:35
+24912243,Berliner Wohnung im Wedding,Private room,2,35.0,188345028,Ella,f,2025-01-16 20:11:37+00:00,2025-01-16 20:11:37
+41061733,Beautiful & calm apartment with huge balcony,Entire home/apt,5,100.0,27793478,,,2025-01-16 20:10:10+00:00,2025-01-16 20:10:10
+42749978,"2-Raum Erdgeschoss ""Breezy Garden"", 51 qm",Entire home/apt,7,167.0,335573202,,,2025-01-16 19:39:33+00:00,2025-01-16 19:39:33
+51415651,"Einzelzimmer ""Single""",Private room,1,138.0,415771368,,,2025-01-16 19:19:36+00:00,2025-01-16 19:19:36
+28430127,Sonniges Zimmer in Friedrichshain,Private room,17,30.0,22978707,Samuel,f,2025-01-16 18:50:30+00:00,2025-01-16 18:50:30
+50245530,Gemütliche Dachgeschosswohnung im Grünen,Entire home/apt,3,55.0,53491919,Silvana,f,2025-01-16 18:48:54+00:00,2025-01-16 18:48:54
+16672140,"private room + shared spaces, apartment kreuzberg",Private room,1,42.0,47128495,Jonas,f,2025-01-16 18:47:30+00:00,2025-01-16 18:47:30
+52020329,THE DUDE by Charly - Cosy Double Room,Entire home/apt,1,140.0,421235453,,,2025-01-16 18:31:04+00:00,2025-01-16 18:31:04
+46868428,"Ruhige, gemütliche Familiewohnung in Berlin Mitte.",Entire home/apt,7,40.0,145003509,Maiara,f,2025-01-16 18:25:01+00:00,2025-01-16 18:25:01
+40328086,Special*23 sqm*Art*Asian Antiques*Balkony*quiet,Private room,2,47.0,52064539,Isa,f,2025-01-16 18:22:09+00:00,2025-01-16 18:22:09
+11322988,Eine idyllische 2-Zi Wohnung,Entire home/apt,1,60.0,27126255,Anna,f,2025-01-16 18:13:19+00:00,2025-01-16 18:13:19
+10485258,Large modern flat- Treptow/Neukölln,Entire home/apt,1,45.0,3283542,Yarin,f,2025-01-16 17:59:08+00:00,2025-01-16 17:59:08
+447524,City apartment at the Ku`damm,Entire home/apt,1,28.0,901878,H.,f,2025-01-16 17:53:56+00:00,2025-01-16 17:53:56
+31281812,Room in Neukölln,Private room,10,22.0,4222180,,,2025-01-16 17:51:31+00:00,2025-01-16 17:51:31
+51448534,Spectacular penthouse terrace+elevator in Berlin,Entire home/apt,28,175.0,1122141,,,2025-01-16 17:48:11+00:00,2025-01-16 17:48:11
+52377197,NuWave Hotel Berlin - Comfort Quadruple Room,Private room,1,159.0,421557030,,,2025-01-16 17:43:01+00:00,2025-01-16 17:43:01
+28879435,Grand Deluxe Room In The Center Of West Berlin,Hotel room,1,425.0,212377709,,,2025-01-16 16:59:49+00:00,2025-01-16 16:59:49
+9966384,Silvester in Berlin Friedrichshain!,Entire home/apt,1,70.0,21669155,Coco,f,2025-01-16 16:36:24+00:00,2025-01-16 16:36:24
+52270648,Traumhafte Wohnung in Berlin-Mitte nähe Mauerpark,Entire home/apt,30,69.0,337663510,Melanie,f,2025-01-16 16:24:32+00:00,2025-01-16 16:24:32
+40885586,Göthe Str 7a Berlin Souterrain 4 Personen ca 100qm,Entire home/apt,7,60.0,20608248,,,2025-01-16 16:05:19+00:00,2025-01-16 16:05:19
+50953803,Ruhige helle Wohnung in Berlin Neukölln,Entire home/apt,12,40.0,150690907,Mara,f,2025-01-16 15:42:07+00:00,2025-01-16 15:42:07
+8533526,BIG and CALM STUDIO,Entire home/apt,1,45.0,16876647,David,f,2025-01-16 15:39:57+00:00,2025-01-16 15:39:57
+19222541,Central Apt at Graefekiez (Kreuzberg),Entire home/apt,7,75.0,127670604,,,2025-01-16 15:33:47+00:00,2025-01-16 15:33:47
+10979941,Furnished Room Near EastSideGallery,Private room,1,22.0,19362010,Jai,f,2025-01-16 15:18:02+00:00,2025-01-16 15:18:02
+48369832,App nah am Tegelersee,Entire home/apt,4,119.0,352901812,Helena,f,2025-01-16 14:46:27+00:00,2025-01-16 14:46:27
+9877012,Big bedroom in the heart of Berlin,Private room,5,22.0,50821931,Gabriel,f,2025-01-16 14:41:47+00:00,2025-01-16 14:41:47
+46850901,The Funky district Where all the Cultures meets,Private room,7,25.0,147499255,Diana,f,2025-01-16 14:33:58+00:00,2025-01-16 14:33:58
+6098598,Cozy Garden Appartment in Center,Entire home/apt,7,45.0,14917695,Peter,f,2025-01-16 14:27:15+00:00,2025-01-16 14:27:15
+3930767,Cosy little flat with balcony in Moabit,Entire home/apt,7,40.0,6267519,Christopher,f,2025-01-16 14:21:11+00:00,2025-01-16 14:21:11
+50559945,Doppelzimmer-Sparfuchs (Raucher) für 1 Person,Private room,1,82.0,407045830,,,2025-01-16 14:05:26+00:00,2025-01-16 14:05:26
+9804273,"Ruhig, kompakte Wohnung mit Balkon",Entire home/apt,1,25.0,11662035,Maxim,f,2025-01-16 13:47:49+00:00,2025-01-16 13:47:49
+43247575,aletto Hotel Kudamm,Hotel room,1,0.0,312172749,Aletto Hotel Kudamm,f,2025-01-16 13:37:39+00:00,2025-01-16 13:37:39
+21905096,Gemütliches Zimmer in Neukölln,Private room,2,58.0,37211535,Rachel,f,2025-01-16 13:37:16+00:00,2025-01-16 13:37:16
+51082687,Close to Alexander Platz,Entire home/apt,1,80.0,262470855,Marta,f,2025-01-16 13:16:42+00:00,2025-01-16 13:16:42
+1269149,"Room in Berlin, close to center",Private room,8,12.0,2692472,Ιάσων,f,2025-01-16 13:16:29+00:00,2025-01-16 13:16:29
+42246071,"Simple, warm and cosy",Entire home/apt,3,100.0,18314951,Camille,f,2025-01-16 13:15:38+00:00,2025-01-16 13:15:38
+51751556,Berlin Prenzlauer Berg Apartment.,Private room,5,50.0,205705714,Natalie,f,2025-01-16 13:14:55+00:00,2025-01-16 13:14:55
+6932886,Apartment by East Side Gallery,Entire home/apt,1,60.0,35120985,Ta,f,2025-01-16 13:13:19+00:00,2025-01-16 13:13:19
+20569242,Magic Studio,Entire home/apt,1,40.0,146921416,Josef,f,2025-01-16 13:11:02+00:00,2025-01-16 13:11:02
+13304880,Huge sunny room in lovely Berlin!,Shared room,3,39.0,75158426,Florian,f,2025-01-16 12:36:21+00:00,2025-01-16 12:36:21
+46270493,Super Stylish Flat in Berlin's most popular area,Entire home/apt,90,140.0,351952364,,,2025-01-16 11:21:26+00:00,2025-01-16 11:21:26
+6098801,"Nice, bright room in PBerg",Private room,1,25.0,31647635,Charlotte,f,2025-01-16 11:20:22+00:00,2025-01-16 11:20:22
+33846826,Wohnung im Grünen in Berlin Dahlem,Entire home/apt,1,35.0,25188349,Tobias,f,2025-01-16 11:09:11+00:00,2025-01-16 11:09:11
+52381148,bedroom + private bathroom  in hip Friedrichshain,Private room,1,120.0,45719851,Julia,f,2025-01-16 11:09:02+00:00,2025-01-16 11:09:02
+15160364,Huge Room - Best location for real Berlin,Private room,2,26.0,28285870,Justin,f,2025-01-16 10:25:56+00:00,2025-01-16 10:25:56
+52715983,Cosy 2-room Artists Flat in Friedrichshain,Entire home/apt,4,99.0,11716605,Adelina,f,2025-01-16 10:10:55+00:00,2025-01-16 10:10:55
+13869282,Altbauwohnung mit 2 Zimmern direkt am Hermannplatz,Private room,1,80.0,3669572,Anna,f,2025-01-16 10:07:20+00:00,2025-01-16 10:07:20
+42912684,Toplage in Berlin Charlottenburg!,Entire home/apt,92,65.0,339625555,,,2025-01-16 09:52:53+00:00,2025-01-16 09:52:53
+31442082,Tolle Wohnung für Berüfstätige oder Pärchen,Entire home/apt,184,45.0,235520461,Ralf,f,2025-01-16 09:45:30+00:00,2025-01-16 09:45:30
+38828617,Coesy room in Kreuzberg!,Private room,4,50.0,86266053,,,2025-01-16 09:24:43+00:00,2025-01-16 09:24:43
+43740730,Big 3-room apartment in Friedrichshain,Entire home/apt,3,100.0,15855118,Stinne Maria,f,2025-01-16 08:45:53+00:00,2025-01-16 08:45:53
+5727201,Cosy room in lively Neukolln,Private room,1,38.0,9964887,Ella,f,2025-01-16 08:42:20+00:00,2025-01-16 08:42:20
+51721500,Einzel-appartement in Potsdamer Platz,Entire home/apt,3,64.0,419013732,Alfouad,f,2025-01-16 08:12:03+00:00,2025-01-16 08:12:03
+48087572,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,72.0,386848467,,,2025-01-16 07:59:53+00:00,2025-01-16 07:59:53
+46769321,Berlin Art Creative Room,Private room,1,124.0,24864601,Manaf,f,2025-01-16 07:53:30+00:00,2025-01-16 07:53:30
+32335706,Wunderschöne Altbauwohnung 65m2,Entire home/apt,14,80.0,35630833,Sylvia,f,2025-01-16 07:39:24+00:00,2025-01-16 07:39:24
+18115414,"2 Zimmerwohnung in Pankow, ideal für Pärchen",Entire home/apt,3,27.0,73828853,Moritz,f,2025-01-16 07:32:38+00:00,2025-01-16 07:32:38
+19190445,Very central place in heart of Wedding,Entire home/apt,1,65.0,132302162,Khaled,f,2025-01-16 07:30:11+00:00,2025-01-16 07:30:11
+9150987,Cozy big room in kreuzberg/neukölln,Private room,5,25.0,47554561,Robert,f,2025-01-16 07:20:22+00:00,2025-01-16 07:20:22
+40650136,"Cozy, comfort and modern apartment! BILLS INCLUDED",Entire home/apt,100,860.0,271714786,Celio,f,2025-01-16 07:19:01+00:00,2025-01-16 07:19:01
+8568509,Flat with balcony in Wedding,Entire home/apt,1,46.0,36364923,Ma,f,2025-01-16 07:00:41+00:00,2025-01-16 07:00:41
+52821368,Shabby Chic +Self Check-In +Free Street Parking,Entire home/apt,1,72.0,125847915,,,2025-01-16 06:42:48+00:00,2025-01-16 06:42:48
+17281581,Cozy and Spacious room in Nollendorfstraße,Private room,1,60.0,46279782,Nash,f,2025-01-16 06:34:20+00:00,2025-01-16 06:34:20
+35365136,Empty flat with timber floor and balcony,Entire home/apt,13,25.0,142948812,Ali,f,2025-01-16 06:24:19+00:00,2025-01-16 06:24:19
+51717733,Übernachtungsmöglichkeit im familiären Pankow,Shared room,1,45.0,115472189,Rouven,f,2025-01-16 06:04:23+00:00,2025-01-16 06:04:23
+52848095,Apartment zentral in Berlin bis 2 Pers./Townster,Entire home/apt,1,150.0,340486611,,,2025-01-16 05:52:41+00:00,2025-01-16 05:52:41
+19827109,Multipler Co-Writing Space + Übernachtung 1 Person,Shared room,1,190.0,31217613,,,2025-01-16 05:46:13+00:00,2025-01-16 05:46:13
+42585950,Berlin Prenzlauer Berg - Lovely and  Cozy Room,Private room,6,30.0,85312132,Sophie,f,2025-01-16 05:26:34+00:00,2025-01-16 05:26:34
+16744376,Gemütliches Berliner Altbauzimmer in Schöneberg,Private room,7,25.0,36784064,Mäwia,f,2025-01-16 05:05:59+00:00,2025-01-16 05:05:59
+46064466,Bright & modern cozy studio on Kastanienallee,Entire home/apt,30,55.0,697166,Anton,f,2025-01-16 05:04:16+00:00,2025-01-16 05:04:16
+10049057,Cosy and spacious room,Private room,1,30.0,33803398,,,2025-01-16 04:53:01+00:00,2025-01-16 04:53:01
+52252898,3BR +big kitchen +A/C +SelfCheckIn +Street Parking,Entire home/apt,1,129.0,164656783,,,2025-01-16 04:21:32+00:00,2025-01-16 04:21:32
+9694278,Large room in Friedrichshain,Private room,8,35.0,44108734,Emma,f,2025-01-16 04:16:45+00:00,2025-01-16 04:16:45
+32534334,Beautiful family apartment with a sunny terrace,Entire home/apt,30,52.0,8329189,Thomas,f,2025-01-16 04:00:24+00:00,2025-01-16 04:00:24
+26186816,Axel Single Room at Axel Hotel Berlin,Hotel room,1,105.0,98159395,,,2025-01-16 03:30:27+00:00,2025-01-16 03:30:27
+26767873,Berlin Wohnung / Kreuzberg / Görlitzer Bahnhof,Entire home/apt,3,75.0,3282971,Sarah,f,2025-01-16 02:31:26+00:00,2025-01-16 02:31:26
+40745724,Cozy single room in shared flat,Private room,2,30.0,116736663,Coline,f,2025-01-16 02:11:14+00:00,2025-01-16 02:11:14
+14440109,Bright apartment in the heart of Rixdorf,Entire home/apt,2,35.0,16288216,Alex,f,2025-01-16 02:09:47+00:00,2025-01-16 02:09:47
+43670826,Lichtdurchflutete Wohnung zentralen Punkt  Berlins,Entire home/apt,3,80.0,348779246,Selvi,f,2025-01-16 01:47:58+00:00,2025-01-16 01:47:58
+5875924,"Room in Neukolln, Berlin",Private room,1,25.0,30513815,Anonymous,t,2025-01-16 00:34:53+00:00,2025-01-16 00:34:53
+5803041,Gartenwohnung im Friedrichshain,Entire home/apt,1,200.0,30106645,Gero,f,2025-01-16 00:32:34+00:00,2025-01-16 00:32:34
+14778401,Green Apartment,Entire home/apt,60,32.0,5245778,,,2025-01-16 00:27:11+00:00,2025-01-16 00:27:11
+21627485,Berlin Stralau: ruhige zentrale Garten-Whg 70qm,Entire home/apt,14,40.0,5226014,Aline,f,2025-01-16 00:10:08+00:00,2025-01-16 00:10:08
+38585015,"Amazing apartment in Berlin-Bohnsdorf with Sauna, WiFi and 1 Bedrooms",Entire home/apt,28,52.0,141545714,Novasol,f,2025-01-16 00:00:17+00:00,2025-01-16 00:00:17
+11269335,Quiet & sunny room with balcony in Neukölln,Private room,2,55.0,24497738,Simon,f,2025-01-15 23:22:22+00:00,2025-01-15 23:22:22
+9469485,Best Kreuzkölln@River Canal,Entire home/apt,120,58.0,24059884,Juliane,f,2025-01-15 23:05:10+00:00,2025-01-15 23:05:10
+45525090,Ocak Hotel - Superior Zimmer mehr Platz zum wohnen,Private room,1,154.0,368544059,,,2025-01-15 22:50:26+00:00,2025-01-15 22:50:26
+42716351,Kreuzberg - BerlinMall- in the heart of the City,Private room,1,47.0,13055420,Nicolas,f,2025-01-15 22:30:11+00:00,2025-01-15 22:30:11
+18298702,Apartment in the heart of berlin,Entire home/apt,14,80.0,45151605,Maike,f,2025-01-15 22:24:31+00:00,2025-01-15 22:24:31
+25284507,Apartment Duo Komfort B0.13  6N14S · Apartment Duo Komfort B0.13  6N14S · Apartment Duo Komfort for 3 persons,Entire home/apt,6,120.0,71613847,,,2025-01-15 21:40:58+00:00,2025-01-15 21:40:58
+9692035,W10,Private room,1,20.0,50056316,,,2025-01-15 21:34:53+00:00,2025-01-15 21:34:53
+9880483,Charming Altbau in Prenzlauer Berg,Entire home/apt,6,90.0,32299,Simon,f,2025-01-15 21:27:50+00:00,2025-01-15 21:27:50
+48665452,kultiger Camper im Herzen Berlins,Entire home/apt,1,38.0,392608800,Anna,f,2025-01-15 21:27:31+00:00,2025-01-15 21:27:31
+20359070,Spacious 19th cent apartment facing beautiful park,Entire home/apt,60,249.0,1030258,Jakob,f,2025-01-15 21:21:04+00:00,2025-01-15 21:21:04
+48086276,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,72.0,386848467,,,2025-01-15 20:51:00+00:00,2025-01-15 20:51:00
+47269855,Berlin Ausgezeichnet möbliertes Privatzimmer zentr,Private room,1,131.0,284817458,,,2025-01-15 20:41:10+00:00,2025-01-15 20:41:10
+11883697,"Big sunny room, nice flatmates",Private room,3,20.0,63367802,Moritz,f,2025-01-15 20:38:26+00:00,2025-01-15 20:38:26
+26156338,Sunny Rooftop Apartment in Mitte -best SkylineView,Entire home/apt,21,120.0,11649536,,,2025-01-15 20:25:15+00:00,2025-01-15 20:25:15
+44453937,Studio nahe Hauptbahnhof exkl. für Geschäftsleute,Private room,30,32.0,4023263,,,2025-01-15 20:23:17+00:00,2025-01-15 20:23:17
+31112236,Cozy Flat right in the Heart of Neukoelln.,Entire home/apt,3,120.0,45352166,Katharina,f,2025-01-15 20:18:47+00:00,2025-01-15 20:18:47
+52235699,Schönes helles Zimmer im besten Kiez von Kreuzberg,Private room,4,45.0,6584851,,,2025-01-15 20:03:29+00:00,2025-01-15 20:03:29
+6652940,Sonnenallee  83 Neukölln,Entire home/apt,1,65.0,34821755,Leif,f,2025-01-15 19:15:44+00:00,2025-01-15 19:15:44
+6364954,Charming flat in Berlin Schöneberg,Private room,1,50.0,11805050,Lea,f,2025-01-15 18:52:37+00:00,2025-01-15 18:52:37
+51913271,Sunny duplex apartment on northern Friedrichstraße,Entire home/apt,30,110.0,12362846,Rosbeh,f,2025-01-15 18:51:57+00:00,2025-01-15 18:51:57
+52889090,Loft Apart +A/C +SelfCheck-In +Free Street Parking,Entire home/apt,1,98.0,125847915,,,2025-01-15 18:37:52+00:00,2025-01-15 18:37:52
+51885885,Futon Beds B and B in the heart of Berlin,Private room,1,45.0,10367336,Kamil,f,2025-01-15 18:16:08+00:00,2025-01-15 18:16:08
+52290592,Stylish 2 bed in the heart of Prenzlauerberg,Entire home/apt,7,151.0,32767221,,,2025-01-15 18:11:28+00:00,2025-01-15 18:11:28
+9919533,Cute flat for max 3 persons,Entire home/apt,1,35.0,22836752,Josi,f,2025-01-15 17:43:31+00:00,2025-01-15 17:43:31
+51051504,Schöne Wohnung im Schillerkiez,Entire home/apt,2,55.0,2952669,Hannah,f,2025-01-15 17:39:53+00:00,2025-01-15 17:39:53
+42704801,Sonnige 2 Zimmer Wohnung im Grünen,Entire home/apt,2,39.0,7575304,Mona,f,2025-01-15 17:35:42+00:00,2025-01-15 17:35:42
+22613834,Villa Kunterbunt,Private room,1,35.0,166423400,Gvantsa,f,2025-01-15 17:33:45+00:00,2025-01-15 17:33:45
+44525459,110qm Executive Apartment near Museumsinsel,Entire home/apt,50,120.0,22319933,Christian,f,2025-01-15 17:08:55+00:00,2025-01-15 17:08:55
+48708650,Modern bright apartment in Prenzlauer Berg,Entire home/apt,5,63.0,392512441,Jeannine,f,2025-01-15 16:45:55+00:00,2025-01-15 16:45:55
+28732723,"Süsse 1-Raumwohnung, 45 m2",Entire home/apt,6,104.0,24930281,Wula,f,2025-01-15 16:30:31+00:00,2025-01-15 16:30:31
+40030018,Green Room in shared apartment in Neukölln ♡,Private room,2,50.0,66352019,Liubov,f,2025-01-15 16:24:03+00:00,2025-01-15 16:24:03
+49106605,Private room,Shared room,7,29.0,267172624,,,2025-01-15 16:19:58+00:00,2025-01-15 16:19:58
+13340349,Bright room in Mitte,Private room,10,21.0,75559255,Luise,f,2025-01-15 16:00:21+00:00,2025-01-15 16:00:21
+11563143,Flatshare 70m2 in Fhain,Private room,4,20.0,61060190,Romain,f,2025-01-15 15:37:23+00:00,2025-01-15 15:37:23
+49120997,Charming and sunny apartment with balcony,Entire home/apt,2,60.0,91457234,Ella,f,2025-01-15 15:09:30+00:00,2025-01-15 15:09:30
+52220600,"Bestlage in Mitte, großes Apartment bis zu 7 Pax",Entire home/apt,1,179.0,216855948,,,2025-01-15 15:04:07+00:00,2025-01-15 15:04:07
+30342869,Huge classic berlin apartment with beamer and TV,Entire home/apt,7,50.0,227835898,Zviad,f,2025-01-15 14:53:28+00:00,2025-01-15 14:53:28
+42108039,Bright Apartment close to Kurfürstendamm,Entire home/apt,3,85.0,137948494,Salina,f,2025-01-15 14:24:08+00:00,2025-01-15 14:24:08
+32813793,Beautiful Flat in central & prime location,Entire home/apt,60,80.0,18483802,Kiki,f,2025-01-15 14:23:39+00:00,2025-01-15 14:23:39
+42633567,"2-Raum Apartment ""City Nature"", 51 qm",Entire home/apt,7,229.0,210700814,,,2025-01-15 13:41:18+00:00,2025-01-15 13:41:18
+9889157,Large and bright room w/ balcony,Private room,4,25.0,2414122,Manuel,f,2025-01-15 12:44:22+00:00,2025-01-15 12:44:22
+52767164,Schönes Studio Apartment,Entire home/apt,1,43.0,426802817,,,2025-01-15 12:43:59+00:00,2025-01-15 12:43:59
+45986972,Central Room in the heart of Berlin,Private room,7,35.0,13497890,Nadia,f,2025-01-15 12:33:00+00:00,2025-01-15 12:33:00
+21846556,Double bed in Prenzauler Allee,Private room,2,25.0,26176881,,,2025-01-15 12:31:24+00:00,2025-01-15 12:31:24
+42506165,Sunny apartment in Kreuzberg,Entire home/apt,90,85.0,12046288,Anita,f,2025-01-15 12:14:35+00:00,2025-01-15 12:14:35
+39502939,City-Apartment Kurfürstendamm,Entire home/apt,2,103.0,221731912,Annika,f,2025-01-15 11:54:58+00:00,2025-01-15 11:54:58
+46352979,Modern Living in the Heart of Berlin with Garden,Entire home/apt,30,90.0,3248348,Mariya,f,2025-01-15 11:44:54+00:00,2025-01-15 11:44:54
+48087061,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,72.0,386848467,,,2025-01-15 11:29:28+00:00,2025-01-15 11:29:28
+49221673,Flat in new building in beautiful Prenzlauer Berg,Entire home/apt,14,50.0,239572037,Ana,f,2025-01-15 11:27:26+00:00,2025-01-15 11:27:26
+10002922,Sehr zentrale Wohnung in Berlin,Entire home/apt,1,52.0,45848709,Belinda,f,2025-01-15 11:18:24+00:00,2025-01-15 11:18:24
+6758818,Ostbahnhof within 1 Minute Walk,Private room,1,47.0,14405869,Julie,f,2025-01-15 11:00:57+00:00,2025-01-15 11:00:57
+19845208,Studio Apartment Zwischen Spree und Wuhlheide,Entire home/apt,1,19.0,64328126,Henriette,f,2025-01-15 10:53:24+00:00,2025-01-15 10:53:24
+10079685,Bright & cozy flat in Prenzl Berg,Entire home/apt,1,80.0,51720664,Stefanie,f,2025-01-15 10:40:13+00:00,2025-01-15 10:40:13
+5099228,"Schöne, zentrale 2-Zimmerwohnung",Private room,5,41.0,26347897,Inken,f,2025-01-15 10:37:44+00:00,2025-01-15 10:37:44
+42097632,Lovely studio apartment in the Heart of Wedding**,Entire home/apt,60,105.0,3868992,,,2025-01-15 09:11:09+00:00,2025-01-15 09:11:09
+33114889,"Lovely room in kreuberg/ neukölln, near the canal",Private room,1,40.0,61700071,Data,f,2025-01-15 09:03:12+00:00,2025-01-15 09:03:12
+42529930,Prenzl - Coliving in the heart of Prenzlauer Berg,Entire home/apt,183,43.0,338742183,Louise,f,2025-01-15 09:02:07+00:00,2025-01-15 09:02:07
+4884448,Beautiful Old-Berlin flat,Entire home/apt,3,35.0,10559337,Maria,f,2025-01-15 08:54:22+00:00,2025-01-15 08:54:22
+4065383,Möbliertes 55qm Zimmer in netter 2er Zweck-WG,Private room,90,28.0,876545,Marta,f,2025-01-15 08:31:27+00:00,2025-01-15 08:31:27
+42811133,Appartements am Schloss,Entire home/apt,2,100.0,340980455,Appartments,f,2025-01-15 08:30:28+00:00,2025-01-15 08:30:28
+28399697,CENTRAL APARTMENT 4PAX K921,Entire home/apt,150,70.0,214403628,,,2025-01-15 08:27:34+00:00,2025-01-15 08:27:34
+22023455,"Berlin-Kreuzberg Flat with Style and View, Flat me & myself",Entire home/apt,7,28.0,160823100,GaboTest,f,2025-01-15 08:11:10+00:00,2025-01-15 08:11:10
+51056301,In 15 Min. zum Alexanderplatz und nah am Tierpark,Private room,28,99.0,143275455,Eugen,f,2025-01-15 08:10:33+00:00,2025-01-15 08:10:33
+23459982,Großes Altbauzimmer nahe Ku'Damm,Private room,7,23.0,128953448,Lew,f,2025-01-15 08:06:04+00:00,2025-01-15 08:06:04
+46527396,Authentic Berlin apartment with balcony,Private room,3,40.0,37702973,Alicia,f,2025-01-15 07:52:30+00:00,2025-01-15 07:52:30
+11655084,Zimmer 1,Private room,2,140.0,61347438,,,2025-01-15 07:41:11+00:00,2025-01-15 07:41:11
+32840262,im Herzen Neuköllns,Private room,3,25.0,35121227,Nora,f,2025-01-15 07:40:51+00:00,2025-01-15 07:40:51
+40699332,apartment room in the heart of Neukölln,Entire home/apt,23,52.0,52662658,Andrew,f,2025-01-15 07:23:31+00:00,2025-01-15 07:23:31
+44701210,Ferienhaus für 6 Gäste mit 130m² in Berlin (145070),Entire home/apt,1,183.0,238028559,,,2025-01-15 07:05:30+00:00,2025-01-15 07:05:30
+12148404,One room in a two rooms apartment,Private room,1,25.0,65226110,Maik,f,2025-01-15 06:58:53+00:00,2025-01-15 06:58:53
+40005459,"Comfy, child friendly home full of love for Xmas!",Entire home/apt,10,28.0,23101703,Kay,f,2025-01-15 06:53:38+00:00,2025-01-15 06:53:38
+23823848,"Big bedroom in lovely, quiet flat in Tempelhof",Private room,7,30.0,133340583,Roni,f,2025-01-15 06:26:17+00:00,2025-01-15 06:26:17
+15494108,Cozy nest in Rosenthalerplatz,Entire home/apt,60,50.0,15997566,,,2025-01-15 05:25:02+00:00,2025-01-15 05:25:02
+48988379,Pretty & central room for 2 close to Subway,Private room,14,46.0,108025548,,,2025-01-15 05:15:24+00:00,2025-01-15 05:15:24
+50293756,Hübsche 3 Zimmer - Wohnung am Volkspark Prenzlauerberg,Entire home/apt,1,70.0,406120938,Kimberley,f,2025-01-15 05:11:21+00:00,2025-01-15 05:11:21
+36532684,Sonniges Zimmer in umzäuntem Garten im Berlingrün,Private room,7,41.0,37428978,,,2025-01-15 05:07:32+00:00,2025-01-15 05:07:32
+25436973,"Cheerful and trendy Kreuzkölln, bright + balcony",Entire home/apt,60,40.0,192018470,Flo,f,2025-01-15 05:05:02+00:00,2025-01-15 05:05:02
+8031570,Flat Pompidiu for 2-3 weeks in Oct,Entire home/apt,14,24.0,42406759,Sarah,f,2025-01-15 04:52:06+00:00,2025-01-15 04:52:06
+23704833,Nice room in an old building in Schöneberg,Private room,5,34.0,177597446,Yvonne,f,2025-01-15 04:50:27+00:00,2025-01-15 04:50:27
+11414738,"3 weeks, 2-room flat, 10.03-30.03",Entire home/apt,10,35.0,59933257,Andreas,f,2025-01-15 04:21:34+00:00,2025-01-15 04:21:34
+49300477,SCHOENHOUSE by limehome - Standard Suite LT,Entire home/apt,1,115.0,390059085,,,2025-01-15 04:12:05+00:00,2025-01-15 04:12:05
+49037980,Bright & central room for 2 near to subway,Private room,14,46.0,108025548,,,2025-01-15 04:01:13+00:00,2025-01-15 04:01:13
+50393046,Loft Berlin Mitte,Entire home/apt,90,150.0,716475,Hanya,f,2025-01-15 03:41:02+00:00,2025-01-15 03:41:02
+50637191,Cozy Apartment with Balcony in Neukölln,Entire home/apt,1,70.0,47458713,Ayelen,f,2025-01-15 03:38:13+00:00,2025-01-15 03:38:13
+49456987,Zentral wohnen in Kudamm-Nähe,Private room,5,50.0,348161152,,,2025-01-15 03:27:04+00:00,2025-01-15 03:27:04
+23921666,Friedrichshain-Leben,Private room,1,29.0,166294,Ann-Kristin,f,2025-01-15 03:17:59+00:00,2025-01-15 03:17:59
+5887146,2 room top floor flat with terrace,Entire home/apt,14,30.0,20025390,Janine,f,2025-01-15 03:15:07+00:00,2025-01-15 03:15:07
+43538286,Family and Friends room 8 Beds,Private room,30,80.0,325537173,,,2025-01-15 03:09:51+00:00,2025-01-15 03:09:51
+16826940,"Sunny, quite, private vintage flat/ Prenzelberg",Private room,7,80.0,111970749,Jörg,f,2025-01-15 03:03:34+00:00,2025-01-15 03:03:34
+52805285,2 FLATS 4BR 2BTH 2K +Self-Check-In +Street Parking,Entire home/apt,1,169.0,125847915,,,2025-01-15 02:51:24+00:00,2025-01-15 02:51:24
+44701173,Ferienhaus für 6 Gäste mit 130m² in Berlin (145052),Entire home/apt,1,183.0,252498808,,,2025-01-15 02:47:16+00:00,2025-01-15 02:47:16
+40528600,Seydelstraße 7,Entire home/apt,90,59.0,313797108,,,2025-01-15 02:30:21+00:00,2025-01-15 02:30:21
+6499198,Berlin-Charlottenburg 10627,Entire home/apt,3,81.0,33971648,Britt,f,2025-01-15 02:27:47+00:00,2025-01-15 02:27:47
+16938875,Cozy room in 75m2 top floor flat in Kreuzberg,Private room,5,25.0,113208327,Gianna,f,2025-01-15 02:15:51+00:00,2025-01-15 02:15:51
+50419940,Apartment w. balcony close to Boxhagener Platz,Entire home/apt,6,58.0,276815132,Bryn,f,2025-01-15 01:18:18+00:00,2025-01-15 01:18:18
+36795963,Gemütliche 2 zimmer Wohnung,Entire home/apt,22,35.0,276573275,Iman,f,2025-01-15 01:11:55+00:00,2025-01-15 01:11:55
+25248959,"2 rooms, up to 4 persons, luxuriously furnished",Entire home/apt,1,880.0,22894989,Nigel,f,2025-01-15 00:57:48+00:00,2025-01-15 00:57:48
+30444196,Charming Flat for only ONE mouth,Entire home/apt,29,40.0,228579126,Negin,f,2025-01-15 00:54:26+00:00,2025-01-15 00:54:26
+41333651,Large and quite room in east Berlin,Private room,2,24.0,35756433,Guillaume,f,2025-01-15 00:35:12+00:00,2025-01-15 00:35:12
+50608385,Big bright room with balcony in shared flat,Private room,7,25.0,18028880,Miri,f,2025-01-15 00:10:41+00:00,2025-01-15 00:10:41
+5555097,Berlin Lichtenberg- 18m² ruhe,Private room,2,29.0,28801423,Jan,f,2025-01-15 00:01:49+00:00,2025-01-15 00:01:49
+24886430,Lovely room in the heart of Berlin,Private room,3,25.0,7715690,Hoai,f,2025-01-14 23:59:19+00:00,2025-01-14 23:59:19
+20827309,"Cosy, light-flooded apartment with high ceilings",Entire home/apt,1,80.0,62303873,Luisa,f,2025-01-14 23:48:56+00:00,2025-01-14 23:48:56
+5854717,2 Zi-Whg. mit Altbau-Charme,Entire home/apt,2,50.0,30399447,Julia,f,2025-01-14 23:47:04+00:00,2025-01-14 23:47:04
+9109921,Modernisierte Remise in Alt-Treptow,Entire home/apt,3,72.0,47479755,Katja,f,2025-01-14 23:01:31+00:00,2025-01-14 23:01:31
+45875470,EINZELZIMMER STANDARD,Private room,1,91.0,371892297,,,2025-01-14 22:35:18+00:00,2025-01-14 22:35:18
+40633924,100m² Bungalow mit Terrasse am Kanal in Kreuzberg,Entire home/apt,3,129.0,27453143,Mia,f,2025-01-14 22:34:28+00:00,2025-01-14 22:34:28
+9731416,Exclusive flat in Berlin CityCentre,Entire home/apt,5,99.0,50214277,Giuseppe,f,2025-01-14 22:31:17+00:00,2025-01-14 22:31:17
+37630683,Dreamy big room in beautiful flat,Private room,10,38.0,189137873,Leticia,f,2025-01-14 22:28:54+00:00,2025-01-14 22:28:54
+42269923,"2-Raum Erdgeschoss ""Breezy Garden"", 51 qm",Entire home/apt,2,200.0,335573202,,,2025-01-14 22:22:53+00:00,2025-01-14 22:22:53
+21220761,"Spacious, cosy room with balcony in Friedrichshain",Private room,3,40.0,118543115,Carolin,f,2025-01-14 21:52:55+00:00,2025-01-14 21:52:55
+52646436,THE DUDE by Charly - Comfy Double room,Entire home/apt,1,154.0,421235453,,,2025-01-14 21:48:15+00:00,2025-01-14 21:48:15
+49579173,Luxuriöse Maisonette in Berlin-Mitte mit Parkplatz,Entire home/apt,7,195.0,203997165,Osman,f,2025-01-14 21:44:52+00:00,2025-01-14 21:44:52
+1278375,Skandinavisk & Industritysk lgh,Entire home/apt,1,120.0,1179162,Anna,f,2025-01-14 21:36:03+00:00,2025-01-14 21:36:03
+36599333,2-bedroom apartment in trendy neighbourhood,Entire home/apt,30,40.0,20718415,Ricardo,f,2025-01-14 21:34:34+00:00,2025-01-14 21:34:34
+10932482,Sewanstrasse,Private room,7,13.0,56679285,Sagar,f,2025-01-14 21:16:50+00:00,2025-01-14 21:16:50
+11216682,Room in central Kreuzberg,Private room,2,40.0,58433789,John,f,2025-01-14 20:41:09+00:00,2025-01-14 20:41:09
+41530181,Container Apartment in Berlin,Entire home/apt,60,22.0,147556938,,,2025-01-14 20:41:00+00:00,2025-01-14 20:41:00
+42768314,"1,5 Zummer Wohnung nicht weit von Kudamm",Entire home/apt,5,60.0,202344102,Sofia,f,2025-01-14 20:29:48+00:00,2025-01-14 20:29:48
+8752704,Amazing flat in the heart of Berlin,Private room,1,46.0,641507,Christina,f,2025-01-14 20:24:56+00:00,2025-01-14 20:24:56
+12012807,Apartment overlooking the television tower,Entire home/apt,60,34.0,5245778,,,2025-01-14 20:15:49+00:00,2025-01-14 20:15:49
+45140965,Modernes Nest für Wochenend-Trips,Entire home/apt,1,71.0,295857279,Kai,f,2025-01-14 20:08:32+00:00,2025-01-14 20:08:32
+36756732,"House of nation, Brunnenstraße",Private room,25,20.0,196545452,Sendhil,f,2025-01-14 19:15:43+00:00,2025-01-14 19:15:43
+24047231,"Whole Flat (1,5 rooms) near Schlesi",Entire home/apt,14,40.0,8620491,Juli,f,2025-01-14 18:48:22+00:00,2025-01-14 18:48:22
+17550868,Wohnung in Neukoelln nahe Tempelhof,Entire home/apt,1,53.0,34797363,Prem,f,2025-01-14 18:13:04+00:00,2025-01-14 18:13:04
+42522259,Zimmer 1 Familienzimmer,Private room,1,95.0,316043293,,,2025-01-14 18:10:54+00:00,2025-01-14 18:10:54
+10052110,1sleep& 1living & 1bigchillkitchen,Private room,1,39.0,51590153,KwangnO,f,2025-01-14 17:35:29+00:00,2025-01-14 17:35:29
+6256590,Zentral und ruhig in Kreuzkölln,Private room,1,36.0,32503335,Nadine,f,2025-01-14 17:31:40+00:00,2025-01-14 17:31:40
+40804119,großzügiges Schlafzimmer in Berlin Friedenau,Private room,1,30.0,6353600,Lisa,f,2025-01-14 17:31:21+00:00,2025-01-14 17:31:21
+50100653,Wunderschöne Familien 4-Zimmer-Altbauwohnung,Entire home/apt,7,90.0,21177801,Rick Und Katja,f,2025-01-14 17:11:14+00:00,2025-01-14 17:11:14
+17429149,Room in the beautiful south-west of Berlin,Private room,1,15.0,117906291,Tobias,f,2025-01-14 17:10:26+00:00,2025-01-14 17:10:26
+22962845,Stylish and peaceful flat. Perfect for families.,Entire home/apt,3,55.0,170153654,Paula,f,2025-01-14 16:49:12+00:00,2025-01-14 16:49:12
+13957515,Sehr schöne und ruhige Wohnung im Bergmannkiez,Entire home/apt,23,40.0,70748690,Miège,f,2025-01-14 16:34:59+00:00,2025-01-14 16:34:59
+47898215,Amazing central hotel room for 2 next to Subway,Private room,14,41.0,108025548,,,2025-01-14 16:32:15+00:00,2025-01-14 16:32:15
+45592643,Single room,Private room,1,39.0,347131802,,,2025-01-14 16:15:35+00:00,2025-01-14 16:15:35
+48217386,Kreative Dachgeschosswohnung in X-Berg,Entire home/apt,90,200.0,50081741,Sarah,f,2025-01-14 16:11:45+00:00,2025-01-14 16:11:45
+11037071,Great apartment in a new building,Entire home/apt,3,45.0,18384885,Assaf,f,2025-01-14 15:42:15+00:00,2025-01-14 15:42:15
+29579517,APARTMENT IN THE HEART OF PRENZLAUER BERG,Entire home/apt,2,135.0,222673220,Diana,f,2025-01-14 15:40:25+00:00,2025-01-14 15:40:25
+12249699,Beautiful Penthouse,Entire home/apt,1,100.0,21394478,Anna-Maria,f,2025-01-14 15:38:25+00:00,2025-01-14 15:38:25
+47089643,Apartmenthaus Berlin Mitte - Deluxe Studio,Entire home/apt,1,79.0,378071271,,,2025-01-14 15:35:08+00:00,2025-01-14 15:35:08
+8037679,Traumhafte Altbauwohnung in P-Berg,Private room,1,50.0,2557656,Tibor,f,2025-01-14 15:31:57+00:00,2025-01-14 15:31:57
+42116929,Big Bright Room In Central Berlin-Friedrichshain,Private room,4,36.0,3887507,Luka,f,2025-01-14 15:16:23+00:00,2025-01-14 15:16:23
+44351799,Parterre Wohnung am Kanal in Neukölln,Private room,1,50.0,274078976,Francesco,f,2025-01-14 14:54:21+00:00,2025-01-14 14:54:21
+8677779,"3,5 - Zimmer Wohnung ohne Balkon",Entire home/apt,1,65.0,45575503,Jennifer,f,2025-01-14 14:44:52+00:00,2025-01-14 14:44:52
+11325310,Nette Wohnungsgemeinschaft,Private room,14,15.0,33149863,Jaromir,f,2025-01-14 14:35:57+00:00,2025-01-14 14:35:57
+44281216,Wohnen im schönen Wilmersdorf near txl /with cats,Private room,1,30.0,356445569,Kely,f,2025-01-14 14:32:48+00:00,2025-01-14 14:32:48
+4932854,Pensionszimmer zur Jahreswende 2015,Shared room,2,150.0,25413382,Sel,f,2025-01-14 14:26:07+00:00,2025-01-14 14:26:07
+50387743,New apartment in the centre of Berlin,Entire home/apt,92,120.0,195867979,Özlem,f,2025-01-14 14:14:47+00:00,2025-01-14 14:14:47
+48238525,★ ℳARVELOUS APARTMENT IN BEST CENTRAL LOCATION ★,Entire home/apt,4,300.0,16472922,,,2025-01-14 14:11:25+00:00,2025-01-14 14:11:25
+40704677,Cozy & clean on TOP area in Prenzlauerberg!,Entire home/apt,84,43.0,4048130,Xica & Samuel,f,2025-01-14 13:55:40+00:00,2025-01-14 13:55:40
+51718702,"Spacious 2.5 room, with balcony in Berlin Centre",Private room,1,70.0,70192367,Wesley,f,2025-01-14 13:41:28+00:00,2025-01-14 13:41:28
+20515851,Traumhaus am Rande der Stadt,Entire home/apt,2,86.0,50350370,Matthias,f,2025-01-14 13:24:59+00:00,2025-01-14 13:24:59
+49037756,Fantastic & modern room for 3  near Subway central,Private room,14,71.0,108025548,,,2025-01-14 12:41:37+00:00,2025-01-14 12:41:37
+32487933,"Big, sunny room in shared flat in the <3 of Berlin",Private room,3,23.0,1878115,Dax,f,2025-01-14 12:25:37+00:00,2025-01-14 12:25:37
+29871786,Vintage home in hip Neukölln,Entire home/apt,7,100.0,172027240,Fanny,f,2025-01-14 12:05:45+00:00,2025-01-14 12:05:45
+40319555,X-Mas and happy new year Berlin,Entire home/apt,3,90.0,49845399,Daniel,f,2025-01-14 12:02:17+00:00,2025-01-14 12:02:17
+42631943,"2-Raum Apartment ""Bright Outlook"", 49 qm",Entire home/apt,4,241.0,210700814,,,2025-01-14 11:58:28+00:00,2025-01-14 11:58:28
+11112288,Sunny rooftop apt in Berlin Friedrichshain,Entire home/apt,5,100.0,7369609,,,2025-01-14 11:48:39+00:00,2025-01-14 11:48:39
+41421289,Apartment in Center from Berlin,Entire home/apt,4,60.0,222088950,Clarissa,f,2025-01-14 11:21:20+00:00,2025-01-14 11:21:20
+46600352,2 room Apartment - Center of Berlin -sights nearby,Entire home/apt,2,45.0,369533678,,,2025-01-14 11:15:58+00:00,2025-01-14 11:15:58
+24531548,Boardinghouse im grünen Bezirk Steglitz-Zehlendorf,Entire home/apt,120,69.0,181062162,,,2025-01-14 11:12:31+00:00,2025-01-14 11:12:31
+43817136,Cozy central luxury apartment,Entire home/apt,20,90.0,208272633,Lyudmil,f,2025-01-14 11:11:05+00:00,2025-01-14 11:11:05
+42923924,"3-Raum Apartments ""Home Base"", 81 qm",Entire home/apt,15,285.0,210700814,,,2025-01-14 10:44:58+00:00,2025-01-14 10:44:58
+23385840,Classy Apartement in Wrangelkiez / Kreuzberg,Private room,4,80.0,16250769,Nicolas,f,2025-01-14 10:36:47+00:00,2025-01-14 10:36:47
+52832402,Exceptional Penthouse with Rooftop /Prenzlauerberg,Entire home/apt,2,130.0,190260192,Hélène,f,2025-01-14 10:33:31+00:00,2025-01-14 10:33:31
+7833151,studio flat - 12 minutes to center,Entire home/apt,1,25.0,41250002,Ulrike,f,2025-01-14 10:13:48+00:00,2025-01-14 10:13:48
+20027259,nice WG-room close to famous Ku'Damm,Private room,14,20.0,31613861,David,f,2025-01-14 10:08:36+00:00,2025-01-14 10:08:36
+20585962,Altbau- style apartment close to public transport,Entire home/apt,1,80.0,144900129,Vince,f,2025-01-14 10:00:49+00:00,2025-01-14 10:00:49
+10713732,20qm super nice apartment Neukölln- good conection,Private room,1,30.0,55367578,Lucia,f,2025-01-14 09:55:06+00:00,2025-01-14 09:55:06
+52665308,Bright and sunny apt. in trendy Prenzlauer Berg,Entire home/apt,1,120.0,6398027,Heather,f,2025-01-14 09:49:43+00:00,2025-01-14 09:49:43
+41142150,Centrally located next to alexander platz,Entire home/apt,7,41.0,25201612,Hassan,f,2025-01-14 09:49:28+00:00,2025-01-14 09:49:28
+9375341,Zimmer im belebten Wedding,Private room,9,50.0,47371579,,,2025-01-14 09:28:24+00:00,2025-01-14 09:28:24
+49009851,Rooftop Berlin,Entire home/apt,7,130.0,358991427,Julius,f,2025-01-14 09:27:51+00:00,2025-01-14 09:27:51
+41653692,Green Berlin,Private room,3,38.0,164771882,,,2025-01-14 09:25:38+00:00,2025-01-14 09:25:38
+41680957,Cozy Room in Friedrichshain - For Cat Lovers,Private room,14,13.0,88948601,Sabine,f,2025-01-14 09:25:02+00:00,2025-01-14 09:25:02
+4291270,Center of Berlin - charming Home,Entire home/apt,7,75.0,6043420,Natalija,f,2025-01-14 09:13:23+00:00,2025-01-14 09:13:23
+39838556,Remise in Adlershof,Private room,23,20.0,115758436,Sarah,f,2025-01-14 08:59:34+00:00,2025-01-14 08:59:34
+3779123,"Schönes großes, sonniges Zimmer",Private room,7,40.0,6703283,Sophie,f,2025-01-14 08:48:30+00:00,2025-01-14 08:48:30
+5819100,best place to be! f-hain!,Private room,1,35.0,30199257,Richard,f,2025-01-14 08:29:21+00:00,2025-01-14 08:29:21
+43882145,It's very silent. At the corner of the corridor.,Entire home/apt,1,39.0,350095489,Mohit,f,2025-01-14 08:18:35+00:00,2025-01-14 08:18:35
+40031078,Potsdamer Platz,Entire home/apt,180,145.0,259940521,Kefah,f,2025-01-14 07:57:05+00:00,2025-01-14 07:57:05
+42249477,Cool apartment in the city centre !,Entire home/apt,2,80.0,23738283,Jarek,f,2025-01-14 07:43:42+00:00,2025-01-14 07:43:42
+34002394,Cosy and Smart Apartment on Alexanderplatz,Entire home/apt,30,55.0,203071555,,,2025-01-14 07:40:06+00:00,2025-01-14 07:40:06
+27704760,Stylish & Central Munich Apartment,Private room,1,145.0,146706943,Jörg,f,2025-01-14 07:35:58+00:00,2025-01-14 07:35:58
+37156504,Appartamento pulito ed ordinato.. soggiorni brevi,Private room,1,75.0,275087561,Shqiponje,f,2025-01-14 07:33:29+00:00,2025-01-14 07:33:29
+47592607,"Beautiful, modern Berlin loft by Tempelhof",Entire home/apt,14,100.0,67582543,Eli,f,2025-01-14 07:15:09+00:00,2025-01-14 07:15:09
+22280994,Schöne Möblierte Zimmer in Stegliz Lankwitz,Entire home/apt,30,45.0,36376497,Saber,f,2025-01-14 06:48:34+00:00,2025-01-14 06:48:34
+49587514,Helle Wohnung - Berlin - direkt am Kurfürstendamm,Entire home/apt,60,55.0,339625555,,,2025-01-14 06:47:36+00:00,2025-01-14 06:47:36
+45705812,Amazing flat in the heart of Neukölln,Entire home/apt,10,40.0,10009936,Giovanni,f,2025-01-14 06:45:25+00:00,2025-01-14 06:45:25
+24602300,Berlin based - beautiful apartment,Entire home/apt,8,100.0,185914276,Ana,f,2025-01-14 05:48:53+00:00,2025-01-14 05:48:53
+48087893,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,72.0,386848467,,,2025-01-14 05:38:59+00:00,2025-01-14 05:38:59
+48875029,very bright apartment with good vibes.,Private room,7,25.0,12364672,Gabor,f,2025-01-14 05:33:01+00:00,2025-01-14 05:33:01
+2111503,central located studio apartment,Entire home/apt,2,60.0,10765531,Caro,f,2025-01-14 05:17:35+00:00,2025-01-14 05:17:35
+47015168,Berlin Kaiser-Friedrich-Str.,Entire home/apt,1,86.0,373491663,Berlin,f,2025-01-14 05:11:40+00:00,2025-01-14 05:11:40
+34973995,Wohnung in Tempelhof mit guter Öffi-Anbindung,Entire home/apt,5,69.0,13445553,Bettina,f,2025-01-14 04:53:01+00:00,2025-01-14 04:53:01
+23532664,Cozy city apartment in an old charming building,Entire home/apt,2,90.0,175804467,Randolf,f,2025-01-14 04:42:29+00:00,2025-01-14 04:42:29
+42766929,Wohnung in Berlin Wannsee - für bis zu 4 Personen,Entire home/apt,3,88.0,101590322,,,2025-01-14 04:13:52+00:00,2025-01-14 04:13:52
+41255310,Apartment for couples in the heart of Neukolln,Entire home/apt,1,50.0,166227698,Joakin,f,2025-01-14 03:56:50+00:00,2025-01-14 03:56:50
+26701751,Cozy and quiet Room in Wedding,Private room,10,13.0,18190953,Sara,f,2025-01-14 03:48:29+00:00,2025-01-14 03:48:29
+18553253,Kreuzkölln best location !!!!!,Entire home/apt,63,44.0,15506870,,,2025-01-14 03:45:27+00:00,2025-01-14 03:45:27
+42133011,⚡Modern Penthouse In The Heart of Kreuzberg,Entire home/apt,28,90.0,1352204,,,2025-01-14 03:45:18+00:00,2025-01-14 03:45:18
+10127750,Zimmer mit Balkon in netter 3er WG,Private room,2,22.0,51975484,Eva,f,2025-01-14 03:41:09+00:00,2025-01-14 03:41:09
+34964821,Pretty Flat in Friedrichshain,Private room,2,50.0,21204295,Maria Cristina,f,2025-01-14 03:34:57+00:00,2025-01-14 03:34:57
+14232817,Schönes Zimmer am Körnerkiez in Neukölln,Private room,5,30.0,86528339,Hamun,f,2025-01-14 03:29:12+00:00,2025-01-14 03:29:12
+9807223,Traumhafte Maisonette am Grunewald,Entire home/apt,4,175.0,50526984,Korbi,f,2025-01-14 03:03:46+00:00,2025-01-14 03:03:46
+18203481,Apartment in Kreuzberg Kottbusser Tor,Shared room,2,40.0,125652413,Toni,f,2025-01-14 02:40:07+00:00,2025-01-14 02:40:07
+35671331,20-Beautiful double room apartment in Schöneberg,Entire home/apt,30,63.0,265635773,,,2025-01-14 02:39:29+00:00,2025-01-14 02:39:29
+14101211,Cosy room with GARDEN in multiculti neighbourhood,Private room,6,30.0,16825237,Maike,f,2025-01-14 02:25:35+00:00,2025-01-14 02:25:35
+10102875,Sonnige Apartment nähe UBahn,Entire home/apt,3,99.0,51843024,Berlin Innovation StreetService,f,2025-01-14 02:15:22+00:00,2025-01-14 02:15:22
+42749901,"2-Raum Erdgeschoss ""Breezy Garden"", 51 qm",Entire home/apt,4,183.0,335573202,,,2025-01-14 01:44:44+00:00,2025-01-14 01:44:44
+26187118,Axel Suite with Breakfast at Axel Hotel Berlin,Hotel room,1,269.0,98159395,,,2025-01-14 01:29:43+00:00,2025-01-14 01:29:43
+44275551,Sleep in a Tower in the heart of Berlin,Private room,1,75.0,111276639,Luca,f,2025-01-14 01:07:55+00:00,2025-01-14 01:07:55
+21052394,Cozy 2-Room-Apartment in Kreuzberg,Entire home/apt,1,125.0,34509173,,,2025-01-14 01:05:11+00:00,2025-01-14 01:05:11
+20109066,Awesome home in Berlin with 2 Bedrooms,Entire home/apt,28,101.0,141539959,,,2025-01-14 01:05:05+00:00,2025-01-14 01:05:05
+43801577,"große, helle Wohnung in Neukölln nähe Ufer",Entire home/apt,5,106.0,43358860,Jana,f,2025-01-14 00:55:10+00:00,2025-01-14 00:55:10
+34902974,Ruhige Wohnung direkt am Wald,Entire home/apt,1,25.0,42571558,Bettina Irene,f,2025-01-14 00:55:04+00:00,2025-01-14 00:55:04
+46034877,Cosy 29 sq. meter apartment,Entire home/apt,10,35.0,313552363,Daniyal,f,2025-01-14 00:41:48+00:00,2025-01-14 00:41:48
+42655892,Pankow Penthouse,Entire home/apt,7,140.0,118534678,Markus,f,2025-01-14 00:15:58+00:00,2025-01-14 00:15:58
+45147337,25 m² bright & cozy little jungle in Berlin-Mitte,Private room,3,49.0,30656497,Maxim,f,2025-01-14 00:13:07+00:00,2025-01-14 00:13:07
+51587962,Wohnen und Homeoffice zwischen Potsdam und Berlin,Entire home/apt,1,85.0,40656306,,,2025-01-13 23:41:28+00:00,2025-01-13 23:41:28
+43178734,Sonniges Zimmer in kleiner Villa miot Garten,Private room,6,40.0,21924839,Anja,f,2025-01-13 23:37:47+00:00,2025-01-13 23:37:47
+6322584,1 COSY ROOM IN MITTE,Private room,1,48.0,32900474,Anne-Sophie,f,2025-01-13 23:34:21+00:00,2025-01-13 23:34:21
+12646339,Beautiful apartment in Neukölln,Entire home/apt,1,69.0,7976555,Noemie,f,2025-01-13 23:32:48+00:00,2025-01-13 23:32:48
+9625219,"Quiet, modern room in Kreuzberg",Private room,4,25.0,49788899,Kieran,f,2025-01-13 23:09:21+00:00,2025-01-13 23:09:21
+19483730,G36,Private room,1,38.0,89146924,Kais,f,2025-01-13 23:06:40+00:00,2025-01-13 23:06:40
+8094503,Cozy appartment - heart of Berlin,Private room,2,29.0,30703119,Silke-Christina,f,2025-01-13 22:47:24+00:00,2025-01-13 22:47:24
+13213714,Cozy flat in the best part of Neukölln,Entire home/apt,2,120.0,22706480,Alexandre,f,2025-01-13 22:38:07+00:00,2025-01-13 22:38:07
+49072557,Gemütliche 2 Zimmer Wohnung,Entire home/apt,30,50.0,371774383,Manuel,f,2025-01-13 21:43:22+00:00,2025-01-13 21:43:22
+1244210,CITY-PENTHOUSE & MAGNIFICENT VIEW,Entire home/apt,2,141.0,4446679,,,2025-01-13 21:41:47+00:00,2025-01-13 21:41:47
+20915597,Beautiful 2 room apartment very central very quiet,Entire home/apt,7,45.0,42446331,Benjamin,f,2025-01-13 21:39:58+00:00,2025-01-13 21:39:58
+40388498,5th floor apartment in the heart of Berlin,Entire home/apt,3,70.0,170150638,Ines,f,2025-01-13 21:16:54+00:00,2025-01-13 21:16:54
+39388973,Great private room in new apartment Friedrichshain,Private room,5,123.0,16614328,Maria,f,2025-01-13 21:13:34+00:00,2025-01-13 21:13:34
+41678215,Quiet private bedroom with Terrace in Neukölln,Private room,2,35.0,12510463,Jacob,f,2025-01-13 20:57:38+00:00,2025-01-13 20:57:38
+44044741,"Ruhige, helle 3-Zimmer Wohnung in Kreuzberg",Entire home/apt,6,150.0,234391,Per,f,2025-01-13 20:54:40+00:00,2025-01-13 20:54:40
+8841678,Cosy bedroom and nice living room,Entire home/apt,2,22.0,46303349,Martin,f,2025-01-13 20:48:40+00:00,2025-01-13 20:48:40
+17279533,Cozy Room in Neukölln,Private room,4,21.0,36228447,Lilli,f,2025-01-13 20:34:01+00:00,2025-01-13 20:34:01
+42059370,"Apartment ""1st class""",Entire home/apt,1,48.0,87442687,,,2025-01-13 20:20:07+00:00,2025-01-13 20:20:07
+52302585,Wohnung im grünen Stadtteil  Biesdorf,Entire home/apt,5,30.0,162385004,Birgit,f,2025-01-13 19:50:17+00:00,2025-01-13 19:50:17
+9984839,Cosy and bright House,Shared room,20,40.0,51303476,Thanos,f,2025-01-13 19:47:03+00:00,2025-01-13 19:47:03
+52276469,Berlin centre Prenzlauer Berg Lime Studios$$,Entire home/apt,2,172.0,339637030,,,2025-01-13 19:46:49+00:00,2025-01-13 19:46:49
+40123839,CHIC APARTMENT IN VIBRANT NEIGHBORHOOD,Entire home/apt,2,141.0,309650840,Nizam,f,2025-01-13 19:37:53+00:00,2025-01-13 19:37:53
+49428986,Central apartment  by the canal,Entire home/apt,92,65.0,4904972,Paula And Billy,t,2025-01-13 17:48:22+00:00,2025-01-13 17:48:22
+40009819,Privatzimmer mit Balkon Nähe Kuhdamm,Private room,5,30.0,10714794,Rico,f,2025-01-13 17:41:59+00:00,2025-01-13 17:41:59
+32105164,Shared room,Shared room,15,65.0,5428701,Jose,f,2025-01-13 17:21:38+00:00,2025-01-13 17:21:38
+47268335,Gemütliches Zimmer  Nähe Rathaus Neukölln,Private room,1,30.0,381695091,Samira,f,2025-01-13 17:20:30+00:00,2025-01-13 17:20:30
+3602785,Sonnige DG-Wohnung mit Balkon,Entire home/apt,1,200.0,2912028,Stuart,f,2025-01-13 17:06:50+00:00,2025-01-13 17:06:50
+36047207,Stilvolles vollmöbliertes Apartment in Wedding,Entire home/apt,61,41.0,870376,,,2025-01-13 17:03:20+00:00,2025-01-13 17:03:20
+14298906,Bright room in Neukölln near Tempelhofer Feld,Private room,2,40.0,27148260,,,2025-01-13 17:01:19+00:00,2025-01-13 17:01:19
+19760692,Cozy room in Neukolln,Private room,8,25.0,50822706,Davide,f,2025-01-13 16:54:26+00:00,2025-01-13 16:54:26
+28981283,Luxury cozy Apartment in best location ( CityWest),Entire home/apt,37,75.0,218426295,Panos,f,2025-01-13 16:47:42+00:00,2025-01-13 16:47:42
+15171415,Dream Flat with Amazing View,Entire home/apt,6,120.0,93520150,Walter,f,2025-01-13 16:41:21+00:00,2025-01-13 16:41:21
+45664384,Helles Dachgeschoß in Villa - ruhig & zentral,Entire home/apt,42,48.0,72109274,Nadja,f,2025-01-13 16:25:19+00:00,2025-01-13 16:25:19
+7575220,"3 rooms, 80 sqm., cosy attic-loft",Entire home/apt,2,90.0,39716890,Peter,f,2025-01-13 16:22:00+00:00,2025-01-13 16:22:00
+22171922,Designer Flat in Schoneberg-Wilmesdorf,Entire home/apt,7,300.0,55521033,Bruno,f,2025-01-13 16:07:32+00:00,2025-01-13 16:07:32
+31167428,Gemütliches Apartment in Berlin/Rosenthaler Platz,Entire home/apt,2,50.0,54377152,Kira,f,2025-01-13 15:53:16+00:00,2025-01-13 15:53:16
+42187341,Home is where your heart is,Entire home/apt,55,80.0,117133393,Martin,f,2025-01-13 15:13:08+00:00,2025-01-13 15:13:08
+7168991,Kleines Zimmer in Reinickendorf,Private room,3,15.0,37549029,Karsten,f,2025-01-13 15:00:25+00:00,2025-01-13 15:00:25
+40669237,Loft Berlin (Prenzlauer Berg) near Alex,Entire home/apt,3,150.0,10169408,Carina,f,2025-01-13 14:54:56+00:00,2025-01-13 14:54:56
+51629805,Calm Boho apartment in great location,Entire home/apt,5,59.0,295353406,Nica,f,2025-01-13 14:46:10+00:00,2025-01-13 14:46:10
+50342158,CENTRAL-QUIET-PRIVATE BATHROOM,Private room,5,58.0,90121086,Pavao,f,2025-01-13 14:45:41+00:00,2025-01-13 14:45:41
+44432002,#502 Be my guest,Entire home/apt,4,89.0,304345361,,,2025-01-13 14:40:24+00:00,2025-01-13 14:40:24
+22938072,Lovely charming apartment Graefekiez ❣️,Entire home/apt,14,39.0,10775125,Amundra,f,2025-01-13 14:20:00+00:00,2025-01-13 14:20:00
+21446174,Cosy apartment with balcony,Private room,2,40.0,25092314,Eva,f,2025-01-13 14:13:09+00:00,2025-01-13 14:13:09
+7111882,12.7. - 7.8. flat at Kottbusser Tor,Entire home/apt,14,38.0,37254922,Thomas,f,2025-01-13 14:00:26+00:00,2025-01-13 14:00:26
+13106850,Schöne 2-Zimmer Wohnung mit Balkon,Entire home/apt,60,79.0,8912086,,,2025-01-13 13:25:13+00:00,2025-01-13 13:25:13
+2885297,Sunny Attic,Entire home/apt,365,65.0,14746021,,,2025-01-13 13:10:32+00:00,2025-01-13 13:10:32
+9438521,"Hübsche, gemütliche Altbauwohnung",Entire home/apt,1,45.0,48919884,Aleksandra,f,2025-01-13 13:06:05+00:00,2025-01-13 13:06:05
+27311858,Gemütliche Altbauwohnung im Herzen von Neukölln,Entire home/apt,7,60.0,205773837,Tony,f,2025-01-13 12:31:46+00:00,2025-01-13 12:31:46
+50018971,Haus mit Garten und großer Terrasse in Wassernähe,Entire home/apt,3,100.0,403428653,Thomas,f,2025-01-13 12:23:55+00:00,2025-01-13 12:23:55
+21016546,Zimmer in Berliner 2er Wg,Private room,4,18.0,109843166,Paolina,f,2025-01-13 11:59:06+00:00,2025-01-13 11:59:06
+40216009,La Corniche Apartments R3EGR,Entire home/apt,3,260.0,258959731,,,2025-01-13 11:51:43+00:00,2025-01-13 11:51:43
+43964246,Ruppinerstr. 15 3.OG.,Entire home/apt,90,41.0,313797108,,,2025-01-13 11:47:35+00:00,2025-01-13 11:47:35
+7409807,_ARTIST_FLAT_,Entire home/apt,21,48.0,38824272,Francesco,f,2025-01-13 11:38:54+00:00,2025-01-13 11:38:54
+7735662,wohnen in Neukölln schönster Ecke,Entire home/apt,1,45.0,40657365,Alexandra,f,2025-01-13 11:14:54+00:00,2025-01-13 11:14:54
+10461373,well fitted studio apartment,Entire home/apt,1,29.0,51894996,Lara,f,2025-01-13 11:07:06+00:00,2025-01-13 11:07:06
+29961210,"Gemütliche, kleine Wohnung im Herzen Berlin's",Entire home/apt,2,56.0,225263350,Sara,f,2025-01-13 10:50:39+00:00,2025-01-13 10:50:39
+26186990,Axel city with Breakfast at Axel Hotel Berlin,Hotel room,1,143.0,98159395,,,2025-01-13 10:28:09+00:00,2025-01-13 10:28:09
+45264190,"Tiny House ""Chios"" mit Seeblick",Entire home/apt,2,85.0,365715215,,,2025-01-13 10:23:48+00:00,2025-01-13 10:23:48
+11995220,Airbnb Apartment,Entire home/apt,1,26.0,64136102,Tim,f,2025-01-13 10:11:29+00:00,2025-01-13 10:11:29
+28677551,Cozy Room and nice Room,Private room,1000,20.0,30298984,Anton,f,2025-01-13 10:10:47+00:00,2025-01-13 10:10:47
+10064621,Vermiete schönes großes WG- Zimmer,Private room,1,25.0,18137582,Lydia,f,2025-01-13 10:10:36+00:00,2025-01-13 10:10:36
+42786274,"2-Raum ""Blue Lagoon"", 60 qm",Entire home/apt,15,171.0,335573202,,,2025-01-13 10:07:32+00:00,2025-01-13 10:07:32
+42636037,Zimmer 5 Familienzimmer,Private room,1,95.0,316043293,,,2025-01-13 09:57:31+00:00,2025-01-13 09:57:31
+42716392,Rooftop room in heart of Friedrichshain,Private room,1,41.0,27457316,,,2025-01-13 09:43:52+00:00,2025-01-13 09:43:52
+47376719,Schönes 25 qm Zimmer mit Balkon,Private room,5,40.0,380080351,,,2025-01-13 09:41:14+00:00,2025-01-13 09:41:14
+40612435,Wohnung mitten in Berlin 4 Personen Max.,Entire home/apt,4,55.0,78385580,Lior,f,2025-01-13 09:30:25+00:00,2025-01-13 09:30:25
+11041632,Roof top on,Private room,1,115.0,57302248,Tim,f,2025-01-13 09:08:31+00:00,2025-01-13 09:08:31
+4905886,26m² room in a 120 m² flatshare,Private room,2,32.0,25257208,Marc,f,2025-01-13 08:49:08+00:00,2025-01-13 08:49:08
+22264782,***New Years***Cosy Flat in the heart of Berlin,Entire home/apt,3,50.0,162695630,Marie,f,2025-01-13 08:38:42+00:00,2025-01-13 08:38:42
+47774928,Ferienhaus für 6 Gäste mit 130m² in Berlin (145056),Entire home/apt,1,183.0,238028559,,,2025-01-13 08:11:55+00:00,2025-01-13 08:11:55
+4556488,Balcony room in Neukölln,Private room,1,33.0,15753705,Artur,f,2025-01-13 08:11:18+00:00,2025-01-13 08:11:18
+29119987,"Pure Motion Studio, 41 qm",Hotel room,2,229.0,210700814,,,2025-01-13 08:09:40+00:00,2025-01-13 08:09:40
+52646696,THE DUDE by Charly - Comfy Double room,Entire home/apt,1,154.0,421235453,,,2025-01-13 08:06:28+00:00,2025-01-13 08:06:28
+52015881,Perfectly located private room in sheared flat,Private room,3,35.0,19344446,Katharina,f,2025-01-13 07:58:31+00:00,2025-01-13 07:58:31
+9152895,Schöne Wohnung in alter Brauerei,Entire home/apt,1,65.0,45072888,Linda,f,2025-01-13 07:46:23+00:00,2025-01-13 07:46:23
+5865337,"Schönes Zimmer/Nice Room, Steglitz",Private room,1,20.0,30456351,André,f,2025-01-13 07:42:30+00:00,2025-01-13 07:42:30
+45115855,Cozy Vintage Studio with peaceful balcony,Entire home/apt,8,59.0,77099099,Denise,f,2025-01-13 07:37:52+00:00,2025-01-13 07:37:52
+5539755,2 Zimmer Wohnung mit Balkon,Entire home/apt,1,60.0,28727915,Stefan,f,2025-01-13 07:25:43+00:00,2025-01-13 07:25:43
+5247133,Nice Room in Berlin Neukölln,Private room,1,30.0,27155740,Claudio,f,2025-01-13 07:01:51+00:00,2025-01-13 07:01:51
+42671758,Super clean Room in Steglitz . Very central,Private room,1,38.0,198864678,Ebtisam,f,2025-01-13 06:53:01+00:00,2025-01-13 06:53:01
+28879430,Panorama Room In The Center Of West Berlin,Hotel room,1,425.0,212377709,,,2025-01-13 06:51:04+00:00,2025-01-13 06:51:04
+42491498,Cozy and quiet place to stay!,Private room,4,30.0,74871754,Laura,f,2025-01-13 06:48:44+00:00,2025-01-13 06:48:44
+50234667,Big Flat in Kreuzberg with balcony,Private room,3,49.0,205976061,Júlia,f,2025-01-13 06:26:33+00:00,2025-01-13 06:26:33
+38261816,quiet apartment with terrace in middle of green,Entire home/apt,60,60.0,289573026,,,2025-01-13 06:13:04+00:00,2025-01-13 06:13:04
+20407965,Modern cozy flat share in central Berlin,Private room,2,120.0,12138510,Sascha,f,2025-01-13 05:53:12+00:00,2025-01-13 05:53:12
+7599452,Central Berlin Hugh Luxury Apt,Entire home/apt,3,125.0,1086128,Anonymous,t,2025-01-13 05:47:01+00:00,2025-01-13 05:47:01
+52005535,ArtStyle im Bötzowviertel,Private room,10,28.0,316048468,,,2025-01-13 05:21:35+00:00,2025-01-13 05:21:35
+48856187,Piso en el corazón de Berlín (very central),Private room,15,25.0,249285910,Ricardo,f,2025-01-13 05:16:51+00:00,2025-01-13 05:16:51
+51163216,Comfort Zimmer,Private room,1,110.0,414039130,,,2025-01-13 05:05:08+00:00,2025-01-13 05:05:08
+21467204,Wohnung in  Herzen Friedrichshain,Entire home/apt,1,59.0,155753831,Ionela,f,2025-01-13 05:00:35+00:00,2025-01-13 05:00:35
+30596828,Cozy room with ensuite bathroom,Private room,4,25.0,9422896,James,f,2025-01-13 04:49:42+00:00,2025-01-13 04:49:42
+40575987,Cozy living room in heart of berlin,Private room,1,98.0,314417163,Tobias,f,2025-01-13 04:14:54+00:00,2025-01-13 04:14:54
+52119509,Schöne Altbauwohnung in Berlin - Westend,Entire home/apt,2,50.0,138228310,Thayabaran,f,2025-01-13 04:06:59+00:00,2025-01-13 04:06:59
+16041518,Berlin Lounge am Brandenburger Tor/Potsdamer Platz,Entire home/apt,180,65.0,1199044,,,2025-01-13 04:00:46+00:00,2025-01-13 04:00:46
+47485259,"Schönes, helles DZ, ruhig und zentral mit Terrasse",Private room,1,69.0,291818104,Stephanie,f,2025-01-13 03:55:37+00:00,2025-01-13 03:55:37
+42059333,Cuba apartment,Entire home/apt,1,58.0,87442687,,,2025-01-13 03:32:38+00:00,2025-01-13 03:32:38
+11576991,Schöne Wohnung in Berlins Westen,Entire home/apt,1,60.0,61195936,Lukas,f,2025-01-13 03:31:47+00:00,2025-01-13 03:31:47
+6113529,2 cosy rooms just for U (center),Private room,14,27.0,22756527,Saadet,f,2025-01-13 03:25:21+00:00,2025-01-13 03:25:21
+15161998,Good views!,Private room,1,200.0,96198946,Daniel,f,2025-01-13 02:58:56+00:00,2025-01-13 02:58:56
+7271972,2 large rooms - Berlin,Private room,1,110.0,38074515,Sune,f,2025-01-13 02:40:36+00:00,2025-01-13 02:40:36
+7284888,Double room with bikes in Wedding,Private room,3,40.0,38148105,Andrés,f,2025-01-13 02:30:04+00:00,2025-01-13 02:30:04
+22235689,Cozy room in Mitte,Private room,1,33.0,67891464,Marta,f,2025-01-13 02:19:42+00:00,2025-01-13 02:19:42
+50118558,Lovely Apartment in the Heart of Prenzlauer Berg,Entire home/apt,3,110.0,892561,Katrin,f,2025-01-13 02:00:07+00:00,2025-01-13 02:00:07
+52643602,"Schöne 1,5 Zimmer Wohnung in Berlin Prenzl. Berg",Entire home/apt,3,80.0,143745627,Helena,f,2025-01-13 01:39:43+00:00,2025-01-13 01:39:43
+23261111,Altbau Home in the Heart of Kreuzberg,Private room,2,27.0,8179399,Isabel,f,2025-01-13 01:30:01+00:00,2025-01-13 01:30:01
+46847123,Cozy Brand New Apartment near S-bahn,Entire home/apt,3,50.0,240774012,Meredith,f,2025-01-13 01:15:53+00:00,2025-01-13 01:15:53
+42865877,KREUZBERG Room Bohemian Quarter,Private room,2,55.0,51773775,,,2025-01-13 00:58:26+00:00,2025-01-13 00:58:26
+51904175,Lovely 1 Bedroom Flat for Weekend Rental,Entire home/apt,3,62.0,420402150,Zain,f,2025-01-13 00:55:47+00:00,2025-01-13 00:55:47
+6373325,Welcome to Neukolln :D,Private room,3,25.0,33212040,Stuart,f,2025-01-13 00:38:01+00:00,2025-01-13 00:38:01
+52575214,L. Gemütliche Ein-Zimmer Wohnung/ 3 Gäste,Entire home/apt,3,59.0,27952946,,,2025-01-13 00:33:39+00:00,2025-01-13 00:33:39
+19337121,Altbauzimmer in unmittelbarer Nähe zum Müggelsee!,Private room,2,35.0,4249784,Eugenia,f,2025-01-13 00:15:56+00:00,2025-01-13 00:15:56
+46236443,Central located apartment with balcony,Entire home/apt,5,70.0,34042528,Prateek,f,2025-01-13 00:08:22+00:00,2025-01-13 00:08:22
+40837597,3-room apartment in Berlin Wedding,Entire home/apt,1,75.0,16228053,,,2025-01-13 00:07:59+00:00,2025-01-13 00:07:59
+24671565,Einfamilienhaus in Hohenschönhausen,Entire home/apt,60,71.0,79533499,Frank,f,2025-01-13 00:06:36+00:00,2025-01-13 00:06:36
+1588899,nice room in the heart of Kreuzberg,Private room,1,30.0,4159856,Marco,f,2025-01-13 00:04:07+00:00,2025-01-13 00:04:07

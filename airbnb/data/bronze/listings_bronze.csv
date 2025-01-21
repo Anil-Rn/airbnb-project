@@ -1,0 +1,774 @@
+id,listing_url,name,room_type,minimum_nights,host_id,price,created_at,updated_at
+23738636,https://www.airbnb.com/rooms/23738636,Cozy room in heart of Neukölln,Private room,2,69422661,$40.00 ,2025-01-19T23:34:46Z,2025-01-19T23:34:46Z
+5220557,https://www.airbnb.com/rooms/5220557,Huge one room apartment,Private room,1,11418916,$38.00 ,2025-01-19T23:19:27Z,2025-01-19T23:19:27Z
+49300475,https://www.airbnb.com/rooms/49300475,SCHOENHOUSE by limehome - Standard Suite,Entire home/apt,1,390059085,$159.00 ,2025-01-19T22:54:10Z,2025-01-19T22:54:10Z
+42697557,https://www.airbnb.com/rooms/42697557,"Studio ""Spicy Wasabi"", 34 qm",Entire home/apt,4,335573202,$134.00 ,2025-01-19T22:28:03Z,2025-01-19T22:28:03Z
+19205574,https://www.airbnb.com/rooms/19205574,Room in the heart of Neukölln,Private room,2,134377307,$35.00 ,2025-01-19T22:07:55Z,2025-01-19T22:07:55Z
+11251014,https://www.airbnb.com/rooms/11251014,Let the sun shine in!,Entire home/apt,90,58699640,$50.00 ,2025-01-19T21:32:23Z,2025-01-19T21:32:23Z
+48483249,https://www.airbnb.com/rooms/48483249,NEU! 165 sqm designer flat in Schöneberg,Entire home/apt,20,7688174,$170.00 ,2025-01-19T21:15:17Z,2025-01-19T21:15:17Z
+42300875,https://www.airbnb.com/rooms/42300875,studio apartment not far from the city center,Entire home/apt,30,184661493,$30.00 ,2025-01-19T21:04:26Z,2025-01-19T21:04:26Z
+9732185,https://www.airbnb.com/rooms/9732185,Modern apartment close to Ku'damm,Entire home/apt,5,2587611,$70.00 ,2025-01-19T20:20:23Z,2025-01-19T20:20:23Z
+4146871,https://www.airbnb.com/rooms/4146871,Lovely Berliner Zimmer with en suite bathroom,Private room,2,1019199,$35.00 ,2025-01-19T20:12:43Z,2025-01-19T20:12:43Z
+36541436,https://www.airbnb.com/rooms/36541436,Sailing boat with option to sail + sleep + anchor,Entire home/apt,1,274694797,$189.00 ,2025-01-19T19:59:38Z,2025-01-19T19:59:38Z
+22576334,https://www.airbnb.com/rooms/22576334,Mitten im geilsten Kiez Berlins,Entire home/apt,1,165957729,$57.00 ,2025-01-19T19:56:52Z,2025-01-19T19:56:52Z
+42871839,https://www.airbnb.com/rooms/42871839,"Bright, central, and quiet  in Friedrichshain",Private room,14,195006466,$29.00 ,2025-01-19T19:10:44Z,2025-01-19T19:10:44Z
+29380447,https://www.airbnb.com/rooms/29380447,Bright room with a view in the centre of Berlin,Private room,10,63463003,$49.00 ,2025-01-19T19:08:45Z,2025-01-19T19:08:45Z
+42420636,https://www.airbnb.com/rooms/42420636,Komfort Zimmer im Hotel Brandies Berlin nahe Messe,Private room,0,337659501,$101.00 ,2025-01-19T18:58:17Z,2025-01-19T18:58:17Z
+44192332,https://www.airbnb.com/rooms/44192332,Beautiful elegant apartment- Ludwig Hoffmann Park,Entire home/apt,30,67500313,$100.00 ,2025-01-19T18:43:20Z,2025-01-19T18:43:20Z
+36731204,https://www.airbnb.com/rooms/36731204,Very Beautiful Very Cosy Flat in Great Location !,Entire home/apt,25,275339948,$40.00 ,2025-01-19T18:34:18Z,2025-01-19T18:34:18Z
+29222774,https://www.airbnb.com/rooms/29222774,*NEW* sunny & spacious in the heart of Kreuzberg,Entire home/apt,14,11459975,$105.00 ,2025-01-19T18:33:41Z,2025-01-19T18:33:41Z
+49591816,https://www.airbnb.com/rooms/49591816,Pension im Grünen Reinickendorf Berlin,Entire home/apt,2,399844037,$150.00 ,2025-01-19T18:26:51Z,2025-01-19T18:26:51Z
+12659244,https://www.airbnb.com/rooms/12659244,Sunny room,Private room,1,467817,$35.00 ,2025-01-19T18:03:51Z,2025-01-19T18:03:51Z
+44701277,https://www.airbnb.com/rooms/44701277,Ferienhaus für 6 Gäste mit 130m² in Berlin (145064),Entire home/apt,1,252498808,$183.00 ,2025-01-19T17:58:54Z,2025-01-19T17:58:54Z
+16536427,https://www.airbnb.com/rooms/16536427,Apartment Blau,Entire home/apt,60,5245778,$34.00 ,2025-01-19T17:38:54Z,2025-01-19T17:38:54Z
+5246120,https://www.airbnb.com/rooms/5246120,all included,Entire home/apt,1,27150766,$60.00 ,2025-01-19T17:22:58Z,2025-01-19T17:22:58Z
+37928180,https://www.airbnb.com/rooms/37928180,7 и более человек в квартире в центре Берлина.,Entire home/apt,3,125341008,$133.00 ,2025-01-19T17:19:04Z,2025-01-19T17:19:04Z
+11222384,https://www.airbnb.com/rooms/11222384,22qm Zimmer im wundervollen Wedding,Private room,1,58474737,$12.00 ,2025-01-19T17:01:19Z,2025-01-19T17:01:19Z
+11115298,https://www.airbnb.com/rooms/11115298,"Bright, spacious room in beautiful quiet apartment",Private room,4,12800691,$55.00 ,2025-01-19T16:55:32Z,2025-01-19T16:55:32Z
+31708079,https://www.airbnb.com/rooms/31708079,Apartment Berlin north (20 minutes to the center),Entire home/apt,2,48273473,$39.00 ,2025-01-19T16:52:09Z,2025-01-19T16:52:09Z
+3814770,https://www.airbnb.com/rooms/3814770,In the heart of Kreuzberg,Private room,1,19614775,$40.00 ,2025-01-19T16:49:41Z,2025-01-19T16:49:41Z
+52200232,https://www.airbnb.com/rooms/52200232,2 Zimmer Altbau Apartment,Entire home/apt,2,21502676,$65.00 ,2025-01-19T16:40:45Z,2025-01-19T16:40:45Z
+7767411,https://www.airbnb.com/rooms/7767411,Mauerpark: Helles Zimmer mit Balkon,Private room,5,7846233,$39.00 ,2025-01-19T16:39:42Z,2025-01-19T16:39:42Z
+4584283,https://www.airbnb.com/rooms/4584283,Townhouse in Berlin mitte,Entire home/apt,90,716475,$180.00 ,2025-01-19T16:16:37Z,2025-01-19T16:16:37Z
+20062316,https://www.airbnb.com/rooms/20062316,Small cosy room with high sleeper bed in Mitte,Private room,4,142575003,$18.00 ,2025-01-19T16:15:44Z,2025-01-19T16:15:44Z
+42341850,https://www.airbnb.com/rooms/42341850,792 LUX 1 BEDROOM APARTMENT WITH TERRACE IN MITTE,Entire home/apt,3,96302855,$180.00 ,2025-01-19T16:14:16Z,2025-01-19T16:14:16Z
+39630178,https://www.airbnb.com/rooms/39630178,cozy roof top apt in the pulsing heart of Neukölln,Entire home/apt,1,259418649,$90.00 ,2025-01-19T15:57:30Z,2025-01-19T15:57:30Z
+650784,https://www.airbnb.com/rooms/650784,Beautiful Room in Neukölln,Private room,20,3268804,$20.00 ,2025-01-19T15:50:37Z,2025-01-19T15:50:37Z
+43992253,https://www.airbnb.com/rooms/43992253,Wunderschöne 2-Zimmer Wohnung (&Balkon) Kreuzberg,Entire home/apt,7,11126428,$50.00 ,2025-01-19T15:43:56Z,2025-01-19T15:43:56Z
+7375010,https://www.airbnb.com/rooms/7375010,H,Entire home/apt,2,38636780,$25.00 ,2025-01-19T15:32:14Z,2025-01-19T15:32:14Z
+30334710,https://www.airbnb.com/rooms/30334710,Nice apartment in the centre of Berlin,Entire home/apt,3,12757920,$60.00 ,2025-01-19T15:05:26Z,2025-01-19T15:05:26Z
+5046962,https://www.airbnb.com/rooms/5046962,Beautiful Apartment in Berlin,Entire home/apt,6,25504810,$50.00 ,2025-01-19T15:04:07Z,2025-01-19T15:04:07Z
+12138993,https://www.airbnb.com/rooms/12138993,Bright 3-room flat in Prenzlauer Berg,Entire home/apt,92,1325279,$65.00 ,2025-01-19T14:51:14Z,2025-01-19T14:51:14Z
+41700038,https://www.airbnb.com/rooms/41700038,Sunny 2-room flat w/Balcony Bergmannkiez/Kreuzberg,Entire home/apt,30,1819213,$70.00 ,2025-01-19T14:14:14Z,2025-01-19T14:14:14Z
+45374942,https://www.airbnb.com/rooms/45374942,Gitschiner apartment with Balcony,Entire home/apt,7,116235283,$89.00 ,2025-01-19T13:56:06Z,2025-01-19T13:56:06Z
+36165198,https://www.airbnb.com/rooms/36165198,Kiez Box 1 All,Private room,2,271993354,$460.00 ,2025-01-19T13:34:36Z,2025-01-19T13:34:36Z
+39840556,https://www.airbnb.com/rooms/39840556,"Pivate Room, 1 Bed (140) (Privatzimmer, 1 Bett)",Private room,2,306477150,$50.00 ,2025-01-19T13:27:49Z,2025-01-19T13:27:49Z
+8033018,https://www.airbnb.com/rooms/8033018,Beautiful Apartment Prenzlauer Berg,Entire home/apt,7,26813578,$50.00 ,2025-01-19T13:25:07Z,2025-01-19T13:25:07Z
+50714973,https://www.airbnb.com/rooms/50714973,Stylish Apartment in Prenzlauer Berg,Entire home/apt,92,154077755,$47.00 ,2025-01-19T13:24:42Z,2025-01-19T13:24:42Z
+42805923,https://www.airbnb.com/rooms/42805923,Large - Family - Room,Private room,1,90186621,$999.00 ,2025-01-19T13:19:37Z,2025-01-19T13:19:37Z
+8029943,https://www.airbnb.com/rooms/8029943,Cosy flat with beautiful garden,Entire home/apt,14,40070030,$50.00 ,2025-01-19T13:16:55Z,2025-01-19T13:16:55Z
+52330739,https://www.airbnb.com/rooms/52330739,"Komfortables Appartment am Kurfürstendamm, 40m2",Entire home/apt,10,13776840,$65.00 ,2025-01-19T13:06:51Z,2025-01-19T13:06:51Z
+14498910,https://www.airbnb.com/rooms/14498910,Schönes WG-Zimmer in Moabit,Private room,1,89520978,$15.00 ,2025-01-19T12:54:52Z,2025-01-19T12:54:52Z
+2364544,https://www.airbnb.com/rooms/2364544,Airbnb Apartment,Entire home/apt,7,4920909,$50.00 ,2025-01-19T12:50:45Z,2025-01-19T12:50:45Z
+42571125,https://www.airbnb.com/rooms/42571125,Enjoy your stay,Entire home/apt,1,152414341,$59.00 ,2025-01-19T12:45:44Z,2025-01-19T12:45:44Z
+43083200,https://www.airbnb.com/rooms/43083200,Entspannen im Grünen 🌿🌳,Private room,2,85337726,$20.00 ,2025-01-19T12:41:30Z,2025-01-19T12:41:30Z
+48353696,https://www.airbnb.com/rooms/48353696,Large rooftop room with bathroom kitchen & terrace,Private room,4,1915791,$56.00 ,2025-01-19T11:52:26Z,2025-01-19T11:52:26Z
+42270152,https://www.airbnb.com/rooms/42270152,Bei mir kannst du nichts falsch machen!,Entire home/apt,14,335854085,$80.00 ,2025-01-19T11:37:15Z,2025-01-19T11:37:15Z
+35824828,https://www.airbnb.com/rooms/35824828,Schönes WG-Zimmer am Lietzensee in Charlottenburg.,Entire home/apt,1,86087723,$40.00 ,2025-01-19T11:33:38Z,2025-01-19T11:33:38Z
+17993203,https://www.airbnb.com/rooms/17993203,Loft in central berlin with south balcony,Private room,14,9110422,$69.00 ,2025-01-19T11:28:12Z,2025-01-19T11:28:12Z
+50585895,https://www.airbnb.com/rooms/50585895,Beautiful and quiet apartment in Charlottenburg,Entire home/apt,90,2412944,$70.00 ,2025-01-19T11:23:17Z,2025-01-19T11:23:17Z
+7824963,https://www.airbnb.com/rooms/7824963,Berliner Kiez Wohnung Altbau,Entire home/apt,1,41199304,$50.00 ,2025-01-19T11:21:50Z,2025-01-19T11:21:50Z
+42633611,https://www.airbnb.com/rooms/42633611,"2-Raum Apartment ""City Nature"", 51 qm",Entire home/apt,15,210700814,$211.00 ,2025-01-19T11:16:22Z,2025-01-19T11:16:22Z
+41061299,https://www.airbnb.com/rooms/41061299,Schöne Berliner Altbauwohnung in Charlottenburg,Entire home/apt,4,150288766,$76.00 ,2025-01-19T11:15:55Z,2025-01-19T11:15:55Z
+40946817,https://www.airbnb.com/rooms/40946817,Very cosy & quiet apartment in the city centre,Entire home/apt,6,319033463,$120.00 ,2025-01-19T11:15:53Z,2025-01-19T11:15:53Z
+7466821,https://www.airbnb.com/rooms/7466821,shared room,Shared room,1,39102959,$70.00 ,2025-01-19T11:15:21Z,2025-01-19T11:15:21Z
+4314353,https://www.airbnb.com/rooms/4314353,stylish ap. @Xberg with lakeview,Shared room,355,21239469,$45.00 ,2025-01-19T10:57:09Z,2025-01-19T10:57:09Z
+51356485,https://www.airbnb.com/rooms/51356485,Renovated Family Apartment in Warschauer Straße,Entire home/apt,1,371901575,$154.00 ,2025-01-19T10:56:20Z,2025-01-19T10:56:20Z
+23066511,https://www.airbnb.com/rooms/23066511,ein schönes Zimmer im Herzen Prenzlbergs,Private room,3,21239559,$50.00 ,2025-01-19T10:50:46Z,2025-01-19T10:50:46Z
+9956966,https://www.airbnb.com/rooms/9956966,Sweet Bed inside DDRstyle Apartment,Shared room,1,19336587,$12.00 ,2025-01-19T10:50:12Z,2025-01-19T10:50:12Z
+42111391,https://www.airbnb.com/rooms/42111391,Sunny flat in the heart of Bergmannkiez !,Entire home/apt,6,95407160,$55.00 ,2025-01-19T10:49:16Z,2025-01-19T10:49:16Z
+44455843,https://www.airbnb.com/rooms/44455843,Cozy room in a charming shared flat,Private room,3,22921735,$35.00 ,2025-01-19T10:45:25Z,2025-01-19T10:45:25Z
+10069929,https://www.airbnb.com/rooms/10069929,Bright double room in Berlin,Private room,1,51671248,$25.00 ,2025-01-19T10:43:04Z,2025-01-19T10:43:04Z
+26187036,https://www.airbnb.com/rooms/26187036,Axel Junior Suite at Axel Hotel Berlin,Hotel room,1,98159395,$170.00 ,2025-01-19T10:41:09Z,2025-01-19T10:41:09Z
+39248495,https://www.airbnb.com/rooms/39248495,Great location with a lot of sunlight,Entire home/apt,3,43935521,$130.00 ,2025-01-19T10:36:19Z,2025-01-19T10:36:19Z
+8676968,https://www.airbnb.com/rooms/8676968,Ruhiges Landhauserdgeschoss,Entire home/apt,1,45572867,$58.00 ,2025-01-19T10:31:16Z,2025-01-19T10:31:16Z
+41307095,https://www.airbnb.com/rooms/41307095,70sqm in Berlin Mitte: Newly furnished apartment,Entire home/apt,7,18238569,$45.00 ,2025-01-19T10:23:22Z,2025-01-19T10:23:22Z
+36011170,https://www.airbnb.com/rooms/36011170,"CHIC, SPACIOUS APARTMENT IN PEACEFUL NEIGHBORHOOD",Entire home/apt,2,270932564,$141.00 ,2025-01-19T10:19:19Z,2025-01-19T10:19:19Z
+39492370,https://www.airbnb.com/rooms/39492370,"Apartment in Berlin,Lichterfelde West",Entire home/apt,1,72766229,$69.00 ,2025-01-19T10:13:43Z,2025-01-19T10:13:43Z
+13517557,https://www.airbnb.com/rooms/13517557,Renovated apartment in the center,Entire home/apt,1,77631123,$413.00 ,2025-01-19T10:07:15Z,2025-01-19T10:07:15Z
+44549170,https://www.airbnb.com/rooms/44549170,Little gem in the heart of Berlin,Entire home/apt,7,210979600,$50.00 ,2025-01-19T10:03:23Z,2025-01-19T10:03:23Z
+7136371,https://www.airbnb.com/rooms/7136371,Spacious and cosy flat in Kreuzberg,Entire home/apt,7,3410903,$75.00 ,2025-01-19T09:39:47Z,2025-01-19T09:39:47Z
+21621006,https://www.airbnb.com/rooms/21621006,17m² quiet room in central kreuzberg,Private room,1,82245405,$29.00 ,2025-01-19T09:26:53Z,2025-01-19T09:26:53Z
+19689677,https://www.airbnb.com/rooms/19689677,Comfy east side,Entire home/apt,1,138694757,$50.00 ,2025-01-19T09:26:31Z,2025-01-19T09:26:31Z
+46719329,https://www.airbnb.com/rooms/46719329,"2-Raum Penthouse, 59 qm, Longstay (1-6 months)",Entire home/apt,29,210700814,$125.00 ,2025-01-19T08:54:10Z,2025-01-19T08:54:10Z
+22118984,https://www.airbnb.com/rooms/22118984,Cosy room to stay,Private room,3,149151975,$15.00 ,2025-01-19T08:39:45Z,2025-01-19T08:39:45Z
+11865663,https://www.airbnb.com/rooms/11865663,Sonniges Zimmer in cooler 2-er WG,Private room,1,63252838,$20.00 ,2025-01-19T08:25:35Z,2025-01-19T08:25:35Z
+19473299,https://www.airbnb.com/rooms/19473299,Cosy room in green area,Private room,1,21611073,$24.00 ,2025-01-19T08:21:29Z,2025-01-19T08:21:29Z
+9874953,https://www.airbnb.com/rooms/9874953,Modern Flat near Potsdamer Platz,Entire home/apt,1,50814368,$160.00 ,2025-01-19T08:07:24Z,2025-01-19T08:07:24Z
+44346533,https://www.airbnb.com/rooms/44346533,"möbliertes Zimmer, Bad und Küche in Berlin-Mitte",Private room,60,185127873,$26.00 ,2025-01-19T08:03:37Z,2025-01-19T08:03:37Z
+52821218,https://www.airbnb.com/rooms/52821218,Cosy 3BR 2BTH +A/C +Self Check-In +Street Parking,Entire home/apt,1,125847915,$119.00 ,2025-01-19T07:46:01Z,2025-01-19T07:46:01Z
+52709676,https://www.airbnb.com/rooms/52709676,Berlin Rathenauer Platz,Entire home/apt,2,332515272,$101.00 ,2025-01-19T07:38:45Z,2025-01-19T07:38:45Z
+7341721,https://www.airbnb.com/rooms/7341721,"Top location apartment 5, Ostkreuz",Private room,1,19297176,$40.00 ,2025-01-19T07:33:13Z,2025-01-19T07:33:13Z
+37584556,https://www.airbnb.com/rooms/37584556,Cozy room in Kreuzberg,Private room,3,78396686,$33.00 ,2025-01-19T07:04:54Z,2025-01-19T07:04:54Z
+43129947,https://www.airbnb.com/rooms/43129947,1 zimmer apartment im Berlin,Entire home/apt,1,343362459,$17.00 ,2025-01-19T07:03:24Z,2025-01-19T07:03:24Z
+40904538,https://www.airbnb.com/rooms/40904538,Gemütliches Zimmer im Zentrum Berlins,Private room,3,42476536,$85.00 ,2025-01-19T07:02:44Z,2025-01-19T07:02:44Z
+52292663,https://www.airbnb.com/rooms/52292663,1 bedroom Apartment at the heart of Bergmannkiez,Entire home/apt,12,3776656,$50.00 ,2025-01-19T06:45:18Z,2025-01-19T06:45:18Z
+32444799,https://www.airbnb.com/rooms/32444799,Beautiful room Central Berlin,Private room,4,183729511,$60.00 ,2025-01-19T06:36:17Z,2025-01-19T06:36:17Z
+18358079,https://www.airbnb.com/rooms/18358079,calm and nice flat in spandau,Private room,1,126621397,$35.00 ,2025-01-19T06:12:28Z,2025-01-19T06:12:28Z
+52377186,https://www.airbnb.com/rooms/52377186,NuWave Hotel Berlin - Classic Triple Room,Private room,1,421557030,$127.00 ,2025-01-19T06:10:25Z,2025-01-19T06:10:25Z
+42033637,https://www.airbnb.com/rooms/42033637,Gemütliches Zuhause in Berlin Pankow,Entire home/apt,7,333116165,$35.00 ,2025-01-19T05:44:20Z,2025-01-19T05:44:20Z
+16465773,https://www.airbnb.com/rooms/16465773,Gemütliche Wohnung nähe Schloss Charlottenburg,Entire home/apt,3,89268468,$99.00 ,2025-01-19T05:21:16Z,2025-01-19T05:21:16Z
+45068810,https://www.airbnb.com/rooms/45068810,Schöne 2-Zimmer Wohnung in Berlin,Entire home/apt,5,363700882,$33.00 ,2025-01-19T05:10:32Z,2025-01-19T05:10:32Z
+46719436,https://www.airbnb.com/rooms/46719436,"4-Raum Penthouse, 147 qm, Longstay (1-6 months)",Entire home/apt,29,210700814,$313.00 ,2025-01-19T04:39:16Z,2025-01-19T04:39:16Z
+4929901,https://www.airbnb.com/rooms/4929901,Cosy one room apartment in Neukölln (4 people),Entire home/apt,1,25395752,$35.00 ,2025-01-19T03:21:57Z,2025-01-19T03:21:57Z
+43568803,https://www.airbnb.com/rooms/43568803,Altbau Studio Oasis in the Heart of Schöneberg,Entire home/apt,5,35594166,$62.00 ,2025-01-19T02:18:19Z,2025-01-19T02:18:19Z
+6241243,https://www.airbnb.com/rooms/6241243,Large sunny room in Kreuzberg,Private room,3,32052575,$30.00 ,2025-01-19T02:09:13Z,2025-01-19T02:09:13Z
+43412876,https://www.airbnb.com/rooms/43412876,Tolle 2 Zi Wohnung in begehrter Lage,Entire home/apt,90,345964111,$50.00 ,2025-01-19T02:04:51Z,2025-01-19T02:04:51Z
+47534144,https://www.airbnb.com/rooms/47534144,Charming  Apartment,Entire home/apt,92,245134540,$40.00 ,2025-01-19T01:42:21Z,2025-01-19T01:42:21Z
+9297443,https://www.airbnb.com/rooms/9297443,Large room in vibrant Sprengelkiez,Private room,8,48268160,$13.00 ,2025-01-19T01:15:38Z,2025-01-19T01:15:38Z
+25039925,https://www.airbnb.com/rooms/25039925,Charming Apartment near Mauerpark,Entire home/apt,3,131496623,$110.00 ,2025-01-19T01:14:33Z,2025-01-19T01:14:33Z
+35559289,https://www.airbnb.com/rooms/35559289,120 qm Apartment w/balcony in beautiful Zehlendorf,Entire home/apt,30,71365406,$45.00 ,2025-01-19T00:51:08Z,2025-01-19T00:51:08Z
+42750190,https://www.airbnb.com/rooms/42750190,"Luxurious, sunny and large Coolness in Kreuzberg",Entire home/apt,2,9139634,$200.00 ,2025-01-19T00:43:34Z,2025-01-19T00:43:34Z
+45666076,https://www.airbnb.com/rooms/45666076,Lachmannstraße. 3,Entire home/apt,3,369958333,$99.00 ,2025-01-19T00:36:46Z,2025-01-19T00:36:46Z
+8021361,https://www.airbnb.com/rooms/8021361,Cheap Room in Berlin,Private room,1,42350439,$9.00 ,2025-01-19T00:35:49Z,2025-01-19T00:35:49Z
+50558596,https://www.airbnb.com/rooms/50558596,Chill in Center of the City,Entire home/apt,1,277979335,$80.00 ,2025-01-19T00:34:26Z,2025-01-19T00:34:26Z
+18893546,https://www.airbnb.com/rooms/18893546,cosy and peaceful room in the center of Berlin,Private room,1,131658946,$43.00 ,2025-01-19T00:25:27Z,2025-01-19T00:25:27Z
+7687245,https://www.airbnb.com/rooms/7687245,Spacious Berlin City Apartment,Entire home/apt,3,7775858,$75.00 ,2025-01-18T23:48:06Z,2025-01-18T23:48:06Z
+43696722,https://www.airbnb.com/rooms/43696722,Renovated Historical Place in Kastanienallee,Private room,5,57963738,$30.00 ,2025-01-18T23:42:42Z,2025-01-18T23:42:42Z
+39519638,https://www.airbnb.com/rooms/39519638,"Beautifully furnished , light-flooded apartment",Entire home/apt,93,43917936,$65.00 ,2025-01-18T23:42:18Z,2025-01-18T23:42:18Z
+23158760,https://www.airbnb.com/rooms/23158760,Beautiful and big room with balcony in Neukölln,Private room,2,112840196,$25.00 ,2025-01-18T23:41:31Z,2025-01-18T23:41:31Z
+12625592,https://www.airbnb.com/rooms/12625592,Central Berlin Apartment,Entire home/apt,1,68548589,$60.00 ,2025-01-18T23:19:00Z,2025-01-18T23:19:00Z
+22770493,https://www.airbnb.com/rooms/22770493,Schöne 1 Zimmer Wohnung in Friedrichshain.,Entire home/apt,7,141289136,$48.00 ,2025-01-18T23:18:58Z,2025-01-18T23:18:58Z
+44219012,https://www.airbnb.com/rooms/44219012,Beautiful two-bedroom apartment in Spandau,Entire home/apt,60,271235180,$45.00 ,2025-01-18T22:55:10Z,2025-01-18T22:55:10Z
+7851334,https://www.airbnb.com/rooms/7851334,The room of the rising sun,Private room,4,41296382,$20.00 ,2025-01-18T22:42:35Z,2025-01-18T22:42:35Z
+49012266,https://www.airbnb.com/rooms/49012266,Extravagant hotel room for 4 central to Subway,Private room,14,108025548,$66.00 ,2025-01-18T22:35:01Z,2025-01-18T22:35:01Z
+33772661,https://www.airbnb.com/rooms/33772661,Dachterrassenwhg im Herzen Berlin-Charlottenburgs,Entire home/apt,91,215514794,$73.00 ,2025-01-18T22:28:15Z,2025-01-18T22:28:15Z
+22557460,https://www.airbnb.com/rooms/22557460,"Beautiful and cozy room, 10 min from the center",Private room,1,3208719,$26.00 ,2025-01-18T22:26:42Z,2025-01-18T22:26:42Z
+44264891,https://www.airbnb.com/rooms/44264891,Dreibettzimmer,Private room,1,304493323,$70.00 ,2025-01-18T22:10:48Z,2025-01-18T22:10:48Z
+41280697,https://www.airbnb.com/rooms/41280697,Fantastic flat in the heart of Prenzlauer Berg,Entire home/apt,60,42399854,$70.00 ,2025-01-18T21:52:04Z,2025-01-18T21:52:04Z
+44974395,https://www.airbnb.com/rooms/44974395,the bunny nest,Entire home/apt,5,351093370,$80.00 ,2025-01-18T21:39:34Z,2025-01-18T21:39:34Z
+1862730,https://www.airbnb.com/rooms/1862730,Apartment in Berlin,Entire home/apt,7,9715630,$40.00 ,2025-01-18T21:06:48Z,2025-01-18T21:06:48Z
+21410085,https://www.airbnb.com/rooms/21410085,Cosy bedroom in Wedding (good connections to city),Private room,4,123547522,$28.00 ,2025-01-18T21:02:03Z,2025-01-18T21:02:03Z
+38370141,https://www.airbnb.com/rooms/38370141,"Lovely furnitured, calm and light apartment",Entire home/apt,2,12906416,$129.00 ,2025-01-18T20:35:27Z,2025-01-18T20:35:27Z
+48602039,https://www.airbnb.com/rooms/48602039,One Room Apartment,Entire home/apt,7,235188041,$25.00 ,2025-01-18T20:31:48Z,2025-01-18T20:31:48Z
+32493376,https://www.airbnb.com/rooms/32493376,Bright and friendly room in a beautiful area:),Private room,1,35146426,$60.00 ,2025-01-18T19:18:22Z,2025-01-18T19:18:22Z
+40440916,https://www.airbnb.com/rooms/40440916,Sunny & Spacious Flat in Kastanienallee,Entire home/apt,365,3743292,$85.00 ,2025-01-18T19:10:07Z,2025-01-18T19:10:07Z
+30686711,https://www.airbnb.com/rooms/30686711,Lovely Studio for one month,Entire home/apt,30,70162844,$18.00 ,2025-01-18T19:09:00Z,2025-01-18T19:09:00Z
+22060183,https://www.airbnb.com/rooms/22060183,Best area best preis! Cat included!!,Entire home/apt,1,21039758,$20.00 ,2025-01-18T18:33:06Z,2025-01-18T18:33:06Z
+7935870,https://www.airbnb.com/rooms/7935870,Moabiter Schlummermutter,Shared room,1,41848444,$59.00 ,2025-01-18T18:20:26Z,2025-01-18T18:20:26Z
+16424150,https://www.airbnb.com/rooms/16424150,Nice and cosy flat in Kreuzberg!,Entire home/apt,3,30338608,$55.00 ,2025-01-18T17:54:51Z,2025-01-18T17:54:51Z
+24627537,https://www.airbnb.com/rooms/24627537,Cozy west Berlin Altbau in Charlottenburg,Entire home/apt,1,1095067,$45.00 ,2025-01-18T17:48:59Z,2025-01-18T17:48:59Z
+44411065,https://www.airbnb.com/rooms/44411065,Berlin home directly in Hasenheide park,Private room,7,159614605,$45.00 ,2025-01-18T17:41:26Z,2025-01-18T17:41:26Z
+9485145,https://www.airbnb.com/rooms/9485145,Nice Berlin Apartment,Entire home/apt,1,12895544,$135.00 ,2025-01-18T17:38:16Z,2025-01-18T17:38:16Z
+48997107,https://www.airbnb.com/rooms/48997107,Comfy&cozy hotel room for 3 central to subway,Private room,14,108025548,$71.00 ,2025-01-18T17:23:05Z,2025-01-18T17:23:05Z
+12035953,https://www.airbnb.com/rooms/12035953,Big Apartment near Tegel,Entire home/apt,60,18046938,$42.00 ,2025-01-18T16:56:37Z,2025-01-18T16:56:37Z
+5157203,https://www.airbnb.com/rooms/5157203,Neukölln!!!,Entire home/apt,1,25561949,$40.00 ,2025-01-18T16:37:25Z,2025-01-18T16:37:25Z
+51415401,https://www.airbnb.com/rooms/51415401,"Doppelzimmer ""Medium Twin"" Mit 2 Einzelbetten",Private room,1,415771368,$190.00 ,2025-01-18T16:35:11Z,2025-01-18T16:35:11Z
+21214782,https://www.airbnb.com/rooms/21214782,Schlafen an der Spree,Entire home/apt,5,152068633,$35.00 ,2025-01-18T16:32:43Z,2025-01-18T16:32:43Z
+51445317,https://www.airbnb.com/rooms/51445317,Cozy & Beautiful Room in Neukölln,Private room,2,80482488,$85.00 ,2025-01-18T16:21:52Z,2025-01-18T16:21:52Z
+41430587,https://www.airbnb.com/rooms/41430587,Micoswohnung,Private room,1,325856414,$80.00 ,2025-01-18T16:09:19Z,2025-01-18T16:09:19Z
+4621461,https://www.airbnb.com/rooms/4621461,Kreuzberg 19th century flat,Private room,2,23937038,$50.00 ,2025-01-18T16:07:25Z,2025-01-18T16:07:25Z
+20109087,https://www.airbnb.com/rooms/20109087,Amazing home in Berlin-Köpenick with Sauna and 2 Bedrooms,Entire home/apt,28,141539959,$84.00 ,2025-01-18T15:51:57Z,2025-01-18T15:51:57Z
+17453626,https://www.airbnb.com/rooms/17453626,Cosy bright colourful apartment,Entire home/apt,6,7133966,$25.00 ,2025-01-18T15:40:54Z,2025-01-18T15:40:54Z
+12468108,https://www.airbnb.com/rooms/12468108,"1,5 Zimmer Wohung in Kreuzberg",Entire home/apt,7,62304690,$39.00 ,2025-01-18T15:32:03Z,2025-01-18T15:32:03Z
+29847365,https://www.airbnb.com/rooms/29847365,Great cozy Berlin room with two floors and balkony,Private room,2,3432145,$70.00 ,2025-01-18T15:15:45Z,2025-01-18T15:15:45Z
+38994025,https://www.airbnb.com/rooms/38994025,Luxury modern loft close to water,Entire home/apt,14,19520560,$140.00 ,2025-01-18T15:10:56Z,2025-01-18T15:10:56Z
+45501555,https://www.airbnb.com/rooms/45501555,"Sunny, Quiet Studio Loft in Prenzlauerberg",Entire home/apt,1,28274520,$85.00 ,2025-01-18T15:08:20Z,2025-01-18T15:08:20Z
+52332750,https://www.airbnb.com/rooms/52332750,Bright and spacious apartment in Friedrichshain,Entire home/apt,2,41053818,$80.00 ,2025-01-18T14:54:35Z,2025-01-18T14:54:35Z
+51963334,https://www.airbnb.com/rooms/51963334,Super Saver Studio 20N · Super Saver Studio 20N · Günstiger Start in Berlin: Super Saver Studio,Entire home/apt,20,71613847,$48.00 ,2025-01-18T14:53:02Z,2025-01-18T14:53:02Z
+44566079,https://www.airbnb.com/rooms/44566079,"Modernes 2,5 Zimmer Erdgeschoss-Apartment-Neubau",Entire home/apt,29,8912086,$99.00 ,2025-01-18T14:44:34Z,2025-01-18T14:44:34Z
+52819429,https://www.airbnb.com/rooms/52819429,FAMILY@Mauerpark +SelfCheckIn +Street Parking,Entire home/apt,1,125847915,$106.00 ,2025-01-18T14:43:33Z,2025-01-18T14:43:33Z
+19479221,https://www.airbnb.com/rooms/19479221,Private Room,Private room,2,2877982,$59.00 ,2025-01-18T14:06:11Z,2025-01-18T14:06:11Z
+20081217,https://www.airbnb.com/rooms/20081217,Schniekes Zimmer im Rigaerkiez!,Private room,3,21547435,$32.00 ,2025-01-18T13:58:53Z,2025-01-18T13:58:53Z
+27011860,https://www.airbnb.com/rooms/27011860,LOFT HOTEL BIG MAMA,Private room,1,84251083,$131.00 ,2025-01-18T13:42:42Z,2025-01-18T13:42:42Z
+40819056,https://www.airbnb.com/rooms/40819056,Clean and nice flat in Neukölln / myabachufer,Shared room,1,214951099,$50.00 ,2025-01-18T13:19:03Z,2025-01-18T13:19:03Z
+37548979,https://www.airbnb.com/rooms/37548979,Charming flat next to Gesundbrunnen,Entire home/apt,14,53158363,$65.00 ,2025-01-18T13:12:45Z,2025-01-18T13:12:45Z
+14173499,https://www.airbnb.com/rooms/14173499,Grüne Stadtoase kinderfreundlich 45qm/700qm Garten,Entire home/apt,7,45160095,$110.00 ,2025-01-18T12:53:41Z,2025-01-18T12:53:41Z
+42547533,https://www.airbnb.com/rooms/42547533,Friedrichshain Penthouse Apartment,Private room,5,22002533,$100.00 ,2025-01-18T12:41:42Z,2025-01-18T12:41:42Z
+2192027,https://www.airbnb.com/rooms/2192027,Temporary Living - Loftstyle Studio Apartment,Entire home/apt,180,1581,$40.00 ,2025-01-18T12:37:38Z,2025-01-18T12:37:38Z
+27448772,https://www.airbnb.com/rooms/27448772,our home in Berlin,Entire home/apt,1,206843996,$100.00 ,2025-01-18T12:25:15Z,2025-01-18T12:25:15Z
+20870208,https://www.airbnb.com/rooms/20870208,"Big room close to Alexanderplatz,Berlin mitte",Private room,1,125905477,$23.00 ,2025-01-18T12:23:56Z,2025-01-18T12:23:56Z
+3564551,https://www.airbnb.com/rooms/3564551,Zentrale Wohnung in Berlin Wedding,Entire home/apt,1,10867269,$65.00 ,2025-01-18T12:04:53Z,2025-01-18T12:04:53Z
+29027417,https://www.airbnb.com/rooms/29027417,A CITY WHERE PAST MEETS PRESENT AT EVERY CORNER,Entire home/apt,2,218761980,$84.00 ,2025-01-18T11:49:25Z,2025-01-18T11:49:25Z
+37322274,https://www.airbnb.com/rooms/37322274,Cozy bedroom in the heart of hip Neukolln,Private room,2,73542338,$45.00 ,2025-01-18T11:47:34Z,2025-01-18T11:47:34Z
+9878743,https://www.airbnb.com/rooms/9878743,Maisonette apartment in Kreuzberg,Entire home/apt,14,20073156,$50.00 ,2025-01-18T11:43:07Z,2025-01-18T11:43:07Z
+32324771,https://www.airbnb.com/rooms/32324771,Spacious Premium Condo at Potsdamer Platz  !,Entire home/apt,1,156046558,$150.00 ,2025-01-18T11:35:18Z,2025-01-18T11:35:18Z
+30416233,https://www.airbnb.com/rooms/30416233,Sweet Home Away - Outstanding Location,Private room,1,23538739,$80.00 ,2025-01-18T11:22:24Z,2025-01-18T11:22:24Z
+7911896,https://www.airbnb.com/rooms/7911896,Beautiful Studio in Central Berlin,Entire home/apt,5,9704111,$35.00 ,2025-01-18T11:09:29Z,2025-01-18T11:09:29Z
+29375871,https://www.airbnb.com/rooms/29375871,Gemütliche helle Wohnung im Herzen Neuköllns,Entire home/apt,2,221307440,$100.00 ,2025-01-18T10:45:55Z,2025-01-18T10:45:55Z
+42874318,https://www.airbnb.com/rooms/42874318,"Cozy, central room! Mitte/Kreuzberg",Private room,2,341396019,$40.00 ,2025-01-18T10:43:18Z,2025-01-18T10:43:18Z
+20109071,https://www.airbnb.com/rooms/20109071,"Awesome home in Berlin with Sauna, WiFi and 4 Bedrooms",Entire home/apt,28,141539959,$131.00 ,2025-01-18T10:34:49Z,2025-01-18T10:34:49Z
+4385494,https://www.airbnb.com/rooms/4385494,once upon a time,Entire home/apt,5,22767895,$141.00 ,2025-01-18T10:34:30Z,2025-01-18T10:34:30Z
+24058328,https://www.airbnb.com/rooms/24058328,*Nice and cosy room in flatshare in Kreuzberg*,Private room,6,31452730,$25.00 ,2025-01-18T10:33:22Z,2025-01-18T10:33:22Z
+20024345,https://www.airbnb.com/rooms/20024345,Beautiful flat in Richardkiez | Berlin - Neukölln,Entire home/apt,2,46359595,$73.00 ,2025-01-18T10:22:47Z,2025-01-18T10:22:47Z
+9936085,https://www.airbnb.com/rooms/9936085,Kreuzberg - super central,Private room,1,51069713,$50.00 ,2025-01-18T10:16:38Z,2025-01-18T10:16:38Z
+52656583,https://www.airbnb.com/rooms/52656583,Cozy Room in Neukölln Reuterkiez,Private room,3,19587639,$31.00 ,2025-01-18T10:16:10Z,2025-01-18T10:16:10Z
+6001029,https://www.airbnb.com/rooms/6001029,Schöne Wohnung in Kreuzberg,Entire home/apt,1,9699051,$55.00 ,2025-01-18T09:55:04Z,2025-01-18T09:55:04Z
+20282908,https://www.airbnb.com/rooms/20282908,Beautiful Room In The Heart Of Kreuzberg,Private room,1,48872858,$30.00 ,2025-01-18T09:43:04Z,2025-01-18T09:43:04Z
+20294937,https://www.airbnb.com/rooms/20294937,Ruhiges Zimmer in Mitte/Moabit,Private room,2,144775899,$39.00 ,2025-01-18T09:34:11Z,2025-01-18T09:34:11Z
+42828834,https://www.airbnb.com/rooms/42828834,10 Minuten zum Checkpoint Charlie.,Entire home/apt,5,174735694,$75.00 ,2025-01-18T09:32:25Z,2025-01-18T09:32:25Z
+50391109,https://www.airbnb.com/rooms/50391109,Komfort Doppelzimmer,Private room,1,407066591,$151.00 ,2025-01-18T09:26:53Z,2025-01-18T09:26:53Z
+45264026,https://www.airbnb.com/rooms/45264026,Moderne Neubauwohnung im Herzen von Friedrichshain,Entire home/apt,2,93328001,$68.00 ,2025-01-18T09:12:11Z,2025-01-18T09:12:11Z
+45844997,https://www.airbnb.com/rooms/45844997,The warmest home for your (creative) stay in town,Private room,4,259262897,$33.00 ,2025-01-18T09:10:59Z,2025-01-18T09:10:59Z
+11749393,https://www.airbnb.com/rooms/11749393,Easter in the centre of Berlin,Entire home/apt,2,18084560,$95.00 ,2025-01-18T08:38:27Z,2025-01-18T08:38:27Z
+10128323,https://www.airbnb.com/rooms/10128323,Togostrasse,Entire home/apt,1,6923662,$35.00 ,2025-01-18T08:36:33Z,2025-01-18T08:36:33Z
+52348016,https://www.airbnb.com/rooms/52348016,Zentrale Design-Altbauwohnung mit Kamin &Terrasse,Entire home/apt,2,207473068,$84.00 ,2025-01-18T08:36:10Z,2025-01-18T08:36:10Z
+21332140,https://www.airbnb.com/rooms/21332140,Eigene Wohnung im Hinterhof mit Terasse,Private room,2,154388151,$54.00 ,2025-01-18T08:35:54Z,2025-01-18T08:35:54Z
+39834698,https://www.airbnb.com/rooms/39834698,Hip Berliner Kiez Room 1,Private room,1,18241865,$40.00 ,2025-01-18T08:28:47Z,2025-01-18T08:28:47Z
+48733327,https://www.airbnb.com/rooms/48733327,Brutalistischer Space zum Wohlfühlen,Entire home/apt,1,11896083,$500.00 ,2025-01-18T07:53:31Z,2025-01-18T07:53:31Z
+22494396,https://www.airbnb.com/rooms/22494396,Bedroom,Private room,3,101520347,$35.00 ,2025-01-18T06:56:50Z,2025-01-18T06:56:50Z
+36241217,https://www.airbnb.com/rooms/36241217,Room in Berlin center,Private room,1,259317360,$400.00 ,2025-01-18T06:51:21Z,2025-01-18T06:51:21Z
+44456630,https://www.airbnb.com/rooms/44456630,Lovely apartment in the heart of Kreuzberg,Entire home/apt,2,22582175,$80.00 ,2025-01-18T06:49:02Z,2025-01-18T06:49:02Z
+9232303,https://www.airbnb.com/rooms/9232303,large one bedroom studio,Entire home/apt,1,1174550,$46.00 ,2025-01-18T06:33:16Z,2025-01-18T06:33:16Z
+8808663,https://www.airbnb.com/rooms/8808663,apartamento luminoso y centrico,Entire home/apt,30,46149557,$74.00 ,2025-01-18T06:04:10Z,2025-01-18T06:04:10Z
+28682954,https://www.airbnb.com/rooms/28682954,Schönes und ruhiges Zimmer in Steglitz,Private room,1,216394478,$55.00 ,2025-01-18T05:59:08Z,2025-01-18T05:59:08Z
+32711241,https://www.airbnb.com/rooms/32711241,Wohnung 65qm am Ostkreuz Friedrichshain,Entire home/apt,20,74744455,$30.00 ,2025-01-18T05:44:00Z,2025-01-18T05:44:00Z
+7606896,https://www.airbnb.com/rooms/7606896,Helles schönes privates Zimmer WG,Private room,7,39895198,$35.00 ,2025-01-18T05:38:50Z,2025-01-18T05:38:50Z
+22203325,https://www.airbnb.com/rooms/22203325,Cosy room in nice neighborhood,Private room,6,67060786,$14.00 ,2025-01-18T05:29:20Z,2025-01-18T05:29:20Z
+7486826,https://www.airbnb.com/rooms/7486826,3-Zimmer Altbauwohnung in Kreuzberg,Entire home/apt,1,21353180,$80.00 ,2025-01-18T05:17:21Z,2025-01-18T05:17:21Z
+38588253,https://www.airbnb.com/rooms/38588253,Berlin Townhouse -  zwischen Großstadt und Natur,Entire home/apt,2,5882316,$140.00 ,2025-01-18T04:37:19Z,2025-01-18T04:37:19Z
+20421853,https://www.airbnb.com/rooms/20421853,cosy room  beautiful location near metro station,Private room,1,145677064,$16.00 ,2025-01-18T04:12:56Z,2025-01-18T04:12:56Z
+13791138,https://www.airbnb.com/rooms/13791138,1 Room Apartment Berlin Lichtenberg,Entire home/apt,1,49469944,$60.00 ,2025-01-18T03:59:43Z,2025-01-18T03:59:43Z
+6947885,https://www.airbnb.com/rooms/6947885,Cozy studio near the lake.,Entire home/apt,1,5129180,$50.00 ,2025-01-18T03:56:40Z,2025-01-18T03:56:40Z
+22725803,https://www.airbnb.com/rooms/22725803,Gemütliches Zimmer im Prenzlauer Berg,Private room,10,41906597,$15.00 ,2025-01-18T03:44:16Z,2025-01-18T03:44:16Z
+32483112,https://www.airbnb.com/rooms/32483112,"Sunny, warm, cosy and close to party districts !",Private room,1,244058292,$24.00 ,2025-01-18T03:34:40Z,2025-01-18T03:34:40Z
+20672004,https://www.airbnb.com/rooms/20672004,Calm and zen place in the heart of Berlin Mitte,Entire home/apt,1,14882027,$119.00 ,2025-01-18T03:31:29Z,2025-01-18T03:31:29Z
+40403330,https://www.airbnb.com/rooms/40403330,Friedrichshain - amazing location,Private room,6,129636132,$28.00 ,2025-01-18T03:25:30Z,2025-01-18T03:25:30Z
+40652059,https://www.airbnb.com/rooms/40652059,Sauber machen,Private room,30,315280811,$40.00 ,2025-01-18T03:04:50Z,2025-01-18T03:04:50Z
+41396035,https://www.airbnb.com/rooms/41396035,Cozy room in the heart of Rixdorf Neukölln,Private room,2,39032040,$28.00 ,2025-01-18T03:02:39Z,2025-01-18T03:02:39Z
+50906824,https://www.airbnb.com/rooms/50906824,Doppelzimmer mit Aufbettungsmöglichkeit,Private room,1,174923505,$74.00 ,2025-01-18T03:01:36Z,2025-01-18T03:01:36Z
+21609334,https://www.airbnb.com/rooms/21609334,Gemütliche Wohnung in Berlin-Friedrichshain,Shared room,5,14012917,$25.00 ,2025-01-18T02:37:48Z,2025-01-18T02:37:48Z
+40450568,https://www.airbnb.com/rooms/40450568,Gemütliche 1 Zimmer Wohnung im Herzen von Neukölln,Entire home/apt,3,105148945,$72.00 ,2025-01-18T02:10:13Z,2025-01-18T02:10:13Z
+11348253,https://www.airbnb.com/rooms/11348253,Comfortable room at Berlin center Alexanderplatz,Private room,3,59426366,$35.00 ,2025-01-18T02:03:38Z,2025-01-18T02:03:38Z
+52786258,https://www.airbnb.com/rooms/52786258,Apartment 7 minutes walk to Berlin Central Station,Entire home/apt,1,143456084,$80.00 ,2025-01-18T02:02:47Z,2025-01-18T02:02:47Z
+45792255,https://www.airbnb.com/rooms/45792255,Charmanter VW Bus mit Heckküche & Schlafambiente,Entire home/apt,84,32916140,$90.00 ,2025-01-18T01:58:21Z,2025-01-18T01:58:21Z
+44025567,https://www.airbnb.com/rooms/44025567,Ein gemütliches Vierbettzimmer im Hotel Bellevue,Private room,1,135765867,$95.00 ,2025-01-18T01:09:02Z,2025-01-18T01:09:02Z
+9501847,https://www.airbnb.com/rooms/9501847,Cozy sunny room in Alt-Tempelhof,Private room,7,25449632,$23.00 ,2025-01-18T00:59:46Z,2025-01-18T00:59:46Z
+52386640,https://www.airbnb.com/rooms/52386640,New loft 4 bedrooms with fireplace at Mitte,Entire home/apt,3,70168685,$245.00 ,2025-01-18T00:41:32Z,2025-01-18T00:41:32Z
+7595499,https://www.airbnb.com/rooms/7595499,25qm room in the heart of neukölln,Private room,1,39830360,$16.00 ,2025-01-18T00:30:22Z,2025-01-18T00:30:22Z
+9914902,https://www.airbnb.com/rooms/9914902,Rooms Center Berlin Alexaanderplatz,Private room,4,50976411,$45.00 ,2025-01-18T00:29:09Z,2025-01-18T00:29:09Z
+46849515,https://www.airbnb.com/rooms/46849515,Schönes Zimmer in 3er-WG im Friedrichshain,Private room,14,251703986,$22.00 ,2025-01-18T00:00:33Z,2025-01-18T00:00:33Z
+22820006,https://www.airbnb.com/rooms/22820006,Gemütliches Studio Apartment zentral gelegen,Entire home/apt,60,8912086,$69.00 ,2025-01-17T23:24:32Z,2025-01-17T23:24:32Z
+12641723,https://www.airbnb.com/rooms/12641723,Beautiful flat with amazing view!,Entire home/apt,1,68656621,$50.00 ,2025-01-17T23:20:34Z,2025-01-17T23:20:34Z
+41359244,https://www.airbnb.com/rooms/41359244,Berlin Zentrum näher Potsdamer Platz,Private room,2,157216702,$45.00 ,2025-01-17T23:11:34Z,2025-01-17T23:11:34Z
+47774975,https://www.airbnb.com/rooms/47774975,Ferienhaus für 6 Gäste mit 130m² in Berlin (145060),Entire home/apt,1,238028559,$183.00 ,2025-01-17T23:09:33Z,2025-01-17T23:09:33Z
+24082136,https://www.airbnb.com/rooms/24082136,Ruhiges Zimmer in Friedrichshain mit süßen Katzen,Private room,2,35851817,$29.00 ,2025-01-17T23:00:42Z,2025-01-17T23:00:42Z
+31009295,https://www.airbnb.com/rooms/31009295,Schöne 3-Zimmer Wohnung im Bergmannkiez,Entire home/apt,13,3667840,$160.00 ,2025-01-17T22:50:43Z,2025-01-17T22:50:43Z
+45523658,https://www.airbnb.com/rooms/45523658,Cozy room next to Boxhagener Platz,Private room,2,16657917,$26.00 ,2025-01-17T22:47:46Z,2025-01-17T22:47:46Z
+43734084,https://www.airbnb.com/rooms/43734084,LY73M021,Entire home/apt,60,82142678,$60.00 ,2025-01-17T22:32:36Z,2025-01-17T22:32:36Z
+5218671,https://www.airbnb.com/rooms/5218671,Gemütliches Zimmer in 2er-WG,Private room,7,27000163,$30.00 ,2025-01-17T22:15:08Z,2025-01-17T22:15:08Z
+45184274,https://www.airbnb.com/rooms/45184274,Schöne große Altbauwohnung in Friedrichshain,Entire home/apt,30,331152448,$110.00 ,2025-01-17T22:12:46Z,2025-01-17T22:12:46Z
+7671703,https://www.airbnb.com/rooms/7671703,beautiful one-single-room apartment,Entire home/apt,3,40281005,$35.00 ,2025-01-17T21:53:45Z,2025-01-17T21:53:45Z
+41208037,https://www.airbnb.com/rooms/41208037,Luxury Apartment next to Soho House,Entire home/apt,7,11726509,$95.00 ,2025-01-17T21:52:26Z,2025-01-17T21:52:26Z
+13692216,https://www.airbnb.com/rooms/13692216,Spacious flat in between Mitte & Friedrichshain,Private room,1,5411484,$52.00 ,2025-01-17T21:31:20Z,2025-01-17T21:31:20Z
+52022030,https://www.airbnb.com/rooms/52022030,THE DUDE by Charly - Roomy Double room,Entire home/apt,1,421235453,$208.00 ,2025-01-17T21:21:07Z,2025-01-17T21:21:07Z
+21402515,https://www.airbnb.com/rooms/21402515,Whole Appartment in Berlin.,Entire home/apt,2,49971189,$39.00 ,2025-01-17T21:12:58Z,2025-01-17T21:12:58Z
+49037234,https://www.airbnb.com/rooms/49037234,Urban spacious hotel room for 4 central to Subway,Private room,14,108025548,$66.00 ,2025-01-17T21:07:12Z,2025-01-17T21:07:12Z
+50860768,https://www.airbnb.com/rooms/50860768,Doppelzimmer mit Boxspringbett 200x200 cm,Private room,1,174923505,$77.00 ,2025-01-17T20:41:38Z,2025-01-17T20:41:38Z
+42735255,https://www.airbnb.com/rooms/42735255,Ferienwohnung/App. für 4 Gäste mit 70m² in Berlin (20214),Entire home/apt,1,238029336,$126.00 ,2025-01-17T20:40:22Z,2025-01-17T20:40:22Z
+7346952,https://www.airbnb.com/rooms/7346952,Großes und helles Zimmer in 3er-WG,Private room,7,3920003,$20.00 ,2025-01-17T20:21:36Z,2025-01-17T20:21:36Z
+776069,https://www.airbnb.com/rooms/776069,Near Brandenburger Gate/Reichstag,Entire home/apt,120,2685171,$120.00 ,2025-01-17T19:49:23Z,2025-01-17T19:49:23Z
+7507974,https://www.airbnb.com/rooms/7507974,Antons Zimmer,Private room,1,39332038,$22.00 ,2025-01-17T19:41:10Z,2025-01-17T19:41:10Z
+46085840,https://www.airbnb.com/rooms/46085840,Standard Doppelzimmer in Schöneberg,Private room,1,373476835,$113.00 ,2025-01-17T19:36:34Z,2025-01-17T19:36:34Z
+42924068,https://www.airbnb.com/rooms/42924068,"2-Raum Penthouse ""Bird's Nest"", 59 qm",Entire home/apt,15,210700814,$230.00 ,2025-01-17T19:36:02Z,2025-01-17T19:36:02Z
+50547610,https://www.airbnb.com/rooms/50547610,Cozy room in lively neighborhood,Private room,7,38901699,$30.00 ,2025-01-17T19:35:18Z,2025-01-17T19:35:18Z
+19410584,https://www.airbnb.com/rooms/19410584,Luxus Wohnen auf Zeit in Berlin City West,Entire home/apt,89,26692001,$30.00 ,2025-01-17T19:31:14Z,2025-01-17T19:31:14Z
+39501661,https://www.airbnb.com/rooms/39501661,Big and Cozy room in Lichtenberg,Private room,18,46716635,$28.00 ,2025-01-17T19:27:16Z,2025-01-17T19:27:16Z
+9108801,https://www.airbnb.com/rooms/9108801,Quite in a Cool Street in Neukolln,Entire home/apt,15,12469994,$32.00 ,2025-01-17T18:57:22Z,2025-01-17T18:57:22Z
+7220995,https://www.airbnb.com/rooms/7220995,Cosy flat near Mauerpark,Entire home/apt,20,37802104,$40.00 ,2025-01-17T18:42:39Z,2025-01-17T18:42:39Z
+51679037,https://www.airbnb.com/rooms/51679037,Lovely 1-bed apartment in Neukolln,Entire home/apt,2,41472652,$45.00 ,2025-01-17T18:40:51Z,2025-01-17T18:40:51Z
+9378741,https://www.airbnb.com/rooms/9378741,Studio Berlin Charlottenburg,Entire home/apt,4,48658819,$28.00 ,2025-01-17T18:40:34Z,2025-01-17T18:40:34Z
+8823996,https://www.airbnb.com/rooms/8823996,Big and luxury Room in Berlin,Private room,1,43770352,$40.00 ,2025-01-17T18:34:19Z,2025-01-17T18:34:19Z
+43575461,https://www.airbnb.com/rooms/43575461,4-Zimmer-Wohnung im Szenebezirk Friedrichshain,Entire home/apt,7,34006291,$75.00 ,2025-01-17T18:32:33Z,2025-01-17T18:32:33Z
+44782205,https://www.airbnb.com/rooms/44782205,Sunset at Templehof,Private room,30,4594271,$23.00 ,2025-01-17T18:13:30Z,2025-01-17T18:13:30Z
+52644407,https://www.airbnb.com/rooms/52644407,THE DUDE by Charly - Cosy+ Double Room,Entire home/apt,1,421235453,$148.00 ,2025-01-17T18:06:42Z,2025-01-17T18:06:42Z
+21034405,https://www.airbnb.com/rooms/21034405,Cozy Apartment in the Center of Berlin,Entire home/apt,1,151496165,$60.00 ,2025-01-17T17:54:22Z,2025-01-17T17:54:22Z
+20754680,https://www.airbnb.com/rooms/20754680,Cosy & stylish room in quite and peaceful building,Private room,5,41812675,$15.00 ,2025-01-17T17:40:58Z,2025-01-17T17:40:58Z
+5086863,https://www.airbnb.com/rooms/5086863,"Homely, big & sunny in the center",Entire home/apt,21,4687616,$65.00 ,2025-01-17T16:49:46Z,2025-01-17T16:49:46Z
+52275607,https://www.airbnb.com/rooms/52275607,Top floor sunny studio apartment - Beautiful view.,Entire home/apt,4,47795570,$89.00 ,2025-01-17T16:33:14Z,2025-01-17T16:33:14Z
+40481738,https://www.airbnb.com/rooms/40481738,Hell und groß im Herzen Neuköllns mit Balkon,Private room,7,10697413,$28.00 ,2025-01-17T16:27:41Z,2025-01-17T16:27:41Z
+12561585,https://www.airbnb.com/rooms/12561585,Very nice flat with balcony,Entire home/apt,1,68094397,$110.00 ,2025-01-17T16:24:08Z,2025-01-17T16:24:08Z
+21436573,https://www.airbnb.com/rooms/21436573,"Grosszüge, Maisonette Wohnung in Berlin Neukölln",Entire home/apt,5,154459928,$85.00 ,2025-01-17T15:59:36Z,2025-01-17T15:59:36Z
+40904143,https://www.airbnb.com/rooms/40904143,Schöne 1 Zimmer Wohnung im Simon Dach Kiez,Entire home/apt,2,101316322,$60.00 ,2025-01-17T15:58:55Z,2025-01-17T15:58:55Z
+13920808,https://www.airbnb.com/rooms/13920808,Spacious Cozy Room Close To City Center,Private room,4,38783931,$46.00 ,2025-01-17T15:44:42Z,2025-01-17T15:44:42Z
+48840032,https://www.airbnb.com/rooms/48840032,Komfortables Apartment mit 150m2,Entire home/apt,2,3003519,$414.00 ,2025-01-17T15:25:25Z,2025-01-17T15:25:25Z
+37509937,https://www.airbnb.com/rooms/37509937,Comfortable 2-room apartment in Friedrichshain,Entire home/apt,180,178514024,$49.00 ,2025-01-17T14:41:15Z,2025-01-17T14:41:15Z
+21037592,https://www.airbnb.com/rooms/21037592,Liebevolles Zuhause statt langweiligem Hotel,Entire home/apt,1,143939464,$40.00 ,2025-01-17T14:31:13Z,2025-01-17T14:31:13Z
+11391873,https://www.airbnb.com/rooms/11391873,Helles Balkonzimmer in Schöneberg,Private room,0,57241645,$25.00 ,2025-01-17T13:42:37Z,2025-01-17T13:42:37Z
+50646321,https://www.airbnb.com/rooms/50646321,Central Falt in Prenzlauerberg,Entire home/apt,60,192200150,$47.00 ,2025-01-17T13:34:12Z,2025-01-17T13:34:12Z
+24308923,https://www.airbnb.com/rooms/24308923,Schönes gemütliches WG-Zimmer,Private room,2,31643602,$30.00 ,2025-01-17T13:32:51Z,2025-01-17T13:32:51Z
+1694698,https://www.airbnb.com/rooms/1694698,A home away from home in Berlin,Entire home/apt,1,8950990,$189.00 ,2025-01-17T13:30:19Z,2025-01-17T13:30:19Z
+49121163,https://www.airbnb.com/rooms/49121163,Modern styled apartment Charlottenburg,Entire home/apt,14,22232550,$60.00 ,2025-01-17T13:07:52Z,2025-01-17T13:07:52Z
+42332043,https://www.airbnb.com/rooms/42332043,Spacious bright room with Balcony,Private room,2,336568993,$35.00 ,2025-01-17T12:55:58Z,2025-01-17T12:55:58Z
+11370956,https://www.airbnb.com/rooms/11370956,Nice room near airport — fireplace,Private room,2,1009656,$32.00 ,2025-01-17T12:47:22Z,2025-01-17T12:47:22Z
+33566472,https://www.airbnb.com/rooms/33566472,Wunderschöne 2 Zimmerwohnung in Schloss nähe,Entire home/apt,2,252938718,$80.00 ,2025-01-17T12:39:01Z,2025-01-17T12:39:01Z
+47976555,https://www.airbnb.com/rooms/47976555,Berlin City Apartment,Entire home/apt,4,1003245,$69.00 ,2025-01-17T12:38:10Z,2025-01-17T12:38:10Z
+29416750,https://www.airbnb.com/rooms/29416750,Cosy 130msq family flat in Prenzlauerberg,Entire home/apt,10,12387913,$130.00 ,2025-01-17T12:08:46Z,2025-01-17T12:08:46Z
+46958312,https://www.airbnb.com/rooms/46958312,Nearby Treptower Park - direct airport connection,Entire home/apt,3,275374141,$100.00 ,2025-01-17T12:01:15Z,2025-01-17T12:01:15Z
+45342922,https://www.airbnb.com/rooms/45342922,A full 2 bedrooms apartment in heart of Neukölln.,Entire home/apt,4,122901718,$65.00 ,2025-01-17T11:52:47Z,2025-01-17T11:52:47Z
+31122541,https://www.airbnb.com/rooms/31122541,Nair Schönefeld Berlin,Private room,10,219284770,$100.00 ,2025-01-17T11:43:47Z,2025-01-17T11:43:47Z
+11145559,https://www.airbnb.com/rooms/11145559,Privat room in a sharing apartment,Private room,1,50259108,$25.00 ,2025-01-17T11:34:03Z,2025-01-17T11:34:03Z
+48425687,https://www.airbnb.com/rooms/48425687,A lovely and comfy  2 room apartment,Entire home/apt,2,252025968,$70.00 ,2025-01-17T11:20:09Z,2025-01-17T11:20:09Z
+48106097,https://www.airbnb.com/rooms/48106097,Super zentrale 2-Zimmer-Wohnung mit Balkon,Entire home/apt,2,3182096,$69.00 ,2025-01-17T11:17:50Z,2025-01-17T11:17:50Z
+51479338,https://www.airbnb.com/rooms/51479338,1 private bedroom in sustainable green apartment,Private room,7,17036855,$59.00 ,2025-01-17T11:16:44Z,2025-01-17T11:16:44Z
+16365920,https://www.airbnb.com/rooms/16365920,elegant-room-mitte,Private room,6,22658976,$35.00 ,2025-01-17T11:13:02Z,2025-01-17T11:13:02Z
+20988793,https://www.airbnb.com/rooms/20988793,Comfortable Flat in Berlin Mitte,Entire home/apt,30,151072686,$60.00 ,2025-01-17T11:05:57Z,2025-01-17T11:05:57Z
+50409394,https://www.airbnb.com/rooms/50409394,Spacious room & garden in Neukolln,Private room,2,121823771,$45.00 ,2025-01-17T10:48:16Z,2025-01-17T10:48:16Z
+42629897,https://www.airbnb.com/rooms/42629897,Echter Berliner Altbau - ganze Wohnung,Entire home/apt,30,37070340,$64.00 ,2025-01-17T10:24:34Z,2025-01-17T10:24:34Z
+11500564,https://www.airbnb.com/rooms/11500564,Private Room in shared flat,Private room,4,21158428,$23.00 ,2025-01-17T09:36:21Z,2025-01-17T09:36:21Z
+7560826,https://www.airbnb.com/rooms/7560826,schöne Wohnung für eine Familie,Entire home/apt,1,39634813,$65.00 ,2025-01-17T09:28:27Z,2025-01-17T09:28:27Z
+45444989,https://www.airbnb.com/rooms/45444989,On top of Berlin,Entire home/apt,1,154653929,$50.00 ,2025-01-17T09:05:17Z,2025-01-17T09:05:17Z
+49972317,https://www.airbnb.com/rooms/49972317,Cozy and Calm room in Shared Flat,Private room,5,17204519,$11.00 ,2025-01-17T09:03:33Z,2025-01-17T09:03:33Z
+9862133,https://www.airbnb.com/rooms/9862133,Cozy Apartment near the Weißensee,Entire home/apt,3,38271725,$100.00 ,2025-01-17T08:53:55Z,2025-01-17T08:53:55Z
+9869385,https://www.airbnb.com/rooms/9869385,Schönes Altbauzimmer *hell*zentral*,Private room,2,50792170,$40.00 ,2025-01-17T08:39:44Z,2025-01-17T08:39:44Z
+19922061,https://www.airbnb.com/rooms/19922061,"Cozy, Bright Room in Friendly Shared Flat!",Private room,5,114169868,$25.00 ,2025-01-17T08:19:37Z,2025-01-17T08:19:37Z
+52698928,https://www.airbnb.com/rooms/52698928,cosy simple room in Berliner Flat in Kreuzberg,Private room,3,232067096,$42.00 ,2025-01-17T08:11:14Z,2025-01-17T08:11:14Z
+47775006,https://www.airbnb.com/rooms/47775006,Ferienhaus für 6 Gäste mit 130m² in Berlin (145055),Entire home/apt,1,238030351,$183.00 ,2025-01-17T08:06:00Z,2025-01-17T08:06:00Z
+14396012,https://www.airbnb.com/rooms/14396012,Cosy aptm in Mitte near Mauerpark,Entire home/apt,10,8196161,$53.00 ,2025-01-17T08:04:29Z,2025-01-17T08:04:29Z
+50411223,https://www.airbnb.com/rooms/50411223,Altbauwohnung in Neukölln mit Balkon,Entire home/apt,2,407253270,$70.00 ,2025-01-17T07:57:03Z,2025-01-17T07:57:03Z
+35934434,https://www.airbnb.com/rooms/35934434,LIVE IN THE ❤ OF THE CAPITAL - BERLIN!,Entire home/apt,2,270284539,$80.00 ,2025-01-17T07:42:42Z,2025-01-17T07:42:42Z
+10327702,https://www.airbnb.com/rooms/10327702,8-Zi Maisonette Wohnung,Entire home/apt,1,38523573,$95.00 ,2025-01-17T07:24:49Z,2025-01-17T07:24:49Z
+40701510,https://www.airbnb.com/rooms/40701510,Cosy and loved in the heart of Schöneberg,Private room,5,159639261,$35.00 ,2025-01-17T07:19:10Z,2025-01-17T07:19:10Z
+33210521,https://www.airbnb.com/rooms/33210521,Cosy and clean apartment in the city center,Entire home/apt,3,198404989,$85.00 ,2025-01-17T06:58:20Z,2025-01-17T06:58:20Z
+52180623,https://www.airbnb.com/rooms/52180623,NuWave Hotel Berlin - Superior Double Room,Private room,1,421557030,$101.00 ,2025-01-17T06:56:07Z,2025-01-17T06:56:07Z
+36386490,https://www.airbnb.com/rooms/36386490,Loft direct on water in Berlin Köpenick,Entire home/apt,179,716475,$50.00 ,2025-01-17T06:28:50Z,2025-01-17T06:28:50Z
+40606989,https://www.airbnb.com/rooms/40606989,2 Bedroom Flat near Mauerpark in Central Berlin,Entire home/apt,5,77522210,$75.00 ,2025-01-17T06:27:31Z,2025-01-17T06:27:31Z
+20108988,https://www.airbnb.com/rooms/20108988,Stunning home in Berlin-Köpenick with Sauna and 3 Bedrooms,Entire home/apt,28,141539959,$113.00 ,2025-01-17T06:25:44Z,2025-01-17T06:25:44Z
+52102591,https://www.airbnb.com/rooms/52102591,WINTERFELDSTRASSE LUXURY APARTMENTS,Entire home/apt,1,413176292,$638.00 ,2025-01-17T05:38:08Z,2025-01-17T05:38:08Z
+52604282,https://www.airbnb.com/rooms/52604282,SUNNY ON HISTORICAL KARL-MARX-ALLEE,Entire home/apt,92,5021050,$70.00 ,2025-01-17T05:32:29Z,2025-01-17T05:32:29Z
+45274790,https://www.airbnb.com/rooms/45274790,Cozy room in Berlin,Private room,2,361836933,"$1,000.00 ",2025-01-17T05:27:56Z,2025-01-17T05:27:56Z
+42149064,https://www.airbnb.com/rooms/42149064,Luxuriöse 2 Zimmer Appartement,Entire home/apt,2,297937835,$149.00 ,2025-01-17T05:04:15Z,2025-01-17T05:04:15Z
+50430676,https://www.airbnb.com/rooms/50430676,Magnifique chambre lumineuse - centre de Berlin,Private room,3,7285808,$80.00 ,2025-01-17T04:59:54Z,2025-01-17T04:59:54Z
+41611703,https://www.airbnb.com/rooms/41611703,Modern Living,Entire home/apt,30,192200150,$75.00 ,2025-01-17T04:44:56Z,2025-01-17T04:44:56Z
+3600046,https://www.airbnb.com/rooms/3600046,Wohnung zu vermieten,Entire home/apt,1,18137976,$100.00 ,2025-01-17T04:44:07Z,2025-01-17T04:44:07Z
+22323421,https://www.airbnb.com/rooms/22323421,Cosy Place in Heart of Friedrichshain,Entire home/apt,4,102047176,$200.00 ,2025-01-17T04:04:26Z,2025-01-17T04:04:26Z
+43554719,https://www.airbnb.com/rooms/43554719,"Comfort Zimmer 18 m², 20 m²",Private room,1,304493323,$96.00 ,2025-01-17T04:02:25Z,2025-01-17T04:02:25Z
+51689637,https://www.airbnb.com/rooms/51689637,Spacious well located apartment in Charlottenburg,Private room,7,69245029,$50.00 ,2025-01-17T03:58:01Z,2025-01-17T03:58:01Z
+43184193,https://www.airbnb.com/rooms/43184193,Room in a new Building central close to TU:Berlin,Private room,93,340007871,$40.00 ,2025-01-17T03:55:34Z,2025-01-17T03:55:34Z
+5349843,https://www.airbnb.com/rooms/5349843,Huge Room in Trendy Neukoelln,Private room,1,17807206,$41.00 ,2025-01-17T03:46:36Z,2025-01-17T03:46:36Z
+43174756,https://www.airbnb.com/rooms/43174756,Wohnung für Minimalisten im Literatenviertel,Entire home/apt,5,182263499,$40.00 ,2025-01-17T03:32:03Z,2025-01-17T03:32:03Z
+48050939,https://www.airbnb.com/rooms/48050939,Alte Feuerwache Berlin - Standard Single Room,Private room,1,386848467,$60.00 ,2025-01-17T03:21:05Z,2025-01-17T03:21:05Z
+9609423,https://www.airbnb.com/rooms/9609423,Möbliertes 20m² Zimmer,Private room,1,49721186,$17.00 ,2025-01-17T02:20:41Z,2025-01-17T02:20:41Z
+21665811,https://www.airbnb.com/rooms/21665811,Big room next to Treptower park,Private room,25,157696761,$20.00 ,2025-01-17T02:11:21Z,2025-01-17T02:11:21Z
+39980240,https://www.airbnb.com/rooms/39980240,Berlin erleben!,Shared room,1,54782146,$40.00 ,2025-01-17T02:07:13Z,2025-01-17T02:07:13Z
+40778060,https://www.airbnb.com/rooms/40778060,MODERN APARTMENT IN BERLIN LICHTENBERG,Entire home/apt,2,316803972,$141.00 ,2025-01-17T01:22:42Z,2025-01-17T01:22:42Z
+22933317,https://www.airbnb.com/rooms/22933317,Nice Apartment in the center of Schöneberg,Entire home/apt,1,8792609,$22.00 ,2025-01-17T01:14:50Z,2025-01-17T01:14:50Z
+6558544,https://www.airbnb.com/rooms/6558544,Beautiful flat in the center,Entire home/apt,1,34299847,$399.00 ,2025-01-17T01:04:49Z,2025-01-17T01:04:49Z
+35376292,https://www.airbnb.com/rooms/35376292,Schön 2-Raum Wohnung mit 58qm und Balkon in Berlin,Entire home/apt,5,76959766,$90.00 ,2025-01-17T00:49:40Z,2025-01-17T00:49:40Z
+40676062,https://www.airbnb.com/rooms/40676062,Wunderschöne Wohnung im Herzen Berlins.,Entire home/apt,7,315582894,$32.00 ,2025-01-17T00:47:51Z,2025-01-17T00:47:51Z
+12349925,https://www.airbnb.com/rooms/12349925,Sunny and quiet studio near Kudamm,Entire home/apt,90,1574908,$26.00 ,2025-01-17T00:13:07Z,2025-01-17T00:13:07Z
+9250150,https://www.airbnb.com/rooms/9250150,2 Zimmer Apartment nahe Arcaden,Entire home/apt,60,8912086,$69.00 ,2025-01-17T00:03:36Z,2025-01-17T00:03:36Z
+41178509,https://www.airbnb.com/rooms/41178509,Cozy room in the heart of Friedrichshain,Private room,2,322819820,$65.00 ,2025-01-16T23:43:58Z,2025-01-16T23:43:58Z
+20613393,https://www.airbnb.com/rooms/20613393,Berlin with Family,Entire home/apt,3,147333604,$99.00 ,2025-01-16T23:19:41Z,2025-01-16T23:19:41Z
+24662962,https://www.airbnb.com/rooms/24662962,Holidays in the heart of East Berlin,Entire home/apt,6,5237204,$99.00 ,2025-01-16T23:16:51Z,2025-01-16T23:16:51Z
+36438388,https://www.airbnb.com/rooms/36438388,Central Berlin | architects apartment,Entire home/apt,4,37267757,$127.00 ,2025-01-16T23:15:16Z,2025-01-16T23:15:16Z
+21392059,https://www.airbnb.com/rooms/21392059,"Quiet, Sunny, and Spacious in Friedrichshain",Entire home/apt,5,12786085,$150.00 ,2025-01-16T22:55:09Z,2025-01-16T22:55:09Z
+16285617,https://www.airbnb.com/rooms/16285617,2-Room Apartment with Balcony in Kreuzberg,Entire home/apt,6,63019606,$55.00 ,2025-01-16T22:36:49Z,2025-01-16T22:36:49Z
+44473402,https://www.airbnb.com/rooms/44473402,Bright and cozy room in a peaceful area of Berlin,Private room,3,109155992,$35.00 ,2025-01-16T22:29:23Z,2025-01-16T22:29:23Z
+43381676,https://www.airbnb.com/rooms/43381676,Big appartment with balcony,Entire home/apt,6,333981476,$32.00 ,2025-01-16T22:24:57Z,2025-01-16T22:24:57Z
+47112187,https://www.airbnb.com/rooms/47112187,Sir Savigny,Hotel room,1,380683890,$0.00 ,2025-01-16T21:33:21Z,2025-01-16T21:33:21Z
+45066365,https://www.airbnb.com/rooms/45066365,Former artist studio in the heart of Kreuzberg,Entire home/apt,3,15005811,$80.00 ,2025-01-16T21:07:24Z,2025-01-16T21:07:24Z
+24273079,https://www.airbnb.com/rooms/24273079,Bambushaus / Teehaus Kellinghusen,Private room,1,112519239,$201.00 ,2025-01-16T21:05:46Z,2025-01-16T21:05:46Z
+28879433,https://www.airbnb.com/rooms/28879433,Deluxe Room In The Center Of West Berlin,Hotel room,1,212377709,$425.00 ,2025-01-16T21:05:18Z,2025-01-16T21:05:18Z
+11539739,https://www.airbnb.com/rooms/11539739,Perfect room for couples,Private room,1,16410152,$20.00 ,2025-01-16T20:56:38Z,2025-01-16T20:56:38Z
+33371678,https://www.airbnb.com/rooms/33371678,Bright and simple room in beautiful Altbau flat,Private room,7,3194985,$25.00 ,2025-01-16T20:41:14Z,2025-01-16T20:41:14Z
+40583998,https://www.airbnb.com/rooms/40583998,Cozy 2-room apartment at Schillerkiez (Neukölln),Entire home/apt,4,68033150,$80.00 ,2025-01-16T20:21:35Z,2025-01-16T20:21:35Z
+24912243,https://www.airbnb.com/rooms/24912243,Berliner Wohnung im Wedding,Private room,2,188345028,$35.00 ,2025-01-16T20:11:37Z,2025-01-16T20:11:37Z
+41061733,https://www.airbnb.com/rooms/41061733,Beautiful & calm apartment with huge balcony,Entire home/apt,5,27793478,$100.00 ,2025-01-16T20:10:10Z,2025-01-16T20:10:10Z
+42749978,https://www.airbnb.com/rooms/42749978,"2-Raum Erdgeschoss ""Breezy Garden"", 51 qm",Entire home/apt,7,335573202,$167.00 ,2025-01-16T19:39:33Z,2025-01-16T19:39:33Z
+51415651,https://www.airbnb.com/rooms/51415651,"Einzelzimmer ""Single""",Private room,1,415771368,$138.00 ,2025-01-16T19:19:36Z,2025-01-16T19:19:36Z
+28430127,https://www.airbnb.com/rooms/28430127,Sonniges Zimmer in Friedrichshain,Private room,17,22978707,$30.00 ,2025-01-16T18:50:30Z,2025-01-16T18:50:30Z
+50245530,https://www.airbnb.com/rooms/50245530,Gemütliche Dachgeschosswohnung im Grünen,Entire home/apt,3,53491919,$55.00 ,2025-01-16T18:48:54Z,2025-01-16T18:48:54Z
+16672140,https://www.airbnb.com/rooms/16672140,"private room + shared spaces, apartment kreuzberg",Private room,1,47128495,$42.00 ,2025-01-16T18:47:30Z,2025-01-16T18:47:30Z
+52020329,https://www.airbnb.com/rooms/52020329,THE DUDE by Charly - Cosy Double Room,Entire home/apt,1,421235453,$140.00 ,2025-01-16T18:31:04Z,2025-01-16T18:31:04Z
+46868428,https://www.airbnb.com/rooms/46868428,"Ruhige, gemütliche Familiewohnung in Berlin Mitte.",Entire home/apt,7,145003509,$40.00 ,2025-01-16T18:25:01Z,2025-01-16T18:25:01Z
+40328086,https://www.airbnb.com/rooms/40328086,Special*23 sqm*Art*Asian Antiques*Balkony*quiet,Private room,2,52064539,$47.00 ,2025-01-16T18:22:09Z,2025-01-16T18:22:09Z
+11322988,https://www.airbnb.com/rooms/11322988,Eine idyllische 2-Zi Wohnung,Entire home/apt,1,27126255,$60.00 ,2025-01-16T18:13:19Z,2025-01-16T18:13:19Z
+10485258,https://www.airbnb.com/rooms/10485258,Large modern flat- Treptow/Neukölln,Entire home/apt,1,3283542,$45.00 ,2025-01-16T17:59:08Z,2025-01-16T17:59:08Z
+447524,https://www.airbnb.com/rooms/447524,City apartment at the Ku`damm,Entire home/apt,1,901878,$28.00 ,2025-01-16T17:53:56Z,2025-01-16T17:53:56Z
+31281812,https://www.airbnb.com/rooms/31281812,Room in Neukölln,Private room,10,4222180,$22.00 ,2025-01-16T17:51:31Z,2025-01-16T17:51:31Z
+51448534,https://www.airbnb.com/rooms/51448534,Spectacular penthouse terrace+elevator in Berlin,Entire home/apt,28,1122141,$175.00 ,2025-01-16T17:48:11Z,2025-01-16T17:48:11Z
+52377197,https://www.airbnb.com/rooms/52377197,NuWave Hotel Berlin - Comfort Quadruple Room,Private room,1,421557030,$159.00 ,2025-01-16T17:43:01Z,2025-01-16T17:43:01Z
+28879435,https://www.airbnb.com/rooms/28879435,Grand Deluxe Room In The Center Of West Berlin,Hotel room,1,212377709,$425.00 ,2025-01-16T16:59:49Z,2025-01-16T16:59:49Z
+9966384,https://www.airbnb.com/rooms/9966384,Silvester in Berlin Friedrichshain!,Entire home/apt,1,21669155,$70.00 ,2025-01-16T16:36:24Z,2025-01-16T16:36:24Z
+52270648,https://www.airbnb.com/rooms/52270648,Traumhafte Wohnung in Berlin-Mitte nähe Mauerpark,Entire home/apt,30,337663510,$69.00 ,2025-01-16T16:24:32Z,2025-01-16T16:24:32Z
+40885586,https://www.airbnb.com/rooms/40885586,Göthe Str 7a Berlin Souterrain 4 Personen ca 100qm,Entire home/apt,7,20608248,$60.00 ,2025-01-16T16:05:19Z,2025-01-16T16:05:19Z
+50953803,https://www.airbnb.com/rooms/50953803,Ruhige helle Wohnung in Berlin Neukölln,Entire home/apt,12,150690907,$40.00 ,2025-01-16T15:42:07Z,2025-01-16T15:42:07Z
+8533526,https://www.airbnb.com/rooms/8533526,BIG and CALM STUDIO,Entire home/apt,1,16876647,$45.00 ,2025-01-16T15:39:57Z,2025-01-16T15:39:57Z
+19222541,https://www.airbnb.com/rooms/19222541,Central Apt at Graefekiez (Kreuzberg),Entire home/apt,7,127670604,$75.00 ,2025-01-16T15:33:47Z,2025-01-16T15:33:47Z
+10979941,https://www.airbnb.com/rooms/10979941,Furnished Room Near EastSideGallery,Private room,1,19362010,$22.00 ,2025-01-16T15:18:02Z,2025-01-16T15:18:02Z
+48369832,https://www.airbnb.com/rooms/48369832,App nah am Tegelersee,Entire home/apt,4,352901812,$119.00 ,2025-01-16T14:46:27Z,2025-01-16T14:46:27Z
+9877012,https://www.airbnb.com/rooms/9877012,Big bedroom in the heart of Berlin,Private room,5,50821931,$22.00 ,2025-01-16T14:41:47Z,2025-01-16T14:41:47Z
+46850901,https://www.airbnb.com/rooms/46850901,The Funky district Where all the Cultures meets,Private room,7,147499255,$25.00 ,2025-01-16T14:33:58Z,2025-01-16T14:33:58Z
+6098598,https://www.airbnb.com/rooms/6098598,Cozy Garden Appartment in Center,Entire home/apt,7,14917695,$45.00 ,2025-01-16T14:27:15Z,2025-01-16T14:27:15Z
+3930767,https://www.airbnb.com/rooms/3930767,Cosy little flat with balcony in Moabit,Entire home/apt,7,6267519,$40.00 ,2025-01-16T14:21:11Z,2025-01-16T14:21:11Z
+50559945,https://www.airbnb.com/rooms/50559945,Doppelzimmer-Sparfuchs (Raucher) für 1 Person,Private room,1,407045830,$82.00 ,2025-01-16T14:05:26Z,2025-01-16T14:05:26Z
+9804273,https://www.airbnb.com/rooms/9804273,"Ruhig, kompakte Wohnung mit Balkon",Entire home/apt,1,11662035,$25.00 ,2025-01-16T13:47:49Z,2025-01-16T13:47:49Z
+43247575,https://www.airbnb.com/rooms/43247575,aletto Hotel Kudamm,Hotel room,1,312172749,$0.00 ,2025-01-16T13:37:39Z,2025-01-16T13:37:39Z
+21905096,https://www.airbnb.com/rooms/21905096,Gemütliches Zimmer in Neukölln,Private room,2,37211535,$58.00 ,2025-01-16T13:37:16Z,2025-01-16T13:37:16Z
+51082687,https://www.airbnb.com/rooms/51082687,Close to Alexander Platz,Entire home/apt,1,262470855,$80.00 ,2025-01-16T13:16:42Z,2025-01-16T13:16:42Z
+1269149,https://www.airbnb.com/rooms/1269149,"Room in Berlin, close to center",Private room,8,2692472,$12.00 ,2025-01-16T13:16:29Z,2025-01-16T13:16:29Z
+42246071,https://www.airbnb.com/rooms/42246071,"Simple, warm and cosy",Entire home/apt,3,18314951,$100.00 ,2025-01-16T13:15:38Z,2025-01-16T13:15:38Z
+51751556,https://www.airbnb.com/rooms/51751556,Berlin Prenzlauer Berg Apartment.,Private room,5,205705714,$50.00 ,2025-01-16T13:14:55Z,2025-01-16T13:14:55Z
+6932886,https://www.airbnb.com/rooms/6932886,Apartment by East Side Gallery,Entire home/apt,1,35120985,$60.00 ,2025-01-16T13:13:19Z,2025-01-16T13:13:19Z
+20569242,https://www.airbnb.com/rooms/20569242,Magic Studio,Entire home/apt,1,146921416,$40.00 ,2025-01-16T13:11:02Z,2025-01-16T13:11:02Z
+13304880,https://www.airbnb.com/rooms/13304880,Huge sunny room in lovely Berlin!,Shared room,3,75158426,$39.00 ,2025-01-16T12:36:21Z,2025-01-16T12:36:21Z
+46270493,https://www.airbnb.com/rooms/46270493,Super Stylish Flat in Berlin's most popular area,Entire home/apt,90,351952364,$140.00 ,2025-01-16T11:21:26Z,2025-01-16T11:21:26Z
+6098801,https://www.airbnb.com/rooms/6098801,"Nice, bright room in PBerg",Private room,0,31647635,$25.00 ,2025-01-16T11:20:22Z,2025-01-16T11:20:22Z
+33846826,https://www.airbnb.com/rooms/33846826,Wohnung im Grünen in Berlin Dahlem,Entire home/apt,1,25188349,$35.00 ,2025-01-16T11:09:11Z,2025-01-16T11:09:11Z
+52381148,https://www.airbnb.com/rooms/52381148,bedroom + private bathroom  in hip Friedrichshain,Private room,1,45719851,$120.00 ,2025-01-16T11:09:02Z,2025-01-16T11:09:02Z
+15160364,https://www.airbnb.com/rooms/15160364,Huge Room - Best location for real Berlin,Private room,2,28285870,$26.00 ,2025-01-16T10:25:56Z,2025-01-16T10:25:56Z
+52715983,https://www.airbnb.com/rooms/52715983,Cosy 2-room Artists Flat in Friedrichshain,Entire home/apt,4,11716605,$99.00 ,2025-01-16T10:10:55Z,2025-01-16T10:10:55Z
+13869282,https://www.airbnb.com/rooms/13869282,Altbauwohnung mit 2 Zimmern direkt am Hermannplatz,Private room,1,3669572,$80.00 ,2025-01-16T10:07:20Z,2025-01-16T10:07:20Z
+42912684,https://www.airbnb.com/rooms/42912684,Toplage in Berlin Charlottenburg!,Entire home/apt,92,339625555,$65.00 ,2025-01-16T09:52:53Z,2025-01-16T09:52:53Z
+31442082,https://www.airbnb.com/rooms/31442082,Tolle Wohnung für Berüfstätige oder Pärchen,Entire home/apt,184,235520461,$45.00 ,2025-01-16T09:45:30Z,2025-01-16T09:45:30Z
+38828617,https://www.airbnb.com/rooms/38828617,Coesy room in Kreuzberg!,Private room,4,86266053,$50.00 ,2025-01-16T09:24:43Z,2025-01-16T09:24:43Z
+43740730,https://www.airbnb.com/rooms/43740730,Big 3-room apartment in Friedrichshain,Entire home/apt,3,15855118,$100.00 ,2025-01-16T08:45:53Z,2025-01-16T08:45:53Z
+5727201,https://www.airbnb.com/rooms/5727201,Cosy room in lively Neukolln,Private room,1,9964887,$38.00 ,2025-01-16T08:42:20Z,2025-01-16T08:42:20Z
+51721500,https://www.airbnb.com/rooms/51721500,Einzel-appartement in Potsdamer Platz,Entire home/apt,3,419013732,$64.00 ,2025-01-16T08:12:03Z,2025-01-16T08:12:03Z
+48087572,https://www.airbnb.com/rooms/48087572,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,386848467,$72.00 ,2025-01-16T07:59:53Z,2025-01-16T07:59:53Z
+46769321,https://www.airbnb.com/rooms/46769321,Berlin Art Creative Room,Private room,1,24864601,$124.00 ,2025-01-16T07:53:30Z,2025-01-16T07:53:30Z
+32335706,https://www.airbnb.com/rooms/32335706,Wunderschöne Altbauwohnung 65m2,Entire home/apt,14,35630833,$80.00 ,2025-01-16T07:39:24Z,2025-01-16T07:39:24Z
+18115414,https://www.airbnb.com/rooms/18115414,"2 Zimmerwohnung in Pankow, ideal für Pärchen",Entire home/apt,3,73828853,$27.00 ,2025-01-16T07:32:38Z,2025-01-16T07:32:38Z
+19190445,https://www.airbnb.com/rooms/19190445,Very central place in heart of Wedding,Entire home/apt,1,132302162,$65.00 ,2025-01-16T07:30:11Z,2025-01-16T07:30:11Z
+9150987,https://www.airbnb.com/rooms/9150987,Cozy big room in kreuzberg/neukölln,Private room,5,47554561,$25.00 ,2025-01-16T07:20:22Z,2025-01-16T07:20:22Z
+40650136,https://www.airbnb.com/rooms/40650136,"Cozy, comfort and modern apartment! BILLS INCLUDED",Entire home/apt,100,271714786,$860.00 ,2025-01-16T07:19:01Z,2025-01-16T07:19:01Z
+8568509,https://www.airbnb.com/rooms/8568509,Flat with balcony in Wedding,Entire home/apt,1,36364923,$46.00 ,2025-01-16T07:00:41Z,2025-01-16T07:00:41Z
+52821368,https://www.airbnb.com/rooms/52821368,Shabby Chic +Self Check-In +Free Street Parking,Entire home/apt,1,125847915,$72.00 ,2025-01-16T06:42:48Z,2025-01-16T06:42:48Z
+17281581,https://www.airbnb.com/rooms/17281581,Cozy and Spacious room in Nollendorfstraße,Private room,1,46279782,$60.00 ,2025-01-16T06:34:20Z,2025-01-16T06:34:20Z
+35365136,https://www.airbnb.com/rooms/35365136,Empty flat with timber floor and balcony,Entire home/apt,13,142948812,$25.00 ,2025-01-16T06:24:19Z,2025-01-16T06:24:19Z
+51717733,https://www.airbnb.com/rooms/51717733,Übernachtungsmöglichkeit im familiären Pankow,Shared room,1,115472189,$45.00 ,2025-01-16T06:04:23Z,2025-01-16T06:04:23Z
+52848095,https://www.airbnb.com/rooms/52848095,Apartment zentral in Berlin bis 2 Pers./Townster,Entire home/apt,1,340486611,$150.00 ,2025-01-16T05:52:41Z,2025-01-16T05:52:41Z
+19827109,https://www.airbnb.com/rooms/19827109,Multipler Co-Writing Space + Übernachtung 1 Person,Shared room,1,31217613,$190.00 ,2025-01-16T05:46:13Z,2025-01-16T05:46:13Z
+42585950,https://www.airbnb.com/rooms/42585950,Berlin Prenzlauer Berg - Lovely and  Cozy Room,Private room,6,85312132,$30.00 ,2025-01-16T05:26:34Z,2025-01-16T05:26:34Z
+16744376,https://www.airbnb.com/rooms/16744376,Gemütliches Berliner Altbauzimmer in Schöneberg,Private room,7,36784064,$25.00 ,2025-01-16T05:05:59Z,2025-01-16T05:05:59Z
+46064466,https://www.airbnb.com/rooms/46064466,Bright & modern cozy studio on Kastanienallee,Entire home/apt,30,697166,$55.00 ,2025-01-16T05:04:16Z,2025-01-16T05:04:16Z
+10049057,https://www.airbnb.com/rooms/10049057,Cosy and spacious room,Private room,0,33803398,$30.00 ,2025-01-16T04:53:01Z,2025-01-16T04:53:01Z
+52252898,https://www.airbnb.com/rooms/52252898,3BR +big kitchen +A/C +SelfCheckIn +Street Parking,Entire home/apt,1,164656783,$129.00 ,2025-01-16T04:21:32Z,2025-01-16T04:21:32Z
+9694278,https://www.airbnb.com/rooms/9694278,Large room in Friedrichshain,Private room,8,44108734,$35.00 ,2025-01-16T04:16:45Z,2025-01-16T04:16:45Z
+32534334,https://www.airbnb.com/rooms/32534334,Beautiful family apartment with a sunny terrace,Entire home/apt,30,8329189,$52.00 ,2025-01-16T04:00:24Z,2025-01-16T04:00:24Z
+26186816,https://www.airbnb.com/rooms/26186816,Axel Single Room at Axel Hotel Berlin,Hotel room,1,98159395,$105.00 ,2025-01-16T03:30:27Z,2025-01-16T03:30:27Z
+26767873,https://www.airbnb.com/rooms/26767873,Berlin Wohnung / Kreuzberg / Görlitzer Bahnhof,Entire home/apt,3,3282971,$75.00 ,2025-01-16T02:31:26Z,2025-01-16T02:31:26Z
+40745724,https://www.airbnb.com/rooms/40745724,Cozy single room in shared flat,Private room,2,116736663,$30.00 ,2025-01-16T02:11:14Z,2025-01-16T02:11:14Z
+14440109,https://www.airbnb.com/rooms/14440109,Bright apartment in the heart of Rixdorf,Entire home/apt,2,16288216,$35.00 ,2025-01-16T02:09:47Z,2025-01-16T02:09:47Z
+43670826,https://www.airbnb.com/rooms/43670826,Lichtdurchflutete Wohnung zentralen Punkt  Berlins,Entire home/apt,3,348779246,$80.00 ,2025-01-16T01:47:58Z,2025-01-16T01:47:58Z
+5875924,https://www.airbnb.com/rooms/5875924,"Room in Neukolln, Berlin",Private room,1,30513815,$25.00 ,2025-01-16T00:34:53Z,2025-01-16T00:34:53Z
+5803041,https://www.airbnb.com/rooms/5803041,Gartenwohnung im Friedrichshain,Entire home/apt,1,30106645,$200.00 ,2025-01-16T00:32:34Z,2025-01-16T00:32:34Z
+14778401,https://www.airbnb.com/rooms/14778401,Green Apartment,Entire home/apt,60,5245778,$32.00 ,2025-01-16T00:27:11Z,2025-01-16T00:27:11Z
+21627485,https://www.airbnb.com/rooms/21627485,Berlin Stralau: ruhige zentrale Garten-Whg 70qm,Entire home/apt,14,5226014,$40.00 ,2025-01-16T00:10:08Z,2025-01-16T00:10:08Z
+38585015,https://www.airbnb.com/rooms/38585015,"Amazing apartment in Berlin-Bohnsdorf with Sauna, WiFi and 1 Bedrooms",Entire home/apt,28,141545714,$52.00 ,2025-01-16T00:00:17Z,2025-01-16T00:00:17Z
+11269335,https://www.airbnb.com/rooms/11269335,Quiet & sunny room with balcony in Neukölln,Private room,2,24497738,$55.00 ,2025-01-15T23:22:22Z,2025-01-15T23:22:22Z
+9469485,https://www.airbnb.com/rooms/9469485,Best Kreuzkölln@River Canal,Entire home/apt,120,24059884,$58.00 ,2025-01-15T23:05:10Z,2025-01-15T23:05:10Z
+45525090,https://www.airbnb.com/rooms/45525090,Ocak Hotel - Superior Zimmer mehr Platz zum wohnen,Private room,1,368544059,$154.00 ,2025-01-15T22:50:26Z,2025-01-15T22:50:26Z
+42716351,https://www.airbnb.com/rooms/42716351,Kreuzberg - BerlinMall- in the heart of the City,Private room,1,13055420,$47.00 ,2025-01-15T22:30:11Z,2025-01-15T22:30:11Z
+18298702,https://www.airbnb.com/rooms/18298702,Apartment in the heart of berlin,Entire home/apt,14,45151605,$80.00 ,2025-01-15T22:24:31Z,2025-01-15T22:24:31Z
+25284507,https://www.airbnb.com/rooms/25284507,Apartment Duo Komfort B0.13  6N14S · Apartment Duo Komfort B0.13  6N14S · Apartment Duo Komfort for 3 persons,Entire home/apt,6,71613847,$120.00 ,2025-01-15T21:40:58Z,2025-01-15T21:40:58Z
+9692035,https://www.airbnb.com/rooms/9692035,W10,Private room,1,50056316,$20.00 ,2025-01-15T21:34:53Z,2025-01-15T21:34:53Z
+9880483,https://www.airbnb.com/rooms/9880483,Charming Altbau in Prenzlauer Berg,Entire home/apt,6,32299,$90.00 ,2025-01-15T21:27:50Z,2025-01-15T21:27:50Z
+48665452,https://www.airbnb.com/rooms/48665452,kultiger Camper im Herzen Berlins,Entire home/apt,1,392608800,$38.00 ,2025-01-15T21:27:31Z,2025-01-15T21:27:31Z
+20359070,https://www.airbnb.com/rooms/20359070,Spacious 19th cent apartment facing beautiful park,Entire home/apt,60,1030258,$249.00 ,2025-01-15T21:21:04Z,2025-01-15T21:21:04Z
+48086276,https://www.airbnb.com/rooms/48086276,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,386848467,$72.00 ,2025-01-15T20:51:00Z,2025-01-15T20:51:00Z
+47269855,https://www.airbnb.com/rooms/47269855,Berlin Ausgezeichnet möbliertes Privatzimmer zentr,Private room,1,284817458,$131.00 ,2025-01-15T20:41:10Z,2025-01-15T20:41:10Z
+11883697,https://www.airbnb.com/rooms/11883697,"Big sunny room, nice flatmates",Private room,3,63367802,$20.00 ,2025-01-15T20:38:26Z,2025-01-15T20:38:26Z
+26156338,https://www.airbnb.com/rooms/26156338,Sunny Rooftop Apartment in Mitte -best SkylineView,Entire home/apt,21,11649536,$120.00 ,2025-01-15T20:25:15Z,2025-01-15T20:25:15Z
+44453937,https://www.airbnb.com/rooms/44453937,Studio nahe Hauptbahnhof exkl. für Geschäftsleute,Private room,30,4023263,$32.00 ,2025-01-15T20:23:17Z,2025-01-15T20:23:17Z
+31112236,https://www.airbnb.com/rooms/31112236,Cozy Flat right in the Heart of Neukoelln.,Entire home/apt,3,45352166,$120.00 ,2025-01-15T20:18:47Z,2025-01-15T20:18:47Z
+52235699,https://www.airbnb.com/rooms/52235699,Schönes helles Zimmer im besten Kiez von Kreuzberg,Private room,4,6584851,$45.00 ,2025-01-15T20:03:29Z,2025-01-15T20:03:29Z
+6652940,https://www.airbnb.com/rooms/6652940,Sonnenallee  83 Neukölln,Entire home/apt,1,34821755,$65.00 ,2025-01-15T19:15:44Z,2025-01-15T19:15:44Z
+6364954,https://www.airbnb.com/rooms/6364954,Charming flat in Berlin Schöneberg,Private room,1,11805050,$50.00 ,2025-01-15T18:52:37Z,2025-01-15T18:52:37Z
+51913271,https://www.airbnb.com/rooms/51913271,Sunny duplex apartment on northern Friedrichstraße,Entire home/apt,30,12362846,$110.00 ,2025-01-15T18:51:57Z,2025-01-15T18:51:57Z
+52889090,https://www.airbnb.com/rooms/52889090,Loft Apart +A/C +SelfCheck-In +Free Street Parking,Entire home/apt,1,125847915,$98.00 ,2025-01-15T18:37:52Z,2025-01-15T18:37:52Z
+51885885,https://www.airbnb.com/rooms/51885885,Futon Beds B and B in the heart of Berlin,Private room,1,10367336,$45.00 ,2025-01-15T18:16:08Z,2025-01-15T18:16:08Z
+52290592,https://www.airbnb.com/rooms/52290592,Stylish 2 bed in the heart of Prenzlauerberg,Entire home/apt,7,32767221,$151.00 ,2025-01-15T18:11:28Z,2025-01-15T18:11:28Z
+9919533,https://www.airbnb.com/rooms/9919533,Cute flat for max 3 persons,Entire home/apt,1,22836752,$35.00 ,2025-01-15T17:43:31Z,2025-01-15T17:43:31Z
+51051504,https://www.airbnb.com/rooms/51051504,Schöne Wohnung im Schillerkiez,Entire home/apt,2,2952669,$55.00 ,2025-01-15T17:39:53Z,2025-01-15T17:39:53Z
+42704801,https://www.airbnb.com/rooms/42704801,Sonnige 2 Zimmer Wohnung im Grünen,Entire home/apt,2,7575304,$39.00 ,2025-01-15T17:35:42Z,2025-01-15T17:35:42Z
+22613834,https://www.airbnb.com/rooms/22613834,Villa Kunterbunt,Private room,1,166423400,$35.00 ,2025-01-15T17:33:45Z,2025-01-15T17:33:45Z
+44525459,https://www.airbnb.com/rooms/44525459,110qm Executive Apartment near Museumsinsel,Entire home/apt,50,22319933,$120.00 ,2025-01-15T17:08:55Z,2025-01-15T17:08:55Z
+48708650,https://www.airbnb.com/rooms/48708650,Modern bright apartment in Prenzlauer Berg,Entire home/apt,5,392512441,$63.00 ,2025-01-15T16:45:55Z,2025-01-15T16:45:55Z
+28732723,https://www.airbnb.com/rooms/28732723,"Süsse 1-Raumwohnung, 45 m2",Entire home/apt,6,24930281,$104.00 ,2025-01-15T16:30:31Z,2025-01-15T16:30:31Z
+40030018,https://www.airbnb.com/rooms/40030018,Green Room in shared apartment in Neukölln ♡,Private room,2,66352019,$50.00 ,2025-01-15T16:24:03Z,2025-01-15T16:24:03Z
+49106605,https://www.airbnb.com/rooms/49106605,Private room,Shared room,7,267172624,$29.00 ,2025-01-15T16:19:58Z,2025-01-15T16:19:58Z
+13340349,https://www.airbnb.com/rooms/13340349,Bright room in Mitte,Private room,10,75559255,$21.00 ,2025-01-15T16:00:21Z,2025-01-15T16:00:21Z
+11563143,https://www.airbnb.com/rooms/11563143,Flatshare 70m2 in Fhain,Private room,4,61060190,$20.00 ,2025-01-15T15:37:23Z,2025-01-15T15:37:23Z
+49120997,https://www.airbnb.com/rooms/49120997,Charming and sunny apartment with balcony,Entire home/apt,2,91457234,$60.00 ,2025-01-15T15:09:30Z,2025-01-15T15:09:30Z
+52220600,https://www.airbnb.com/rooms/52220600,"Bestlage in Mitte, großes Apartment bis zu 7 Pax",Entire home/apt,1,216855948,$179.00 ,2025-01-15T15:04:07Z,2025-01-15T15:04:07Z
+30342869,https://www.airbnb.com/rooms/30342869,Huge classic berlin apartment with beamer and TV,Entire home/apt,7,227835898,$50.00 ,2025-01-15T14:53:28Z,2025-01-15T14:53:28Z
+42108039,https://www.airbnb.com/rooms/42108039,Bright Apartment close to Kurfürstendamm,Entire home/apt,3,137948494,$85.00 ,2025-01-15T14:24:08Z,2025-01-15T14:24:08Z
+32813793,https://www.airbnb.com/rooms/32813793,Beautiful Flat in central & prime location,Entire home/apt,60,18483802,$80.00 ,2025-01-15T14:23:39Z,2025-01-15T14:23:39Z
+42633567,https://www.airbnb.com/rooms/42633567,"2-Raum Apartment ""City Nature"", 51 qm",Entire home/apt,7,210700814,$229.00 ,2025-01-15T13:41:18Z,2025-01-15T13:41:18Z
+9889157,https://www.airbnb.com/rooms/9889157,Large and bright room w/ balcony,Private room,4,2414122,$25.00 ,2025-01-15T12:44:22Z,2025-01-15T12:44:22Z
+52767164,https://www.airbnb.com/rooms/52767164,Schönes Studio Apartment,Entire home/apt,1,426802817,$43.00 ,2025-01-15T12:43:59Z,2025-01-15T12:43:59Z
+45986972,https://www.airbnb.com/rooms/45986972,Central Room in the heart of Berlin,Private room,7,13497890,$35.00 ,2025-01-15T12:33:00Z,2025-01-15T12:33:00Z
+21846556,https://www.airbnb.com/rooms/21846556,Double bed in Prenzauler Allee,Private room,2,26176881,$25.00 ,2025-01-15T12:31:24Z,2025-01-15T12:31:24Z
+42506165,https://www.airbnb.com/rooms/42506165,Sunny apartment in Kreuzberg,Entire home/apt,90,12046288,$85.00 ,2025-01-15T12:14:35Z,2025-01-15T12:14:35Z
+39502939,https://www.airbnb.com/rooms/39502939,City-Apartment Kurfürstendamm,Entire home/apt,2,221731912,$103.00 ,2025-01-15T11:54:58Z,2025-01-15T11:54:58Z
+46352979,https://www.airbnb.com/rooms/46352979,Modern Living in the Heart of Berlin with Garden,Entire home/apt,30,3248348,$90.00 ,2025-01-15T11:44:54Z,2025-01-15T11:44:54Z
+48087061,https://www.airbnb.com/rooms/48087061,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,386848467,$72.00 ,2025-01-15T11:29:28Z,2025-01-15T11:29:28Z
+49221673,https://www.airbnb.com/rooms/49221673,Flat in new building in beautiful Prenzlauer Berg,Entire home/apt,14,239572037,$50.00 ,2025-01-15T11:27:26Z,2025-01-15T11:27:26Z
+10002922,https://www.airbnb.com/rooms/10002922,Sehr zentrale Wohnung in Berlin,Entire home/apt,1,45848709,$52.00 ,2025-01-15T11:18:24Z,2025-01-15T11:18:24Z
+6758818,https://www.airbnb.com/rooms/6758818,Ostbahnhof within 1 Minute Walk,Private room,1,14405869,$47.00 ,2025-01-15T11:00:57Z,2025-01-15T11:00:57Z
+19845208,https://www.airbnb.com/rooms/19845208,Studio Apartment Zwischen Spree und Wuhlheide,Entire home/apt,1,64328126,$19.00 ,2025-01-15T10:53:24Z,2025-01-15T10:53:24Z
+10079685,https://www.airbnb.com/rooms/10079685,Bright & cozy flat in Prenzl Berg,Entire home/apt,1,51720664,$80.00 ,2025-01-15T10:40:13Z,2025-01-15T10:40:13Z
+5099228,https://www.airbnb.com/rooms/5099228,"Schöne, zentrale 2-Zimmerwohnung",Private room,5,26347897,$41.00 ,2025-01-15T10:37:44Z,2025-01-15T10:37:44Z
+42097632,https://www.airbnb.com/rooms/42097632,Lovely studio apartment in the Heart of Wedding**,Entire home/apt,60,3868992,$105.00 ,2025-01-15T09:11:09Z,2025-01-15T09:11:09Z
+33114889,https://www.airbnb.com/rooms/33114889,"Lovely room in kreuberg/ neukölln, near the canal",Private room,1,61700071,$40.00 ,2025-01-15T09:03:12Z,2025-01-15T09:03:12Z
+42529930,https://www.airbnb.com/rooms/42529930,Prenzl - Coliving in the heart of Prenzlauer Berg,Entire home/apt,183,338742183,$43.00 ,2025-01-15T09:02:07Z,2025-01-15T09:02:07Z
+4884448,https://www.airbnb.com/rooms/4884448,Beautiful Old-Berlin flat,Entire home/apt,3,10559337,$35.00 ,2025-01-15T08:54:22Z,2025-01-15T08:54:22Z
+4065383,https://www.airbnb.com/rooms/4065383,Möbliertes 55qm Zimmer in netter 2er Zweck-WG,Private room,90,876545,$28.00 ,2025-01-15T08:31:27Z,2025-01-15T08:31:27Z
+42811133,https://www.airbnb.com/rooms/42811133,Appartements am Schloss,Entire home/apt,2,340980455,$100.00 ,2025-01-15T08:30:28Z,2025-01-15T08:30:28Z
+28399697,https://www.airbnb.com/rooms/28399697,CENTRAL APARTMENT 4PAX K921,Entire home/apt,150,214403628,$70.00 ,2025-01-15T08:27:34Z,2025-01-15T08:27:34Z
+22023455,https://www.airbnb.com/rooms/22023455,"Berlin-Kreuzberg Flat with Style and View, Flat me & myself",Entire home/apt,7,160823100,$28.00 ,2025-01-15T08:11:10Z,2025-01-15T08:11:10Z
+51056301,https://www.airbnb.com/rooms/51056301,In 15 Min. zum Alexanderplatz und nah am Tierpark,Private room,28,143275455,$99.00 ,2025-01-15T08:10:33Z,2025-01-15T08:10:33Z
+23459982,https://www.airbnb.com/rooms/23459982,Großes Altbauzimmer nahe Ku'Damm,Private room,7,128953448,$23.00 ,2025-01-15T08:06:04Z,2025-01-15T08:06:04Z
+46527396,https://www.airbnb.com/rooms/46527396,Authentic Berlin apartment with balcony,Private room,3,37702973,$40.00 ,2025-01-15T07:52:30Z,2025-01-15T07:52:30Z
+11655084,https://www.airbnb.com/rooms/11655084,Zimmer 1,Private room,2,61347438,$140.00 ,2025-01-15T07:41:11Z,2025-01-15T07:41:11Z
+32840262,https://www.airbnb.com/rooms/32840262,im Herzen Neuköllns,Private room,3,35121227,$25.00 ,2025-01-15T07:40:51Z,2025-01-15T07:40:51Z
+40699332,https://www.airbnb.com/rooms/40699332,apartment room in the heart of Neukölln,Entire home/apt,23,52662658,$52.00 ,2025-01-15T07:23:31Z,2025-01-15T07:23:31Z
+44701210,https://www.airbnb.com/rooms/44701210,Ferienhaus für 6 Gäste mit 130m² in Berlin (145070),Entire home/apt,0,238028559,$183.00 ,2025-01-15T07:05:30Z,2025-01-15T07:05:30Z
+12148404,https://www.airbnb.com/rooms/12148404,One room in a two rooms apartment,Private room,0,65226110,$25.00 ,2025-01-15T06:58:53Z,2025-01-15T06:58:53Z
+40005459,https://www.airbnb.com/rooms/40005459,"Comfy, child friendly home full of love for Xmas!",Entire home/apt,10,23101703,$28.00 ,2025-01-15T06:53:38Z,2025-01-15T06:53:38Z
+23823848,https://www.airbnb.com/rooms/23823848,"Big bedroom in lovely, quiet flat in Tempelhof",Private room,7,133340583,$30.00 ,2025-01-15T06:26:17Z,2025-01-15T06:26:17Z
+15494108,https://www.airbnb.com/rooms/15494108,Cozy nest in Rosenthalerplatz,Entire home/apt,60,15997566,$50.00 ,2025-01-15T05:25:02Z,2025-01-15T05:25:02Z
+48988379,https://www.airbnb.com/rooms/48988379,Pretty & central room for 2 close to Subway,Private room,14,108025548,$46.00 ,2025-01-15T05:15:24Z,2025-01-15T05:15:24Z
+50293756,https://www.airbnb.com/rooms/50293756,Hübsche 3 Zimmer - Wohnung am Volkspark Prenzlauerberg,Entire home/apt,1,406120938,$70.00 ,2025-01-15T05:11:21Z,2025-01-15T05:11:21Z
+36532684,https://www.airbnb.com/rooms/36532684,Sonniges Zimmer in umzäuntem Garten im Berlingrün,Private room,7,37428978,$41.00 ,2025-01-15T05:07:32Z,2025-01-15T05:07:32Z
+25436973,https://www.airbnb.com/rooms/25436973,"Cheerful and trendy Kreuzkölln, bright + balcony",Entire home/apt,60,192018470,$40.00 ,2025-01-15T05:05:02Z,2025-01-15T05:05:02Z
+8031570,https://www.airbnb.com/rooms/8031570,Flat Pompidiu for 2-3 weeks in Oct,Entire home/apt,14,42406759,$24.00 ,2025-01-15T04:52:06Z,2025-01-15T04:52:06Z
+23704833,https://www.airbnb.com/rooms/23704833,Nice room in an old building in Schöneberg,Private room,5,177597446,$34.00 ,2025-01-15T04:50:27Z,2025-01-15T04:50:27Z
+11414738,https://www.airbnb.com/rooms/11414738,"3 weeks, 2-room flat, 10.03-30.03",Entire home/apt,10,59933257,$35.00 ,2025-01-15T04:21:34Z,2025-01-15T04:21:34Z
+49300477,https://www.airbnb.com/rooms/49300477,SCHOENHOUSE by limehome - Standard Suite LT,Entire home/apt,1,390059085,$115.00 ,2025-01-15T04:12:05Z,2025-01-15T04:12:05Z
+49037980,https://www.airbnb.com/rooms/49037980,Bright & central room for 2 near to subway,Private room,14,108025548,$46.00 ,2025-01-15T04:01:13Z,2025-01-15T04:01:13Z
+50393046,https://www.airbnb.com/rooms/50393046,Loft Berlin Mitte,Entire home/apt,90,716475,$150.00 ,2025-01-15T03:41:02Z,2025-01-15T03:41:02Z
+50637191,https://www.airbnb.com/rooms/50637191,Cozy Apartment with Balcony in Neukölln,Entire home/apt,1,47458713,$70.00 ,2025-01-15T03:38:13Z,2025-01-15T03:38:13Z
+49456987,https://www.airbnb.com/rooms/49456987,Zentral wohnen in Kudamm-Nähe,Private room,5,348161152,$50.00 ,2025-01-15T03:27:04Z,2025-01-15T03:27:04Z
+23921666,https://www.airbnb.com/rooms/23921666,Friedrichshain-Leben,Private room,1,166294,$29.00 ,2025-01-15T03:17:59Z,2025-01-15T03:17:59Z
+5887146,https://www.airbnb.com/rooms/5887146,2 room top floor flat with terrace,Entire home/apt,14,20025390,$30.00 ,2025-01-15T03:15:07Z,2025-01-15T03:15:07Z
+43538286,https://www.airbnb.com/rooms/43538286,Family and Friends room 8 Beds,Private room,30,325537173,$80.00 ,2025-01-15T03:09:51Z,2025-01-15T03:09:51Z
+16826940,https://www.airbnb.com/rooms/16826940,"Sunny, quite, private vintage flat/ Prenzelberg",Private room,7,111970749,$80.00 ,2025-01-15T03:03:34Z,2025-01-15T03:03:34Z
+52805285,https://www.airbnb.com/rooms/52805285,2 FLATS 4BR 2BTH 2K +Self-Check-In +Street Parking,Entire home/apt,1,125847915,$169.00 ,2025-01-15T02:51:24Z,2025-01-15T02:51:24Z
+44701173,https://www.airbnb.com/rooms/44701173,Ferienhaus für 6 Gäste mit 130m² in Berlin (145052),Entire home/apt,1,252498808,$183.00 ,2025-01-15T02:47:16Z,2025-01-15T02:47:16Z
+40528600,https://www.airbnb.com/rooms/40528600,Seydelstraße 7,Entire home/apt,90,313797108,$59.00 ,2025-01-15T02:30:21Z,2025-01-15T02:30:21Z
+6499198,https://www.airbnb.com/rooms/6499198,Berlin-Charlottenburg 10627,Entire home/apt,3,33971648,$81.00 ,2025-01-15T02:27:47Z,2025-01-15T02:27:47Z
+16938875,https://www.airbnb.com/rooms/16938875,Cozy room in 75m2 top floor flat in Kreuzberg,Private room,5,113208327,$25.00 ,2025-01-15T02:15:51Z,2025-01-15T02:15:51Z
+50419940,https://www.airbnb.com/rooms/50419940,Apartment w. balcony close to Boxhagener Platz,Entire home/apt,6,276815132,$58.00 ,2025-01-15T01:18:18Z,2025-01-15T01:18:18Z
+36795963,https://www.airbnb.com/rooms/36795963,Gemütliche 2 zimmer Wohnung,Entire home/apt,22,276573275,$35.00 ,2025-01-15T01:11:55Z,2025-01-15T01:11:55Z
+25248959,https://www.airbnb.com/rooms/25248959,"2 rooms, up to 4 persons, luxuriously furnished",Entire home/apt,1,22894989,$880.00 ,2025-01-15T00:57:48Z,2025-01-15T00:57:48Z
+30444196,https://www.airbnb.com/rooms/30444196,Charming Flat for only ONE mouth,Entire home/apt,29,228579126,$40.00 ,2025-01-15T00:54:26Z,2025-01-15T00:54:26Z
+41333651,https://www.airbnb.com/rooms/41333651,Large and quite room in east Berlin,Private room,2,35756433,$24.00 ,2025-01-15T00:35:12Z,2025-01-15T00:35:12Z
+50608385,https://www.airbnb.com/rooms/50608385,Big bright room with balcony in shared flat,Private room,7,18028880,$25.00 ,2025-01-15T00:10:41Z,2025-01-15T00:10:41Z
+5555097,https://www.airbnb.com/rooms/5555097,Berlin Lichtenberg- 18m² ruhe,Private room,2,28801423,$29.00 ,2025-01-15T00:01:49Z,2025-01-15T00:01:49Z
+24886430,https://www.airbnb.com/rooms/24886430,Lovely room in the heart of Berlin,Private room,3,7715690,$25.00 ,2025-01-14T23:59:19Z,2025-01-14T23:59:19Z
+20827309,https://www.airbnb.com/rooms/20827309,"Cosy, light-flooded apartment with high ceilings",Entire home/apt,1,62303873,$80.00 ,2025-01-14T23:48:56Z,2025-01-14T23:48:56Z
+5854717,https://www.airbnb.com/rooms/5854717,2 Zi-Whg. mit Altbau-Charme,Entire home/apt,2,30399447,$50.00 ,2025-01-14T23:47:04Z,2025-01-14T23:47:04Z
+9109921,https://www.airbnb.com/rooms/9109921,Modernisierte Remise in Alt-Treptow,Entire home/apt,3,47479755,$72.00 ,2025-01-14T23:01:31Z,2025-01-14T23:01:31Z
+45875470,https://www.airbnb.com/rooms/45875470,EINZELZIMMER STANDARD,Private room,1,371892297,$91.00 ,2025-01-14T22:35:18Z,2025-01-14T22:35:18Z
+40633924,https://www.airbnb.com/rooms/40633924,100m² Bungalow mit Terrasse am Kanal in Kreuzberg,Entire home/apt,3,27453143,$129.00 ,2025-01-14T22:34:28Z,2025-01-14T22:34:28Z
+9731416,https://www.airbnb.com/rooms/9731416,Exclusive flat in Berlin CityCentre,Entire home/apt,5,50214277,$99.00 ,2025-01-14T22:31:17Z,2025-01-14T22:31:17Z
+37630683,https://www.airbnb.com/rooms/37630683,Dreamy big room in beautiful flat,Private room,10,189137873,$38.00 ,2025-01-14T22:28:54Z,2025-01-14T22:28:54Z
+42269923,https://www.airbnb.com/rooms/42269923,"2-Raum Erdgeschoss ""Breezy Garden"", 51 qm",Entire home/apt,2,335573202,$200.00 ,2025-01-14T22:22:53Z,2025-01-14T22:22:53Z
+21220761,https://www.airbnb.com/rooms/21220761,"Spacious, cosy room with balcony in Friedrichshain",Private room,3,118543115,$40.00 ,2025-01-14T21:52:55Z,2025-01-14T21:52:55Z
+52646436,https://www.airbnb.com/rooms/52646436,THE DUDE by Charly - Comfy Double room,Entire home/apt,1,421235453,$154.00 ,2025-01-14T21:48:15Z,2025-01-14T21:48:15Z
+49579173,https://www.airbnb.com/rooms/49579173,Luxuriöse Maisonette in Berlin-Mitte mit Parkplatz,Entire home/apt,7,203997165,$195.00 ,2025-01-14T21:44:52Z,2025-01-14T21:44:52Z
+1278375,https://www.airbnb.com/rooms/1278375,Skandinavisk & Industritysk lgh,Entire home/apt,1,1179162,$120.00 ,2025-01-14T21:36:03Z,2025-01-14T21:36:03Z
+36599333,https://www.airbnb.com/rooms/36599333,2-bedroom apartment in trendy neighbourhood,Entire home/apt,30,20718415,$40.00 ,2025-01-14T21:34:34Z,2025-01-14T21:34:34Z
+10932482,https://www.airbnb.com/rooms/10932482,Sewanstrasse,Private room,7,56679285,$13.00 ,2025-01-14T21:16:50Z,2025-01-14T21:16:50Z
+11216682,https://www.airbnb.com/rooms/11216682,Room in central Kreuzberg,Private room,2,58433789,$40.00 ,2025-01-14T20:41:09Z,2025-01-14T20:41:09Z
+41530181,https://www.airbnb.com/rooms/41530181,Container Apartment in Berlin,Entire home/apt,60,147556938,$22.00 ,2025-01-14T20:41:00Z,2025-01-14T20:41:00Z
+42768314,https://www.airbnb.com/rooms/42768314,"1,5 Zummer Wohnung nicht weit von Kudamm",Entire home/apt,5,202344102,$60.00 ,2025-01-14T20:29:48Z,2025-01-14T20:29:48Z
+8752704,https://www.airbnb.com/rooms/8752704,Amazing flat in the heart of Berlin,Private room,0,641507,$46.00 ,2025-01-14T20:24:56Z,2025-01-14T20:24:56Z
+12012807,https://www.airbnb.com/rooms/12012807,Apartment overlooking the television tower,Entire home/apt,60,5245778,$34.00 ,2025-01-14T20:15:49Z,2025-01-14T20:15:49Z
+45140965,https://www.airbnb.com/rooms/45140965,Modernes Nest für Wochenend-Trips,Entire home/apt,1,295857279,$71.00 ,2025-01-14T20:08:32Z,2025-01-14T20:08:32Z
+36756732,https://www.airbnb.com/rooms/36756732,"House of nation, Brunnenstraße",Private room,25,196545452,$20.00 ,2025-01-14T19:15:43Z,2025-01-14T19:15:43Z
+24047231,https://www.airbnb.com/rooms/24047231,"Whole Flat (1,5 rooms) near Schlesi",Entire home/apt,14,8620491,$40.00 ,2025-01-14T18:48:22Z,2025-01-14T18:48:22Z
+17550868,https://www.airbnb.com/rooms/17550868,Wohnung in Neukoelln nahe Tempelhof,Entire home/apt,1,34797363,$53.00 ,2025-01-14T18:13:04Z,2025-01-14T18:13:04Z
+42522259,https://www.airbnb.com/rooms/42522259,Zimmer 1 Familienzimmer,Private room,1,316043293,$95.00 ,2025-01-14T18:10:54Z,2025-01-14T18:10:54Z
+10052110,https://www.airbnb.com/rooms/10052110,1sleep& 1living & 1bigchillkitchen,Private room,1,51590153,$39.00 ,2025-01-14T17:35:29Z,2025-01-14T17:35:29Z
+6256590,https://www.airbnb.com/rooms/6256590,Zentral und ruhig in Kreuzkölln,Private room,1,32503335,$36.00 ,2025-01-14T17:31:40Z,2025-01-14T17:31:40Z
+40804119,https://www.airbnb.com/rooms/40804119,großzügiges Schlafzimmer in Berlin Friedenau,Private room,1,6353600,$30.00 ,2025-01-14T17:31:21Z,2025-01-14T17:31:21Z
+50100653,https://www.airbnb.com/rooms/50100653,Wunderschöne Familien 4-Zimmer-Altbauwohnung,Entire home/apt,7,21177801,$90.00 ,2025-01-14T17:11:14Z,2025-01-14T17:11:14Z
+17429149,https://www.airbnb.com/rooms/17429149,Room in the beautiful south-west of Berlin,Private room,1,117906291,$15.00 ,2025-01-14T17:10:26Z,2025-01-14T17:10:26Z
+22962845,https://www.airbnb.com/rooms/22962845,Stylish and peaceful flat. Perfect for families.,Entire home/apt,3,170153654,$55.00 ,2025-01-14T16:49:12Z,2025-01-14T16:49:12Z
+13957515,https://www.airbnb.com/rooms/13957515,Sehr schöne und ruhige Wohnung im Bergmannkiez,Entire home/apt,23,70748690,$40.00 ,2025-01-14T16:34:59Z,2025-01-14T16:34:59Z
+47898215,https://www.airbnb.com/rooms/47898215,Amazing central hotel room for 2 next to Subway,Private room,14,108025548,$41.00 ,2025-01-14T16:32:15Z,2025-01-14T16:32:15Z
+45592643,https://www.airbnb.com/rooms/45592643,Single room,Private room,1,347131802,$39.00 ,2025-01-14T16:15:35Z,2025-01-14T16:15:35Z
+48217386,https://www.airbnb.com/rooms/48217386,Kreative Dachgeschosswohnung in X-Berg,Entire home/apt,90,50081741,$200.00 ,2025-01-14T16:11:45Z,2025-01-14T16:11:45Z
+11037071,https://www.airbnb.com/rooms/11037071,Great apartment in a new building,Entire home/apt,3,18384885,$45.00 ,2025-01-14T15:42:15Z,2025-01-14T15:42:15Z
+29579517,https://www.airbnb.com/rooms/29579517,APARTMENT IN THE HEART OF PRENZLAUER BERG,Entire home/apt,2,222673220,$135.00 ,2025-01-14T15:40:25Z,2025-01-14T15:40:25Z
+12249699,https://www.airbnb.com/rooms/12249699,Beautiful Penthouse,Entire home/apt,0,21394478,$100.00 ,2025-01-14T15:38:25Z,2025-01-14T15:38:25Z
+47089643,https://www.airbnb.com/rooms/47089643,Apartmenthaus Berlin Mitte - Deluxe Studio,Entire home/apt,1,378071271,$79.00 ,2025-01-14T15:35:08Z,2025-01-14T15:35:08Z
+8037679,https://www.airbnb.com/rooms/8037679,Traumhafte Altbauwohnung in P-Berg,Private room,1,2557656,$50.00 ,2025-01-14T15:31:57Z,2025-01-14T15:31:57Z
+42116929,https://www.airbnb.com/rooms/42116929,Big Bright Room In Central Berlin-Friedrichshain,Private room,4,3887507,$36.00 ,2025-01-14T15:16:23Z,2025-01-14T15:16:23Z
+44351799,https://www.airbnb.com/rooms/44351799,Parterre Wohnung am Kanal in Neukölln,Private room,1,274078976,$50.00 ,2025-01-14T14:54:21Z,2025-01-14T14:54:21Z
+8677779,https://www.airbnb.com/rooms/8677779,"3,5 - Zimmer Wohnung ohne Balkon",Entire home/apt,1,45575503,$65.00 ,2025-01-14T14:44:52Z,2025-01-14T14:44:52Z
+11325310,https://www.airbnb.com/rooms/11325310,Nette Wohnungsgemeinschaft,Private room,14,33149863,$15.00 ,2025-01-14T14:35:57Z,2025-01-14T14:35:57Z
+44281216,https://www.airbnb.com/rooms/44281216,Wohnen im schönen Wilmersdorf near txl /with cats,Private room,1,356445569,$30.00 ,2025-01-14T14:32:48Z,2025-01-14T14:32:48Z
+4932854,https://www.airbnb.com/rooms/4932854,Pensionszimmer zur Jahreswende 2015,Shared room,2,25413382,$150.00 ,2025-01-14T14:26:07Z,2025-01-14T14:26:07Z
+50387743,https://www.airbnb.com/rooms/50387743,New apartment in the centre of Berlin,Entire home/apt,92,195867979,$120.00 ,2025-01-14T14:14:47Z,2025-01-14T14:14:47Z
+48238525,https://www.airbnb.com/rooms/48238525,★ ℳARVELOUS APARTMENT IN BEST CENTRAL LOCATION ★,Entire home/apt,4,16472922,$300.00 ,2025-01-14T14:11:25Z,2025-01-14T14:11:25Z
+40704677,https://www.airbnb.com/rooms/40704677,Cozy & clean on TOP area in Prenzlauerberg!,Entire home/apt,84,4048130,$43.00 ,2025-01-14T13:55:40Z,2025-01-14T13:55:40Z
+51718702,https://www.airbnb.com/rooms/51718702,"Spacious 2.5 room, with balcony in Berlin Centre",Private room,1,70192367,$70.00 ,2025-01-14T13:41:28Z,2025-01-14T13:41:28Z
+20515851,https://www.airbnb.com/rooms/20515851,Traumhaus am Rande der Stadt,Entire home/apt,2,50350370,$86.00 ,2025-01-14T13:24:59Z,2025-01-14T13:24:59Z
+49037756,https://www.airbnb.com/rooms/49037756,Fantastic & modern room for 3  near Subway central,Private room,14,108025548,$71.00 ,2025-01-14T12:41:37Z,2025-01-14T12:41:37Z
+32487933,https://www.airbnb.com/rooms/32487933,"Big, sunny room in shared flat in the <3 of Berlin",Private room,3,1878115,$23.00 ,2025-01-14T12:25:37Z,2025-01-14T12:25:37Z
+29871786,https://www.airbnb.com/rooms/29871786,Vintage home in hip Neukölln,Entire home/apt,7,172027240,$100.00 ,2025-01-14T12:05:45Z,2025-01-14T12:05:45Z
+40319555,https://www.airbnb.com/rooms/40319555,X-Mas and happy new year Berlin,Entire home/apt,3,49845399,$90.00 ,2025-01-14T12:02:17Z,2025-01-14T12:02:17Z
+42631943,https://www.airbnb.com/rooms/42631943,"2-Raum Apartment ""Bright Outlook"", 49 qm",Entire home/apt,4,210700814,$241.00 ,2025-01-14T11:58:28Z,2025-01-14T11:58:28Z
+11112288,https://www.airbnb.com/rooms/11112288,Sunny rooftop apt in Berlin Friedrichshain,Entire home/apt,5,7369609,$100.00 ,2025-01-14T11:48:39Z,2025-01-14T11:48:39Z
+41421289,https://www.airbnb.com/rooms/41421289,Apartment in Center from Berlin,Entire home/apt,4,222088950,$60.00 ,2025-01-14T11:21:20Z,2025-01-14T11:21:20Z
+46600352,https://www.airbnb.com/rooms/46600352,2 room Apartment - Center of Berlin -sights nearby,Entire home/apt,2,369533678,$45.00 ,2025-01-14T11:15:58Z,2025-01-14T11:15:58Z
+24531548,https://www.airbnb.com/rooms/24531548,Boardinghouse im grünen Bezirk Steglitz-Zehlendorf,Entire home/apt,120,181062162,$69.00 ,2025-01-14T11:12:31Z,2025-01-14T11:12:31Z
+43817136,https://www.airbnb.com/rooms/43817136,Cozy central luxury apartment,Entire home/apt,20,208272633,$90.00 ,2025-01-14T11:11:05Z,2025-01-14T11:11:05Z
+42923924,https://www.airbnb.com/rooms/42923924,"3-Raum Apartments ""Home Base"", 81 qm",Entire home/apt,15,210700814,$285.00 ,2025-01-14T10:44:58Z,2025-01-14T10:44:58Z
+23385840,https://www.airbnb.com/rooms/23385840,Classy Apartement in Wrangelkiez / Kreuzberg,Private room,4,16250769,$80.00 ,2025-01-14T10:36:47Z,2025-01-14T10:36:47Z
+52832402,https://www.airbnb.com/rooms/52832402,Exceptional Penthouse with Rooftop /Prenzlauerberg,Entire home/apt,2,190260192,$130.00 ,2025-01-14T10:33:31Z,2025-01-14T10:33:31Z
+7833151,https://www.airbnb.com/rooms/7833151,studio flat - 12 minutes to center,Entire home/apt,1,41250002,$25.00 ,2025-01-14T10:13:48Z,2025-01-14T10:13:48Z
+20027259,https://www.airbnb.com/rooms/20027259,nice WG-room close to famous Ku'Damm,Private room,14,31613861,$20.00 ,2025-01-14T10:08:36Z,2025-01-14T10:08:36Z
+20585962,https://www.airbnb.com/rooms/20585962,Altbau- style apartment close to public transport,Entire home/apt,1,144900129,$80.00 ,2025-01-14T10:00:49Z,2025-01-14T10:00:49Z
+10713732,https://www.airbnb.com/rooms/10713732,20qm super nice apartment Neukölln- good conection,Private room,1,55367578,$30.00 ,2025-01-14T09:55:06Z,2025-01-14T09:55:06Z
+52665308,https://www.airbnb.com/rooms/52665308,Bright and sunny apt. in trendy Prenzlauer Berg,Entire home/apt,1,6398027,$120.00 ,2025-01-14T09:49:43Z,2025-01-14T09:49:43Z
+41142150,https://www.airbnb.com/rooms/41142150,Centrally located next to alexander platz,Entire home/apt,7,25201612,$41.00 ,2025-01-14T09:49:28Z,2025-01-14T09:49:28Z
+9375341,https://www.airbnb.com/rooms/9375341,Zimmer im belebten Wedding,Private room,9,47371579,$50.00 ,2025-01-14T09:28:24Z,2025-01-14T09:28:24Z
+49009851,https://www.airbnb.com/rooms/49009851,Rooftop Berlin,Entire home/apt,7,358991427,$130.00 ,2025-01-14T09:27:51Z,2025-01-14T09:27:51Z
+41653692,https://www.airbnb.com/rooms/41653692,Green Berlin,Private room,3,164771882,$38.00 ,2025-01-14T09:25:38Z,2025-01-14T09:25:38Z
+41680957,https://www.airbnb.com/rooms/41680957,Cozy Room in Friedrichshain - For Cat Lovers,Private room,14,88948601,$13.00 ,2025-01-14T09:25:02Z,2025-01-14T09:25:02Z
+4291270,https://www.airbnb.com/rooms/4291270,Center of Berlin - charming Home,Entire home/apt,7,6043420,$75.00 ,2025-01-14T09:13:23Z,2025-01-14T09:13:23Z
+39838556,https://www.airbnb.com/rooms/39838556,Remise in Adlershof,Private room,23,115758436,$20.00 ,2025-01-14T08:59:34Z,2025-01-14T08:59:34Z
+3779123,https://www.airbnb.com/rooms/3779123,"Schönes großes, sonniges Zimmer",Private room,7,6703283,$40.00 ,2025-01-14T08:48:30Z,2025-01-14T08:48:30Z
+5819100,https://www.airbnb.com/rooms/5819100,best place to be! f-hain!,Private room,1,30199257,$35.00 ,2025-01-14T08:29:21Z,2025-01-14T08:29:21Z
+43882145,https://www.airbnb.com/rooms/43882145,It's very silent. At the corner of the corridor.,Entire home/apt,1,350095489,$39.00 ,2025-01-14T08:18:35Z,2025-01-14T08:18:35Z
+40031078,https://www.airbnb.com/rooms/40031078,Potsdamer Platz,Entire home/apt,180,259940521,$145.00 ,2025-01-14T07:57:05Z,2025-01-14T07:57:05Z
+42249477,https://www.airbnb.com/rooms/42249477,Cool apartment in the city centre !,Entire home/apt,2,23738283,$80.00 ,2025-01-14T07:43:42Z,2025-01-14T07:43:42Z
+34002394,https://www.airbnb.com/rooms/34002394,Cosy and Smart Apartment on Alexanderplatz,Entire home/apt,30,203071555,$55.00 ,2025-01-14T07:40:06Z,2025-01-14T07:40:06Z
+27704760,https://www.airbnb.com/rooms/27704760,Stylish & Central Munich Apartment,Private room,1,146706943,$145.00 ,2025-01-14T07:35:58Z,2025-01-14T07:35:58Z
+37156504,https://www.airbnb.com/rooms/37156504,Appartamento pulito ed ordinato.. soggiorni brevi,Private room,1,275087561,$75.00 ,2025-01-14T07:33:29Z,2025-01-14T07:33:29Z
+47592607,https://www.airbnb.com/rooms/47592607,"Beautiful, modern Berlin loft by Tempelhof",Entire home/apt,14,67582543,$100.00 ,2025-01-14T07:15:09Z,2025-01-14T07:15:09Z
+22280994,https://www.airbnb.com/rooms/22280994,Schöne Möblierte Zimmer in Stegliz Lankwitz,Entire home/apt,30,36376497,$45.00 ,2025-01-14T06:48:34Z,2025-01-14T06:48:34Z
+49587514,https://www.airbnb.com/rooms/49587514,Helle Wohnung - Berlin - direkt am Kurfürstendamm,Entire home/apt,60,339625555,$55.00 ,2025-01-14T06:47:36Z,2025-01-14T06:47:36Z
+45705812,https://www.airbnb.com/rooms/45705812,Amazing flat in the heart of Neukölln,Entire home/apt,10,10009936,$40.00 ,2025-01-14T06:45:25Z,2025-01-14T06:45:25Z
+24602300,https://www.airbnb.com/rooms/24602300,Berlin based - beautiful apartment,Entire home/apt,8,185914276,$100.00 ,2025-01-14T05:48:53Z,2025-01-14T05:48:53Z
+48087893,https://www.airbnb.com/rooms/48087893,Alte Feuerwache Berlin - Standard Double or Twin Room,Private room,1,386848467,$72.00 ,2025-01-14T05:38:59Z,2025-01-14T05:38:59Z
+48875029,https://www.airbnb.com/rooms/48875029,very bright apartment with good vibes.,Private room,7,12364672,$25.00 ,2025-01-14T05:33:01Z,2025-01-14T05:33:01Z
+2111503,https://www.airbnb.com/rooms/2111503,central located studio apartment,Entire home/apt,2,10765531,$60.00 ,2025-01-14T05:17:35Z,2025-01-14T05:17:35Z
+47015168,https://www.airbnb.com/rooms/47015168,Berlin Kaiser-Friedrich-Str.,Entire home/apt,1,373491663,$86.00 ,2025-01-14T05:11:40Z,2025-01-14T05:11:40Z
+34973995,https://www.airbnb.com/rooms/34973995,Wohnung in Tempelhof mit guter Öffi-Anbindung,Entire home/apt,5,13445553,$69.00 ,2025-01-14T04:53:01Z,2025-01-14T04:53:01Z
+23532664,https://www.airbnb.com/rooms/23532664,Cozy city apartment in an old charming building,Entire home/apt,2,175804467,$90.00 ,2025-01-14T04:42:29Z,2025-01-14T04:42:29Z
+42766929,https://www.airbnb.com/rooms/42766929,Wohnung in Berlin Wannsee - für bis zu 4 Personen,Entire home/apt,3,101590322,$88.00 ,2025-01-14T04:13:52Z,2025-01-14T04:13:52Z
+41255310,https://www.airbnb.com/rooms/41255310,Apartment for couples in the heart of Neukolln,Entire home/apt,1,166227698,$50.00 ,2025-01-14T03:56:50Z,2025-01-14T03:56:50Z
+26701751,https://www.airbnb.com/rooms/26701751,Cozy and quiet Room in Wedding,Private room,10,18190953,$13.00 ,2025-01-14T03:48:29Z,2025-01-14T03:48:29Z
+18553253,https://www.airbnb.com/rooms/18553253,Kreuzkölln best location !!!!!,Entire home/apt,63,15506870,$44.00 ,2025-01-14T03:45:27Z,2025-01-14T03:45:27Z
+42133011,https://www.airbnb.com/rooms/42133011,⚡Modern Penthouse In The Heart of Kreuzberg,Entire home/apt,28,1352204,$90.00 ,2025-01-14T03:45:18Z,2025-01-14T03:45:18Z
+10127750,https://www.airbnb.com/rooms/10127750,Zimmer mit Balkon in netter 3er WG,Private room,2,51975484,$22.00 ,2025-01-14T03:41:09Z,2025-01-14T03:41:09Z
+34964821,https://www.airbnb.com/rooms/34964821,Pretty Flat in Friedrichshain,Private room,2,21204295,$50.00 ,2025-01-14T03:34:57Z,2025-01-14T03:34:57Z
+14232817,https://www.airbnb.com/rooms/14232817,Schönes Zimmer am Körnerkiez in Neukölln,Private room,5,86528339,$30.00 ,2025-01-14T03:29:12Z,2025-01-14T03:29:12Z
+9807223,https://www.airbnb.com/rooms/9807223,Traumhafte Maisonette am Grunewald,Entire home/apt,4,50526984,$175.00 ,2025-01-14T03:03:46Z,2025-01-14T03:03:46Z
+18203481,https://www.airbnb.com/rooms/18203481,Apartment in Kreuzberg Kottbusser Tor,Shared room,2,125652413,$40.00 ,2025-01-14T02:40:07Z,2025-01-14T02:40:07Z
+35671331,https://www.airbnb.com/rooms/35671331,20-Beautiful double room apartment in Schöneberg,Entire home/apt,30,265635773,$63.00 ,2025-01-14T02:39:29Z,2025-01-14T02:39:29Z
+14101211,https://www.airbnb.com/rooms/14101211,Cosy room with GARDEN in multiculti neighbourhood,Private room,6,16825237,$30.00 ,2025-01-14T02:25:35Z,2025-01-14T02:25:35Z
+10102875,https://www.airbnb.com/rooms/10102875,Sonnige Apartment nähe UBahn,Entire home/apt,3,51843024,$99.00 ,2025-01-14T02:15:22Z,2025-01-14T02:15:22Z
+42749901,https://www.airbnb.com/rooms/42749901,"2-Raum Erdgeschoss ""Breezy Garden"", 51 qm",Entire home/apt,4,335573202,$183.00 ,2025-01-14T01:44:44Z,2025-01-14T01:44:44Z
+26187118,https://www.airbnb.com/rooms/26187118,Axel Suite with Breakfast at Axel Hotel Berlin,Hotel room,1,98159395,$269.00 ,2025-01-14T01:29:43Z,2025-01-14T01:29:43Z
+44275551,https://www.airbnb.com/rooms/44275551,Sleep in a Tower in the heart of Berlin,Private room,1,111276639,$75.00 ,2025-01-14T01:07:55Z,2025-01-14T01:07:55Z
+21052394,https://www.airbnb.com/rooms/21052394,Cozy 2-Room-Apartment in Kreuzberg,Entire home/apt,1,34509173,$125.00 ,2025-01-14T01:05:11Z,2025-01-14T01:05:11Z
+20109066,https://www.airbnb.com/rooms/20109066,Awesome home in Berlin with 2 Bedrooms,Entire home/apt,28,141539959,$101.00 ,2025-01-14T01:05:05Z,2025-01-14T01:05:05Z
+43801577,https://www.airbnb.com/rooms/43801577,"große, helle Wohnung in Neukölln nähe Ufer",Entire home/apt,5,43358860,$106.00 ,2025-01-14T00:55:10Z,2025-01-14T00:55:10Z
+34902974,https://www.airbnb.com/rooms/34902974,Ruhige Wohnung direkt am Wald,Entire home/apt,1,42571558,$25.00 ,2025-01-14T00:55:04Z,2025-01-14T00:55:04Z
+46034877,https://www.airbnb.com/rooms/46034877,Cosy 29 sq. meter apartment,Entire home/apt,10,313552363,$35.00 ,2025-01-14T00:41:48Z,2025-01-14T00:41:48Z
+42655892,https://www.airbnb.com/rooms/42655892,Pankow Penthouse,Entire home/apt,7,118534678,$140.00 ,2025-01-14T00:15:58Z,2025-01-14T00:15:58Z
+45147337,https://www.airbnb.com/rooms/45147337,25 m² bright & cozy little jungle in Berlin-Mitte,Private room,3,30656497,$49.00 ,2025-01-14T00:13:07Z,2025-01-14T00:13:07Z
+51587962,https://www.airbnb.com/rooms/51587962,Wohnen und Homeoffice zwischen Potsdam und Berlin,Entire home/apt,1,40656306,$85.00 ,2025-01-13T23:41:28Z,2025-01-13T23:41:28Z
+43178734,https://www.airbnb.com/rooms/43178734,Sonniges Zimmer in kleiner Villa miot Garten,Private room,6,21924839,$40.00 ,2025-01-13T23:37:47Z,2025-01-13T23:37:47Z
+6322584,https://www.airbnb.com/rooms/6322584,1 COSY ROOM IN MITTE,Private room,1,32900474,$48.00 ,2025-01-13T23:34:21Z,2025-01-13T23:34:21Z
+12646339,https://www.airbnb.com/rooms/12646339,Beautiful apartment in Neukölln,Entire home/apt,1,7976555,$69.00 ,2025-01-13T23:32:48Z,2025-01-13T23:32:48Z
+9625219,https://www.airbnb.com/rooms/9625219,"Quiet, modern room in Kreuzberg",Private room,4,49788899,$25.00 ,2025-01-13T23:09:21Z,2025-01-13T23:09:21Z
+19483730,https://www.airbnb.com/rooms/19483730,G36,Private room,1,89146924,$38.00 ,2025-01-13T23:06:40Z,2025-01-13T23:06:40Z
+8094503,https://www.airbnb.com/rooms/8094503,Cozy appartment - heart of Berlin,Private room,2,30703119,$29.00 ,2025-01-13T22:47:24Z,2025-01-13T22:47:24Z
+13213714,https://www.airbnb.com/rooms/13213714,Cozy flat in the best part of Neukölln,Entire home/apt,2,22706480,$120.00 ,2025-01-13T22:38:07Z,2025-01-13T22:38:07Z
+49072557,https://www.airbnb.com/rooms/49072557,Gemütliche 2 Zimmer Wohnung,Entire home/apt,30,371774383,$50.00 ,2025-01-13T21:43:22Z,2025-01-13T21:43:22Z
+1244210,https://www.airbnb.com/rooms/1244210,CITY-PENTHOUSE & MAGNIFICENT VIEW,Entire home/apt,2,4446679,$141.00 ,2025-01-13T21:41:47Z,2025-01-13T21:41:47Z
+20915597,https://www.airbnb.com/rooms/20915597,Beautiful 2 room apartment very central very quiet,Entire home/apt,7,42446331,$45.00 ,2025-01-13T21:39:58Z,2025-01-13T21:39:58Z
+40388498,https://www.airbnb.com/rooms/40388498,5th floor apartment in the heart of Berlin,Entire home/apt,3,170150638,$70.00 ,2025-01-13T21:16:54Z,2025-01-13T21:16:54Z
+39388973,https://www.airbnb.com/rooms/39388973,Great private room in new apartment Friedrichshain,Private room,5,16614328,$123.00 ,2025-01-13T21:13:34Z,2025-01-13T21:13:34Z
+41678215,https://www.airbnb.com/rooms/41678215,Quiet private bedroom with Terrace in Neukölln,Private room,2,12510463,$35.00 ,2025-01-13T20:57:38Z,2025-01-13T20:57:38Z
+44044741,https://www.airbnb.com/rooms/44044741,"Ruhige, helle 3-Zimmer Wohnung in Kreuzberg",Entire home/apt,6,234391,$150.00 ,2025-01-13T20:54:40Z,2025-01-13T20:54:40Z
+8841678,https://www.airbnb.com/rooms/8841678,Cosy bedroom and nice living room,Entire home/apt,2,46303349,$22.00 ,2025-01-13T20:48:40Z,2025-01-13T20:48:40Z
+17279533,https://www.airbnb.com/rooms/17279533,Cozy Room in Neukölln,Private room,4,36228447,$21.00 ,2025-01-13T20:34:01Z,2025-01-13T20:34:01Z
+42059370,https://www.airbnb.com/rooms/42059370,"Apartment ""1st class""",Entire home/apt,1,87442687,$48.00 ,2025-01-13T20:20:07Z,2025-01-13T20:20:07Z
+52302585,https://www.airbnb.com/rooms/52302585,Wohnung im grünen Stadtteil  Biesdorf,Entire home/apt,5,162385004,$30.00 ,2025-01-13T19:50:17Z,2025-01-13T19:50:17Z
+9984839,https://www.airbnb.com/rooms/9984839,Cosy and bright House,Shared room,20,51303476,$40.00 ,2025-01-13T19:47:03Z,2025-01-13T19:47:03Z
+52276469,https://www.airbnb.com/rooms/52276469,Berlin centre Prenzlauer Berg Lime Studios$$,Entire home/apt,2,339637030,$172.00 ,2025-01-13T19:46:49Z,2025-01-13T19:46:49Z
+40123839,https://www.airbnb.com/rooms/40123839,CHIC APARTMENT IN VIBRANT NEIGHBORHOOD,Entire home/apt,2,309650840,$141.00 ,2025-01-13T19:37:53Z,2025-01-13T19:37:53Z
+49428986,https://www.airbnb.com/rooms/49428986,Central apartment  by the canal,Entire home/apt,92,4904972,$65.00 ,2025-01-13T17:48:22Z,2025-01-13T17:48:22Z
+40009819,https://www.airbnb.com/rooms/40009819,Privatzimmer mit Balkon Nähe Kuhdamm,Private room,5,10714794,$30.00 ,2025-01-13T17:41:59Z,2025-01-13T17:41:59Z
+32105164,https://www.airbnb.com/rooms/32105164,Shared room,Shared room,15,5428701,$65.00 ,2025-01-13T17:21:38Z,2025-01-13T17:21:38Z
+47268335,https://www.airbnb.com/rooms/47268335,Gemütliches Zimmer  Nähe Rathaus Neukölln,Private room,1,381695091,$30.00 ,2025-01-13T17:20:30Z,2025-01-13T17:20:30Z
+3602785,https://www.airbnb.com/rooms/3602785,Sonnige DG-Wohnung mit Balkon,Entire home/apt,1,2912028,$200.00 ,2025-01-13T17:06:50Z,2025-01-13T17:06:50Z
+36047207,https://www.airbnb.com/rooms/36047207,Stilvolles vollmöbliertes Apartment in Wedding,Entire home/apt,61,870376,$41.00 ,2025-01-13T17:03:20Z,2025-01-13T17:03:20Z
+14298906,https://www.airbnb.com/rooms/14298906,Bright room in Neukölln near Tempelhofer Feld,Private room,2,27148260,$40.00 ,2025-01-13T17:01:19Z,2025-01-13T17:01:19Z
+19760692,https://www.airbnb.com/rooms/19760692,Cozy room in Neukolln,Private room,8,50822706,$25.00 ,2025-01-13T16:54:26Z,2025-01-13T16:54:26Z
+28981283,https://www.airbnb.com/rooms/28981283,Luxury cozy Apartment in best location ( CityWest),Entire home/apt,37,218426295,$75.00 ,2025-01-13T16:47:42Z,2025-01-13T16:47:42Z
+15171415,https://www.airbnb.com/rooms/15171415,Dream Flat with Amazing View,Entire home/apt,6,93520150,$120.00 ,2025-01-13T16:41:21Z,2025-01-13T16:41:21Z
+45664384,https://www.airbnb.com/rooms/45664384,Helles Dachgeschoß in Villa - ruhig & zentral,Entire home/apt,42,72109274,$48.00 ,2025-01-13T16:25:19Z,2025-01-13T16:25:19Z
+7575220,https://www.airbnb.com/rooms/7575220,"3 rooms, 80 sqm., cosy attic-loft",Entire home/apt,2,39716890,$90.00 ,2025-01-13T16:22:00Z,2025-01-13T16:22:00Z
+22171922,https://www.airbnb.com/rooms/22171922,Designer Flat in Schoneberg-Wilmesdorf,Entire home/apt,7,55521033,$300.00 ,2025-01-13T16:07:32Z,2025-01-13T16:07:32Z
+31167428,https://www.airbnb.com/rooms/31167428,Gemütliches Apartment in Berlin/Rosenthaler Platz,Entire home/apt,2,54377152,$50.00 ,2025-01-13T15:53:16Z,2025-01-13T15:53:16Z
+42187341,https://www.airbnb.com/rooms/42187341,Home is where your heart is,Entire home/apt,55,117133393,$80.00 ,2025-01-13T15:13:08Z,2025-01-13T15:13:08Z
+7168991,https://www.airbnb.com/rooms/7168991,Kleines Zimmer in Reinickendorf,Private room,3,37549029,$15.00 ,2025-01-13T15:00:25Z,2025-01-13T15:00:25Z
+40669237,https://www.airbnb.com/rooms/40669237,Loft Berlin (Prenzlauer Berg) near Alex,Entire home/apt,3,10169408,$150.00 ,2025-01-13T14:54:56Z,2025-01-13T14:54:56Z
+51629805,https://www.airbnb.com/rooms/51629805,Calm Boho apartment in great location,Entire home/apt,5,295353406,$59.00 ,2025-01-13T14:46:10Z,2025-01-13T14:46:10Z
+50342158,https://www.airbnb.com/rooms/50342158,CENTRAL-QUIET-PRIVATE BATHROOM,Private room,5,90121086,$58.00 ,2025-01-13T14:45:41Z,2025-01-13T14:45:41Z
+44432002,https://www.airbnb.com/rooms/44432002,#502 Be my guest,Entire home/apt,4,304345361,$89.00 ,2025-01-13T14:40:24Z,2025-01-13T14:40:24Z
+22938072,https://www.airbnb.com/rooms/22938072,Lovely charming apartment Graefekiez ❣️,Entire home/apt,14,10775125,$39.00 ,2025-01-13T14:20:00Z,2025-01-13T14:20:00Z
+21446174,https://www.airbnb.com/rooms/21446174,Cosy apartment with balcony,Private room,2,25092314,$40.00 ,2025-01-13T14:13:09Z,2025-01-13T14:13:09Z
+7111882,https://www.airbnb.com/rooms/7111882,12.7. - 7.8. flat at Kottbusser Tor,Entire home/apt,14,37254922,$38.00 ,2025-01-13T14:00:26Z,2025-01-13T14:00:26Z
+13106850,https://www.airbnb.com/rooms/13106850,Schöne 2-Zimmer Wohnung mit Balkon,Entire home/apt,60,8912086,$79.00 ,2025-01-13T13:25:13Z,2025-01-13T13:25:13Z
+2885297,https://www.airbnb.com/rooms/2885297,Sunny Attic,Entire home/apt,365,14746021,$65.00 ,2025-01-13T13:10:32Z,2025-01-13T13:10:32Z
+9438521,https://www.airbnb.com/rooms/9438521,"Hübsche, gemütliche Altbauwohnung",Entire home/apt,1,48919884,$45.00 ,2025-01-13T13:06:05Z,2025-01-13T13:06:05Z
+27311858,https://www.airbnb.com/rooms/27311858,Gemütliche Altbauwohnung im Herzen von Neukölln,Entire home/apt,7,205773837,$60.00 ,2025-01-13T12:31:46Z,2025-01-13T12:31:46Z
+50018971,https://www.airbnb.com/rooms/50018971,Haus mit Garten und großer Terrasse in Wassernähe,Entire home/apt,3,403428653,$100.00 ,2025-01-13T12:23:55Z,2025-01-13T12:23:55Z
+21016546,https://www.airbnb.com/rooms/21016546,Zimmer in Berliner 2er Wg,Private room,4,109843166,$18.00 ,2025-01-13T11:59:06Z,2025-01-13T11:59:06Z
+40216009,https://www.airbnb.com/rooms/40216009,La Corniche Apartments R3EGR,Entire home/apt,3,258959731,$260.00 ,2025-01-13T11:51:43Z,2025-01-13T11:51:43Z
+43964246,https://www.airbnb.com/rooms/43964246,Ruppinerstr. 15 3.OG.,Entire home/apt,90,313797108,$41.00 ,2025-01-13T11:47:35Z,2025-01-13T11:47:35Z
+7409807,https://www.airbnb.com/rooms/7409807,_ARTIST_FLAT_,Entire home/apt,21,38824272,$48.00 ,2025-01-13T11:38:54Z,2025-01-13T11:38:54Z
+7735662,https://www.airbnb.com/rooms/7735662,wohnen in Neukölln schönster Ecke,Entire home/apt,1,40657365,$45.00 ,2025-01-13T11:14:54Z,2025-01-13T11:14:54Z
+10461373,https://www.airbnb.com/rooms/10461373,well fitted studio apartment,Entire home/apt,1,51894996,$29.00 ,2025-01-13T11:07:06Z,2025-01-13T11:07:06Z
+29961210,https://www.airbnb.com/rooms/29961210,"Gemütliche, kleine Wohnung im Herzen Berlin's",Entire home/apt,2,225263350,$56.00 ,2025-01-13T10:50:39Z,2025-01-13T10:50:39Z
+26186990,https://www.airbnb.com/rooms/26186990,Axel city with Breakfast at Axel Hotel Berlin,Hotel room,1,98159395,$143.00 ,2025-01-13T10:28:09Z,2025-01-13T10:28:09Z
+45264190,https://www.airbnb.com/rooms/45264190,"Tiny House ""Chios"" mit Seeblick",Entire home/apt,2,365715215,$85.00 ,2025-01-13T10:23:48Z,2025-01-13T10:23:48Z
+11995220,https://www.airbnb.com/rooms/11995220,Airbnb Apartment,Entire home/apt,1,64136102,$26.00 ,2025-01-13T10:11:29Z,2025-01-13T10:11:29Z
+28677551,https://www.airbnb.com/rooms/28677551,Cozy Room and nice Room,Private room,1000,30298984,$20.00 ,2025-01-13T10:10:47Z,2025-01-13T10:10:47Z
+10064621,https://www.airbnb.com/rooms/10064621,Vermiete schönes großes WG- Zimmer,Private room,1,18137582,$25.00 ,2025-01-13T10:10:36Z,2025-01-13T10:10:36Z
+42786274,https://www.airbnb.com/rooms/42786274,"2-Raum ""Blue Lagoon"", 60 qm",Entire home/apt,15,335573202,$171.00 ,2025-01-13T10:07:32Z,2025-01-13T10:07:32Z
+42636037,https://www.airbnb.com/rooms/42636037,Zimmer 5 Familienzimmer,Private room,1,316043293,$95.00 ,2025-01-13T09:57:31Z,2025-01-13T09:57:31Z
+42716392,https://www.airbnb.com/rooms/42716392,Rooftop room in heart of Friedrichshain,Private room,1,27457316,$41.00 ,2025-01-13T09:43:52Z,2025-01-13T09:43:52Z
+47376719,https://www.airbnb.com/rooms/47376719,Schönes 25 qm Zimmer mit Balkon,Private room,5,380080351,$40.00 ,2025-01-13T09:41:14Z,2025-01-13T09:41:14Z
+40612435,https://www.airbnb.com/rooms/40612435,Wohnung mitten in Berlin 4 Personen Max.,Entire home/apt,4,78385580,$55.00 ,2025-01-13T09:30:25Z,2025-01-13T09:30:25Z
+11041632,https://www.airbnb.com/rooms/11041632,Roof top on,Private room,1,57302248,$115.00 ,2025-01-13T09:08:31Z,2025-01-13T09:08:31Z
+4905886,https://www.airbnb.com/rooms/4905886,26m² room in a 120 m² flatshare,Private room,2,25257208,$32.00 ,2025-01-13T08:49:08Z,2025-01-13T08:49:08Z
+22264782,https://www.airbnb.com/rooms/22264782,***New Years***Cosy Flat in the heart of Berlin,Entire home/apt,3,162695630,$50.00 ,2025-01-13T08:38:42Z,2025-01-13T08:38:42Z
+47774928,https://www.airbnb.com/rooms/47774928,Ferienhaus für 6 Gäste mit 130m² in Berlin (145056),Entire home/apt,1,238028559,$183.00 ,2025-01-13T08:11:55Z,2025-01-13T08:11:55Z
+4556488,https://www.airbnb.com/rooms/4556488,Balcony room in Neukölln,Private room,0,15753705,$33.00 ,2025-01-13T08:11:18Z,2025-01-13T08:11:18Z
+29119987,https://www.airbnb.com/rooms/29119987,"Pure Motion Studio, 41 qm",Hotel room,2,210700814,$229.00 ,2025-01-13T08:09:40Z,2025-01-13T08:09:40Z
+52646696,https://www.airbnb.com/rooms/52646696,THE DUDE by Charly - Comfy Double room,Entire home/apt,1,421235453,$154.00 ,2025-01-13T08:06:28Z,2025-01-13T08:06:28Z
+52015881,https://www.airbnb.com/rooms/52015881,Perfectly located private room in sheared flat,Private room,3,19344446,$35.00 ,2025-01-13T07:58:31Z,2025-01-13T07:58:31Z
+9152895,https://www.airbnb.com/rooms/9152895,Schöne Wohnung in alter Brauerei,Entire home/apt,1,45072888,$65.00 ,2025-01-13T07:46:23Z,2025-01-13T07:46:23Z
+5865337,https://www.airbnb.com/rooms/5865337,"Schönes Zimmer/Nice Room, Steglitz",Private room,1,30456351,$20.00 ,2025-01-13T07:42:30Z,2025-01-13T07:42:30Z
+45115855,https://www.airbnb.com/rooms/45115855,Cozy Vintage Studio with peaceful balcony,Entire home/apt,8,77099099,$59.00 ,2025-01-13T07:37:52Z,2025-01-13T07:37:52Z
+5539755,https://www.airbnb.com/rooms/5539755,2 Zimmer Wohnung mit Balkon,Entire home/apt,1,28727915,$60.00 ,2025-01-13T07:25:43Z,2025-01-13T07:25:43Z
+5247133,https://www.airbnb.com/rooms/5247133,Nice Room in Berlin Neukölln,Private room,1,27155740,$30.00 ,2025-01-13T07:01:51Z,2025-01-13T07:01:51Z
+42671758,https://www.airbnb.com/rooms/42671758,Super clean Room in Steglitz . Very central,Private room,1,198864678,$38.00 ,2025-01-13T06:53:01Z,2025-01-13T06:53:01Z
+28879430,https://www.airbnb.com/rooms/28879430,Panorama Room In The Center Of West Berlin,Hotel room,1,212377709,$425.00 ,2025-01-13T06:51:04Z,2025-01-13T06:51:04Z
+42491498,https://www.airbnb.com/rooms/42491498,Cozy and quiet place to stay!,Private room,4,74871754,$30.00 ,2025-01-13T06:48:44Z,2025-01-13T06:48:44Z
+50234667,https://www.airbnb.com/rooms/50234667,Big Flat in Kreuzberg with balcony,Private room,3,205976061,$49.00 ,2025-01-13T06:26:33Z,2025-01-13T06:26:33Z
+38261816,https://www.airbnb.com/rooms/38261816,quiet apartment with terrace in middle of green,Entire home/apt,60,289573026,$60.00 ,2025-01-13T06:13:04Z,2025-01-13T06:13:04Z
+20407965,https://www.airbnb.com/rooms/20407965,Modern cozy flat share in central Berlin,Private room,2,12138510,$120.00 ,2025-01-13T05:53:12Z,2025-01-13T05:53:12Z
+7599452,https://www.airbnb.com/rooms/7599452,Central Berlin Hugh Luxury Apt,Entire home/apt,3,1086128,$125.00 ,2025-01-13T05:47:01Z,2025-01-13T05:47:01Z
+52005535,https://www.airbnb.com/rooms/52005535,ArtStyle im Bötzowviertel,Private room,10,316048468,$28.00 ,2025-01-13T05:21:35Z,2025-01-13T05:21:35Z
+48856187,https://www.airbnb.com/rooms/48856187,Piso en el corazón de Berlín (very central),Private room,15,249285910,$25.00 ,2025-01-13T05:16:51Z,2025-01-13T05:16:51Z
+51163216,https://www.airbnb.com/rooms/51163216,Comfort Zimmer,Private room,1,414039130,$110.00 ,2025-01-13T05:05:08Z,2025-01-13T05:05:08Z
+21467204,https://www.airbnb.com/rooms/21467204,Wohnung in  Herzen Friedrichshain,Entire home/apt,1,155753831,$59.00 ,2025-01-13T05:00:35Z,2025-01-13T05:00:35Z
+30596828,https://www.airbnb.com/rooms/30596828,Cozy room with ensuite bathroom,Private room,4,9422896,$25.00 ,2025-01-13T04:49:42Z,2025-01-13T04:49:42Z
+40575987,https://www.airbnb.com/rooms/40575987,Cozy living room in heart of berlin,Private room,1,314417163,$98.00 ,2025-01-13T04:14:54Z,2025-01-13T04:14:54Z
+52119509,https://www.airbnb.com/rooms/52119509,Schöne Altbauwohnung in Berlin - Westend,Entire home/apt,2,138228310,$50.00 ,2025-01-13T04:06:59Z,2025-01-13T04:06:59Z
+16041518,https://www.airbnb.com/rooms/16041518,Berlin Lounge am Brandenburger Tor/Potsdamer Platz,Entire home/apt,180,1199044,$65.00 ,2025-01-13T04:00:46Z,2025-01-13T04:00:46Z
+47485259,https://www.airbnb.com/rooms/47485259,"Schönes, helles DZ, ruhig und zentral mit Terrasse",Private room,1,291818104,$69.00 ,2025-01-13T03:55:37Z,2025-01-13T03:55:37Z
+42059333,https://www.airbnb.com/rooms/42059333,Cuba apartment,Entire home/apt,1,87442687,$58.00 ,2025-01-13T03:32:38Z,2025-01-13T03:32:38Z
+11576991,https://www.airbnb.com/rooms/11576991,Schöne Wohnung in Berlins Westen,Entire home/apt,1,61195936,$60.00 ,2025-01-13T03:31:47Z,2025-01-13T03:31:47Z
+6113529,https://www.airbnb.com/rooms/6113529,2 cosy rooms just for U (center),Private room,14,22756527,$27.00 ,2025-01-13T03:25:21Z,2025-01-13T03:25:21Z
+15161998,https://www.airbnb.com/rooms/15161998,Good views!,Private room,0,96198946,$200.00 ,2025-01-13T02:58:56Z,2025-01-13T02:58:56Z
+7271972,https://www.airbnb.com/rooms/7271972,2 large rooms - Berlin,Private room,1,38074515,$110.00 ,2025-01-13T02:40:36Z,2025-01-13T02:40:36Z
+7284888,https://www.airbnb.com/rooms/7284888,Double room with bikes in Wedding,Private room,3,38148105,$40.00 ,2025-01-13T02:30:04Z,2025-01-13T02:30:04Z
+22235689,https://www.airbnb.com/rooms/22235689,Cozy room in Mitte,Private room,1,67891464,$33.00 ,2025-01-13T02:19:42Z,2025-01-13T02:19:42Z
+50118558,https://www.airbnb.com/rooms/50118558,Lovely Apartment in the Heart of Prenzlauer Berg,Entire home/apt,3,892561,$110.00 ,2025-01-13T02:00:07Z,2025-01-13T02:00:07Z
+52643602,https://www.airbnb.com/rooms/52643602,"Schöne 1,5 Zimmer Wohnung in Berlin Prenzl. Berg",Entire home/apt,3,143745627,$80.00 ,2025-01-13T01:39:43Z,2025-01-13T01:39:43Z
+23261111,https://www.airbnb.com/rooms/23261111,Altbau Home in the Heart of Kreuzberg,Private room,2,8179399,$27.00 ,2025-01-13T01:30:01Z,2025-01-13T01:30:01Z
+46847123,https://www.airbnb.com/rooms/46847123,Cozy Brand New Apartment near S-bahn,Entire home/apt,3,240774012,$50.00 ,2025-01-13T01:15:53Z,2025-01-13T01:15:53Z
+42865877,https://www.airbnb.com/rooms/42865877,KREUZBERG Room Bohemian Quarter,Private room,2,51773775,$55.00 ,2025-01-13T00:58:26Z,2025-01-13T00:58:26Z
+51904175,https://www.airbnb.com/rooms/51904175,Lovely 1 Bedroom Flat for Weekend Rental,Entire home/apt,3,420402150,$62.00 ,2025-01-13T00:55:47Z,2025-01-13T00:55:47Z
+6373325,https://www.airbnb.com/rooms/6373325,Welcome to Neukolln :D,Private room,3,33212040,$25.00 ,2025-01-13T00:38:01Z,2025-01-13T00:38:01Z
+52575214,https://www.airbnb.com/rooms/52575214,L. Gemütliche Ein-Zimmer Wohnung/ 3 Gäste,Entire home/apt,3,27952946,$59.00 ,2025-01-13T00:33:39Z,2025-01-13T00:33:39Z
+19337121,https://www.airbnb.com/rooms/19337121,Altbauzimmer in unmittelbarer Nähe zum Müggelsee!,Private room,2,4249784,$35.00 ,2025-01-13T00:15:56Z,2025-01-13T00:15:56Z
+46236443,https://www.airbnb.com/rooms/46236443,Central located apartment with balcony,Entire home/apt,5,34042528,$70.00 ,2025-01-13T00:08:22Z,2025-01-13T00:08:22Z
+40837597,https://www.airbnb.com/rooms/40837597,3-room apartment in Berlin Wedding,Entire home/apt,1,16228053,$75.00 ,2025-01-13T00:07:59Z,2025-01-13T00:07:59Z
+24671565,https://www.airbnb.com/rooms/24671565,Einfamilienhaus in Hohenschönhausen,Entire home/apt,60,79533499,$71.00 ,2025-01-13T00:06:36Z,2025-01-13T00:06:36Z
+1588899,https://www.airbnb.com/rooms/1588899,nice room in the heart of Kreuzberg,Private room,1,4159856,$30.00 ,2025-01-13T00:04:07Z,2025-01-13T00:04:07Z
