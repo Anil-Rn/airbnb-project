@@ -33,3 +33,18 @@ First, install the required dependencies for the project in "editable mode" to a
 
 ```bash
 pip install -e ".[dev]"
+```
+
+### Run and materialize the assets
+
+First, navigate to the project root folder and execute the following command:
+
+```bash
+  dagster dev
+```
+
+### Test the assets for data quality
+
+```bash
+  pytest airbnb_project\airbnb_tests\test_assets.py
+```
