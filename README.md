@@ -8,7 +8,7 @@ This project processes raw Airbnb listings and host data, cleanses and transform
 
 1. **Bronze Layer**: Raw data from CSV files in `airbnb/data/bronze/` folder.
 2. **Silver Layer**: Cleaned and transformed data, with additional fields and partitioning applied in `airbnb/data/silver/` folder.
-3. **Gold Layer**: Fully enriched dataset, combining both listings and hosts data, ready for analytics or reporting in `airbnb/data/gold/` folder..
+3. **Gold Layer**: Fully enriched dataset, combining both listings and hosts data, ready for analytics or reporting in `airbnb/data/gold/` folder.
 
 ### Core Data Assets
 - **Hosts Data (Silver)**: Cleansed data with proper transformations and handling of missing values.
@@ -48,6 +48,8 @@ Then visit the [Dagster UI](http://localhost:3000/) to view the data lineage and
 
 ### Test the assets for data quality
 
+Execute the following command from the project root folder:
+
 ```bash
-  pytest airbnb_project\airbnb_tests\test_assets.py
+  pytest airbnb_tests\test_assets.py
 ```
