@@ -27,7 +27,7 @@ The `listings_silver` asset processes the raw Listings data from the `listings_b
 - **Column Filtering**: The dataset is reduced to the following columns: `id`, `name`, `room_type`, `minimum_nights`, `host_id`, `price`, `created_at`, `updated_at`.
 - **Renaming**: The `id` column is renamed to `listing_id`, and `name` is renamed to `listing_name`.
 - **Date Parsing**: The `created_at` and `updated_at` columns are converted to datetime.
-- **Partitioning**: A new column `hour_partition` is created, partitioning the data by hour based on the `created_at` column.
+- **Partitioning**: The data is partitioned by hour based on the `created_at` column.
 
 ### Output:
 A DataFrame with cleaned and partitioned Listings data.
@@ -42,6 +42,7 @@ The `listings_w_hosts_gold` asset merges the transformed Listings data from `lis
 - **Join**: The `listings_silver` DataFrame is merged with the `hosts_silver` DataFrame on the `host_id` column.
 - **Handling of `updated_at`**: The `updated_at` column is calculated as the maximum of `updated_at_x` (from Listings) and `updated_at_y` (from Hosts).
 - **Final Column Selection**: The dataset is reduced to the following columns: `listing_id`, `listing_name`, `room_type`, `minimum_nights`, `price`, `host_id`, `host_name`, `is_superhost`, `created_at`, and `updated_at`.
+- **Partitioning**: The data is partitioned by hour based on the `created_at` column.
 
 ### Output:
 A fully enriched DataFrame with combined Listings and Hosts data, ready for downstream use.

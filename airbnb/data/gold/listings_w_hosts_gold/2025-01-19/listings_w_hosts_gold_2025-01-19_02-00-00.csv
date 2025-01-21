@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+43568803,Altbau Studio Oasis in the Heart of Schöneberg,Entire home/apt,5,62.0,35594166,,,2025-01-19 02:18:19+00:00,2025-01-19 02:18:19
+6241243,Large sunny room in Kreuzberg,Private room,3,30.0,32052575,Paola,f,2025-01-19 02:09:13+00:00,2025-01-19 02:09:13
+43412876,Tolle 2 Zi Wohnung in begehrter Lage,Entire home/apt,90,50.0,345964111,Kristian,f,2025-01-19 02:04:51+00:00,2025-01-19 02:04:51

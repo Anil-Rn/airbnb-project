@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+52643602,"Schöne 1,5 Zimmer Wohnung in Berlin Prenzl. Berg",Entire home/apt,3,80.0,143745627,Helena,f,2025-01-13 01:39:43+00:00,2025-01-13 01:39:43
+23261111,Altbau Home in the Heart of Kreuzberg,Private room,2,27.0,8179399,Isabel,f,2025-01-13 01:30:01+00:00,2025-01-13 01:30:01
+46847123,Cozy Brand New Apartment near S-bahn,Entire home/apt,3,50.0,240774012,Meredith,f,2025-01-13 01:15:53+00:00,2025-01-13 01:15:53

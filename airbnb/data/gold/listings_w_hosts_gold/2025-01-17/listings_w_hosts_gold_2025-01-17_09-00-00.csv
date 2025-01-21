@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+11500564,Private Room in shared flat,Private room,4,23.0,21158428,Julie,f,2025-01-17 09:36:21+00:00,2025-01-17 09:36:21
+7560826,schöne Wohnung für eine Familie,Entire home/apt,1,65.0,39634813,Uta,f,2025-01-17 09:28:27+00:00,2025-01-17 09:28:27
+45444989,On top of Berlin,Entire home/apt,1,50.0,154653929,Stefan,f,2025-01-17 09:05:17+00:00,2025-01-17 09:05:17
+49972317,Cozy and Calm room in Shared Flat,Private room,5,11.0,17204519,Suzan,f,2025-01-17 09:03:33+00:00,2025-01-17 09:03:33

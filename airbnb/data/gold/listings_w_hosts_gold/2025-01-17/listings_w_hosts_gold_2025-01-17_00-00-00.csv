@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+35376292,Schön 2-Raum Wohnung mit 58qm und Balkon in Berlin,Entire home/apt,5,90.0,76959766,Tomi,f,2025-01-17 00:49:40+00:00,2025-01-17 00:49:40
+40676062,Wunderschöne Wohnung im Herzen Berlins.,Entire home/apt,7,32.0,315582894,Katrin,f,2025-01-17 00:47:51+00:00,2025-01-17 00:47:51
+12349925,Sunny and quiet studio near Kudamm,Entire home/apt,90,26.0,1574908,,,2025-01-17 00:13:07+00:00,2025-01-17 00:13:07
+9250150,2 Zimmer Apartment nahe Arcaden,Entire home/apt,60,69.0,8912086,,,2025-01-17 00:03:36+00:00,2025-01-17 00:03:36

@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+21436573,"Grosszüge, Maisonette Wohnung in Berlin Neukölln",Entire home/apt,5,85.0,154459928,Cla,f,2025-01-17 15:59:36+00:00,2025-01-17 15:59:36
+40904143,Schöne 1 Zimmer Wohnung im Simon Dach Kiez,Entire home/apt,2,60.0,101316322,Andreas,f,2025-01-17 15:58:55+00:00,2025-01-17 15:58:55
+13920808,Spacious Cozy Room Close To City Center,Private room,4,46.0,38783931,,,2025-01-17 15:44:42+00:00,2025-01-17 15:44:42
+48840032,Komfortables Apartment mit 150m2,Entire home/apt,2,414.0,3003519,,,2025-01-17 15:25:25+00:00,2025-01-17 15:25:25

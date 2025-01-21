@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+24047231,"Whole Flat (1,5 rooms) near Schlesi",Entire home/apt,14,40.0,8620491,Juli,f,2025-01-14 18:48:22+00:00,2025-01-14 18:48:22
+17550868,Wohnung in Neukoelln nahe Tempelhof,Entire home/apt,1,53.0,34797363,Prem,f,2025-01-14 18:13:04+00:00,2025-01-14 18:13:04
+42522259,Zimmer 1 Familienzimmer,Private room,1,95.0,316043293,,,2025-01-14 18:10:54+00:00,2025-01-14 18:10:54

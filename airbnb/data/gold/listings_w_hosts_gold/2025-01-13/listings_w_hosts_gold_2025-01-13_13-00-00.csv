@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+13106850,Schöne 2-Zimmer Wohnung mit Balkon,Entire home/apt,60,79.0,8912086,,,2025-01-13 13:25:13+00:00,2025-01-13 13:25:13
+2885297,Sunny Attic,Entire home/apt,365,65.0,14746021,,,2025-01-13 13:10:32+00:00,2025-01-13 13:10:32
+9438521,"Hübsche, gemütliche Altbauwohnung",Entire home/apt,1,45.0,48919884,Aleksandra,f,2025-01-13 13:06:05+00:00,2025-01-13 13:06:05

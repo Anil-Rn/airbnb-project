@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+52292663,1 bedroom Apartment at the heart of Bergmannkiez,Entire home/apt,12,50.0,3776656,Florian,f,2025-01-19 06:45:18+00:00,2025-01-19 06:45:18
+32444799,Beautiful room Central Berlin,Private room,4,60.0,183729511,Philipp,f,2025-01-19 06:36:17+00:00,2025-01-19 06:36:17
+18358079,calm and nice flat in spandau,Private room,1,35.0,126621397,Samir,f,2025-01-19 06:12:28+00:00,2025-01-19 06:12:28
+52377186,NuWave Hotel Berlin - Classic Triple Room,Private room,1,127.0,421557030,,,2025-01-19 06:10:25+00:00,2025-01-19 06:10:25

@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+46270493,Super Stylish Flat in Berlin's most popular area,Entire home/apt,90,140.0,351952364,,,2025-01-16 11:21:26+00:00,2025-01-16 11:21:26
+6098801,"Nice, bright room in PBerg",Private room,1,25.0,31647635,Charlotte,f,2025-01-16 11:20:22+00:00,2025-01-16 11:20:22
+33846826,Wohnung im Grünen in Berlin Dahlem,Entire home/apt,1,35.0,25188349,Tobias,f,2025-01-16 11:09:11+00:00,2025-01-16 11:09:11
+52381148,bedroom + private bathroom  in hip Friedrichshain,Private room,1,120.0,45719851,Julia,f,2025-01-16 11:09:02+00:00,2025-01-16 11:09:02

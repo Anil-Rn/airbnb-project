@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+11563143,Flatshare 70m2 in Fhain,Private room,4,20.0,61060190,Romain,f,2025-01-15 15:37:23+00:00,2025-01-15 15:37:23
+49120997,Charming and sunny apartment with balcony,Entire home/apt,2,60.0,91457234,Ella,f,2025-01-15 15:09:30+00:00,2025-01-15 15:09:30
+52220600,"Bestlage in Mitte, großes Apartment bis zu 7 Pax",Entire home/apt,1,179.0,216855948,,,2025-01-15 15:04:07+00:00,2025-01-15 15:04:07

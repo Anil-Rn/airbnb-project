@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+18203481,Apartment in Kreuzberg Kottbusser Tor,Shared room,2,40.0,125652413,Toni,f,2025-01-14 02:40:07+00:00,2025-01-14 02:40:07
+35671331,20-Beautiful double room apartment in Schöneberg,Entire home/apt,30,63.0,265635773,,,2025-01-14 02:39:29+00:00,2025-01-14 02:39:29
+14101211,Cosy room with GARDEN in multiculti neighbourhood,Private room,6,30.0,16825237,Maike,f,2025-01-14 02:25:35+00:00,2025-01-14 02:25:35
+10102875,Sonnige Apartment nähe UBahn,Entire home/apt,3,99.0,51843024,Berlin Innovation StreetService,f,2025-01-14 02:15:22+00:00,2025-01-14 02:15:22

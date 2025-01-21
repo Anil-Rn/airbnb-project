@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+32493376,Bright and friendly room in a beautiful area:),Private room,1,60.0,35146426,Clara,f,2025-01-18 19:18:22+00:00,2025-01-18 19:18:22
+40440916,Sunny & Spacious Flat in Kastanienallee,Entire home/apt,365,85.0,3743292,Marcelo,f,2025-01-18 19:10:07+00:00,2025-01-18 19:10:07
+30686711,Lovely Studio for one month,Entire home/apt,30,18.0,70162844,Ebram,f,2025-01-18 19:09:00+00:00,2025-01-18 19:09:00

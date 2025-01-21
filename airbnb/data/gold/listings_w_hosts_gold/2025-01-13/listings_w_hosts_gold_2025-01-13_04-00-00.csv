@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+30596828,Cozy room with ensuite bathroom,Private room,4,25.0,9422896,James,f,2025-01-13 04:49:42+00:00,2025-01-13 04:49:42
+40575987,Cozy living room in heart of berlin,Private room,1,98.0,314417163,Tobias,f,2025-01-13 04:14:54+00:00,2025-01-13 04:14:54
+52119509,Schöne Altbauwohnung in Berlin - Westend,Entire home/apt,2,50.0,138228310,Thayabaran,f,2025-01-13 04:06:59+00:00,2025-01-13 04:06:59
+16041518,Berlin Lounge am Brandenburger Tor/Potsdamer Platz,Entire home/apt,180,65.0,1199044,,,2025-01-13 04:00:46+00:00,2025-01-13 04:00:46

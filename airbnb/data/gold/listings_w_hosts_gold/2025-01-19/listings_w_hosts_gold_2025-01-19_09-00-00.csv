@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+7136371,Spacious and cosy flat in Kreuzberg,Entire home/apt,7,75.0,3410903,Theodor,f,2025-01-19 09:39:47+00:00,2025-01-19 09:39:47
+21621006,17m² quiet room in central kreuzberg,Private room,1,29.0,82245405,Klemens,f,2025-01-19 09:26:53+00:00,2025-01-19 09:26:53
+19689677,Comfy east side,Entire home/apt,1,50.0,138694757,Jenny,f,2025-01-19 09:26:31+00:00,2025-01-19 09:26:31

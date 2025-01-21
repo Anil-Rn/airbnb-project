@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+43740730,Big 3-room apartment in Friedrichshain,Entire home/apt,3,100.0,15855118,Stinne Maria,f,2025-01-16 08:45:53+00:00,2025-01-16 08:45:53
+5727201,Cosy room in lively Neukolln,Private room,1,38.0,9964887,Ella,f,2025-01-16 08:42:20+00:00,2025-01-16 08:42:20
+51721500,Einzel-appartement in Potsdamer Platz,Entire home/apt,3,64.0,419013732,Alfouad,f,2025-01-16 08:12:03+00:00,2025-01-16 08:12:03

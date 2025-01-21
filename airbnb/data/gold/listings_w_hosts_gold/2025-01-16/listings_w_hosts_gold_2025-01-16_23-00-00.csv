@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+41178509,Cozy room in the heart of Friedrichshain,Private room,2,65.0,322819820,Yujing,f,2025-01-16 23:43:58+00:00,2025-01-16 23:43:58
+20613393,Berlin with Family,Entire home/apt,3,99.0,147333604,B,f,2025-01-16 23:19:41+00:00,2025-01-16 23:19:41
+24662962,Holidays in the heart of East Berlin,Entire home/apt,6,99.0,5237204,Chri,f,2025-01-16 23:16:51+00:00,2025-01-16 23:16:51
+36438388,Central Berlin | architects apartment,Entire home/apt,4,127.0,37267757,Nikolas,f,2025-01-16 23:15:16+00:00,2025-01-16 23:15:16

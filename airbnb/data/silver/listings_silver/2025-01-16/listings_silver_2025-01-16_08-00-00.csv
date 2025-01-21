@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,host_id,price,created_at,updated_at
+43740730,Big 3-room apartment in Friedrichshain,Entire home/apt,3,15855118,100.0,2025-01-16 08:45:53+00:00,2025-01-16 08:45:53+00:00
+5727201,Cosy room in lively Neukolln,Private room,1,9964887,38.0,2025-01-16 08:42:20+00:00,2025-01-16 08:42:20+00:00
+51721500,Einzel-appartement in Potsdamer Platz,Entire home/apt,3,419013732,64.0,2025-01-16 08:12:03+00:00,2025-01-16 08:12:03+00:00

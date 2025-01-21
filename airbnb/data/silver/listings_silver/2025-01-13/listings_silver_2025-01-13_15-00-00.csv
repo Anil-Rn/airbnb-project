@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,host_id,price,created_at,updated_at
+31167428,Gemütliches Apartment in Berlin/Rosenthaler Platz,Entire home/apt,2,54377152,50.0,2025-01-13 15:53:16+00:00,2025-01-13 15:53:16+00:00
+42187341,Home is where your heart is,Entire home/apt,55,117133393,80.0,2025-01-13 15:13:08+00:00,2025-01-13 15:13:08+00:00
+7168991,Kleines Zimmer in Reinickendorf,Private room,3,37549029,15.0,2025-01-13 15:00:25+00:00,2025-01-13 15:00:25+00:00

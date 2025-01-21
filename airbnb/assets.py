@@ -27,7 +27,8 @@ def hosts_silver():
     hosts_df['updated_at'] = pd.to_datetime(hosts_df['updated_at'], format='%d-%m-%y %H:%M')
     
     # Materialize (save as CSV)
-    materialized_file = os.path.join(silver_dir, 'hosts_silver.csv')
+    table = 'hosts_silver'
+    materialized_file = os.path.join(silver_dir, f'{table}.csv')
     hosts_df.to_csv(materialized_file, index=False)
 
     return hosts_df
@@ -54,12 +55,19 @@ def listings_silver():
     listings_df['created_at'] = pd.to_datetime(listings_df['created_at'])
     listings_df['updated_at'] = pd.to_datetime(listings_df['updated_at'])
     
-    # **Partitioning by hour based on the 'created_at' column**
-    listings_df['hour_partition'] = listings_df['created_at'].dt.floor('h')  # Round down to the nearest hour
-    
-    # Materialize (save as CSV)
-    materialized_file = os.path.join(silver_dir, 'listings_silver.csv')
-    listings_df.to_csv(materialized_file, index=False)
+    table = 'listings_silver'
+    # Iterate over each unique hour partition and save as separate CSV files in the respective date folder
+    for partition, group in listings_df.groupby(listings_df['created_at'].dt.floor('h')):
+
+        partition_date = partition.strftime('%Y-%m-%d')
+        
+        date_folder = os.path.join(silver_dir, table, partition_date)
+        os.makedirs(date_folder, exist_ok=True)
+        
+        partition_str = partition.strftime('%Y-%m-%d_%H-%M-%S')
+        materialized_file = os.path.join(date_folder, f'{table}_{partition_str}.csv')
+        
+        group.to_csv(materialized_file, index=False)
 
     return listings_df
 
@@ -85,8 +93,18 @@ def listings_w_hosts_gold(listings_silver: pd.DataFrame, hosts_silver: pd.DataFr
     merged_df = merged_df[['listing_id', 'listing_name', 'room_type', 'minimum_nights', 'price', 
                           'host_id', 'host_name', 'is_superhost', 'created_at', 'updated_at']]
     
-    # Materialize (save as CSV)
-    materialized_file = os.path.join(gold_dir, 'listings_w_hosts_gold.csv')
-    merged_df.to_csv(materialized_file, index=False)
+    table = 'listings_w_hosts_gold'
+    # Iterate over each unique hour partition and save as separate CSV files in the respective date folder
+    for partition, group in merged_df.groupby(merged_df['created_at'].dt.floor('h')):
+
+        partition_date = partition.strftime('%Y-%m-%d')
+        
+        date_folder = os.path.join(gold_dir, table, partition_date)
+        os.makedirs(date_folder, exist_ok=True)
+        
+        partition_str = partition.strftime('%Y-%m-%d_%H-%M-%S')
+        materialized_file = os.path.join(date_folder, f'{table}_{partition_str}.csv')
+        
+        group.to_csv(materialized_file, index=False)
 
     return merged_df

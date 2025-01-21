@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+50953803,Ruhige helle Wohnung in Berlin Neukölln,Entire home/apt,12,40.0,150690907,Mara,f,2025-01-16 15:42:07+00:00,2025-01-16 15:42:07
+8533526,BIG and CALM STUDIO,Entire home/apt,1,45.0,16876647,David,f,2025-01-16 15:39:57+00:00,2025-01-16 15:39:57
+19222541,Central Apt at Graefekiez (Kreuzberg),Entire home/apt,7,75.0,127670604,,,2025-01-16 15:33:47+00:00,2025-01-16 15:33:47
+10979941,Furnished Room Near EastSideGallery,Private room,1,22.0,19362010,Jai,f,2025-01-16 15:18:02+00:00,2025-01-16 15:18:02

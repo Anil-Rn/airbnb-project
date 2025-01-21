@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+47112187,Sir Savigny,Hotel room,1,0.0,380683890,Sircle,f,2025-01-16 21:33:21+00:00,2025-01-16 21:33:21
+45066365,Former artist studio in the heart of Kreuzberg,Entire home/apt,3,80.0,15005811,Annabelle,f,2025-01-16 21:07:24+00:00,2025-01-16 21:07:24
+24273079,Bambushaus / Teehaus Kellinghusen,Private room,1,201.0,112519239,Ka Wing,f,2025-01-16 21:05:46+00:00,2025-01-16 21:05:46
+28879433,Deluxe Room In The Center Of West Berlin,Hotel room,1,425.0,212377709,,,2025-01-16 21:05:18+00:00,2025-01-16 21:05:18

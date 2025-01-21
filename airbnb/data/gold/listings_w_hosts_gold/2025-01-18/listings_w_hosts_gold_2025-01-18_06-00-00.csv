@@ -1,0 +1,6 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+22494396,Bedroom,Private room,3,35.0,101520347,Melanie,f,2025-01-18 06:56:50+00:00,2025-01-18 06:56:50
+36241217,Room in Berlin center,Private room,1,400.0,259317360,Domenico,f,2025-01-18 06:51:21+00:00,2025-01-18 06:51:21
+44456630,Lovely apartment in the heart of Kreuzberg,Entire home/apt,2,80.0,22582175,Blacky,f,2025-01-18 06:49:02+00:00,2025-01-18 06:49:02
+9232303,large one bedroom studio,Entire home/apt,1,46.0,1174550,Molly,f,2025-01-18 06:33:16+00:00,2025-01-18 06:33:16
+8808663,apartamento luminoso y centrico,Entire home/apt,30,74.0,46149557,Lucia,f,2025-01-18 06:04:10+00:00,2025-01-18 06:04:10

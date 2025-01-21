@@ -1,0 +1,5 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+21609334,Gemütliche Wohnung in Berlin-Friedrichshain,Shared room,5,25.0,14012917,Michael,f,2025-01-18 02:37:48+00:00,2025-01-18 02:37:48
+40450568,Gemütliche 1 Zimmer Wohnung im Herzen von Neukölln,Entire home/apt,3,72.0,105148945,Isabel,f,2025-01-18 02:10:13+00:00,2025-01-18 02:10:13
+11348253,Comfortable room at Berlin center Alexanderplatz,Private room,3,35.0,59426366,Carolina,f,2025-01-18 02:03:38+00:00,2025-01-18 02:03:38
+52786258,Apartment 7 minutes walk to Berlin Central Station,Entire home/apt,1,80.0,143456084,Luis Abel,f,2025-01-18 02:02:47+00:00,2025-01-18 02:02:47

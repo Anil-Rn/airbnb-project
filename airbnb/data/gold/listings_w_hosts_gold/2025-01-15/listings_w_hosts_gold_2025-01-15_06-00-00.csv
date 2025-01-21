@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+12148404,One room in a two rooms apartment,Private room,1,25.0,65226110,Maik,f,2025-01-15 06:58:53+00:00,2025-01-15 06:58:53
+40005459,"Comfy, child friendly home full of love for Xmas!",Entire home/apt,10,28.0,23101703,Kay,f,2025-01-15 06:53:38+00:00,2025-01-15 06:53:38
+23823848,"Big bedroom in lovely, quiet flat in Tempelhof",Private room,7,30.0,133340583,Roni,f,2025-01-15 06:26:17+00:00,2025-01-15 06:26:17

@@ -1,0 +1,4 @@
+listing_id,listing_name,room_type,minimum_nights,price,host_id,host_name,is_superhost,created_at,updated_at
+45525090,Ocak Hotel - Superior Zimmer mehr Platz zum wohnen,Private room,1,154.0,368544059,,,2025-01-15 22:50:26+00:00,2025-01-15 22:50:26
+42716351,Kreuzberg - BerlinMall- in the heart of the City,Private room,1,47.0,13055420,Nicolas,f,2025-01-15 22:30:11+00:00,2025-01-15 22:30:11
+18298702,Apartment in the heart of berlin,Entire home/apt,14,80.0,45151605,Maike,f,2025-01-15 22:24:31+00:00,2025-01-15 22:24:31
