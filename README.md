@@ -42,7 +42,7 @@ First, navigate to the project root folder and execute the following command:
 ```bash
   dagster dev
 ```
-Then visit the [Dagster UI]{http://localhost:3000/) to view the data lineage and materialize the tables.
+Then visit the [Dagster UI](http://localhost:3000/) to view the data lineage and materialize the tables.
 
 ### Test the assets for data quality
 
